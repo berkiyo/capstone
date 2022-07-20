@@ -1,0 +1,2446 @@
+Wire List
+
+<<< Component List >>>
+TEST POINT                      1P0V           TESTPOINT1
+TEST POINT                      1P3V_A         TESTPOINT1
+TEST POINT                      1P3V_B         TESTPOINT1
+TEST POINT                      1P8V_CLK       TESTPOINT1
+TEST POINT                      1V8            TESTPOINT1
+TEST POINT                      1V8_2          TESTPOINT1
+TEST POINT                      1V35           TESTPOINT1
+75                              98             2-0402
+10uF                            137            FP-GRM188-0_15-MFG
+TEST POINT                      ADC            TESTPOINT1
+0.1uF                           C1             CAPC0603X33N
+0.01uF                          C2             CAPC0603X33N
+10uF                            C3             FP-GRM188-0_1-e0_2_0_55-IPC_C
+10uF                            C4             FP-GRM188-0_1-e0_2_0_55-IPC_C
+0.1uF                           C5             CAPC0603X33N
+0.1uF                           C6             CAPC0603X33N
+0.1uF                           C7             CAPC0603X33N
+0.1uF                           C8             CAPC0603X33N
+10uF                            C9             CAPC0603X33N
+0.1uF                           C10            CAPC0603X33N
+47uF                            C11            TAYO-JMK212BBJ476MG-T_L
+0.01uF                          C12            CAPC0603X33N
+0.1uF                           C13            FP-GRM188-0_15-MFG
+10uF                            C14            FP-GRM188-0_1-e0_2_0_55-IPC_C
+10uF                            C15            FP-GRM188-0_1-e0_2_0_55-IPC_C
+0.1uF                           C16            CAPC0603X33N
+47uH                            C17            TAYO-JMK212BBJ476MG-T_L
+0.1uF                           C18            CAPC0603X33N
+47uH                            C19            TAYO-JMK212BBJ476MG-T_L
+47uH                            C20            TAYO-JMK212BBJ476MG-T_L
+47uH                            C21            TAYO-JMK212BBJ476MG-T_L
+10uF                            C22            FP-GRM188-0_1-e0_2_0_55-IPC_C
+0.01uF                          C23            CAPC0603X33N
+0.01uF                          C24            CAPC0603X33N
+0.1uF                           C25            CAPC0603X33N
+0.01uF                          C26            CAPC0603X33N
+0.01uF                          C27            CAPC0603X33N
+1uF                             C28            FP-0402-L_1_0_0_05-W_0_5-IPC_
+1uF                             C29            FP-0402-L_1_0_0_05-W_0_5-IPC_
+1uF                             C30            FP-0402-L_1_0_0_05-W_0_5-IPC_
+1uF                             C31            FP-0402-L_1_0_0_05-W_0_5-IPC_
+10uF                            C32            FP-GRM188-0_1-e0_2_0_55-IPC_C
+0.1uF                           C33            CAPC0603X33N
+1uF                             C34            FP-0402-L_1_0_0_05-W_0_5-IPC_
+1uF                             C35            FP-0402-L_1_0_0_05-W_0_5-IPC_
+1uF                             C36            FP-0402-L_1_0_0_05-W_0_5-IPC_
+1uF                             C37            FP-0402-L_1_0_0_05-W_0_5-IPC_
+1uF                             C38            FP-0402-L_1_0_0_05-W_0_5-IPC_
+0.01uF                          C39            CAPC0603X33N
+0.01uF                          C40            CAPC0603X33N
+0.01uF                          C41            CAPC0603X33N
+0.01uF                          C42            CAPC0603X33N
+0.01uF                          C43            CAPC0603X33N
+0.01uF                          C44            CAPC0603X33N
+1uF                             C45            FP-0402-L_1_0_0_05-W_0_5-IPC_
+0.1uF                           C46            CAPC0603X33N
+0.1uF                           C47            CAPC0603X33N
+100uF                           C49            CAPC3216X190X55ML30T25
+4.7uF                           C50            FP-C1005-050-0_15-MFG
+0.47uF                          C51            FP-C1005-050-0_15-MFG
+0.1uF                           C52            CAPC0603X33N
+0.01uF                          C53            CAPC0603X33N
+100uF                           C54            CAPC3216X190X55ML30T25
+4.7uF                           C55            FP-C1005-050-0_15-MFG
+0.47uF                          C56            FP-C1005-050-0_15-MFG
+0.47uF                          C57            FP-C1005-050-0_15-MFG
+0.47uF                          C58            FP-C1005-050-0_15-MFG
+0.47uF                          C59            FP-C1005-050-0_15-MFG
+0.1uF                           C60            CAPC0603X33N
+0.01uF                          C61            CAPC0603X33N
+0.01uF                          C62            CAPC0603X33N
+0.01uF                          C63            CAPC0603X33N
+100uF                           C64            CAPC3216X190X55LL30T25
+47uF                            C65            TAYO-JMK212BBJ476MG-T_L
+4.7uF                           C66            FP-C1005-050-0_15-MFG
+4.7uF                           C67            FP-C1005-050-0_15-MFG
+0.47uF                          C68            FP-C1005-050-0_15-MFG
+0.47uF                          C69            FP-C1005-050-0_15-MFG
+0.47uF                          C70            FP-C1005-050-0_15-MFG
+100uF                           C71            CAPC3216X190X55LL30T25
+0.47uF                          C72            FP-C1005-050-0_15-MFG
+4.7uF                           C73            FP-C1005-050-0_15-MFG
+0.47uF                          C74            FP-C1005-050-0_15-MFG
+0.47uF                          C75            FP-C1005-050-0_15-MFG
+100uF                           C76            CAPC3216X190X55LL30T25
+4.7uF                           C78            FP-C1005-050-0_15-MFG
+10uF                            C79            FP-GRM188-0_1-e0_2_0_55-IPC_A
+0.01uF                          C80            CAPC0603X33N
+0.22UF                          C81            CAP_U_0805_KNO
+10uF                            C82            FP-GRM188-0_1-e0_2_0_55-IPC_A
+10uF                            C83            FP-GRM188-0_1-e0_2_0_55-IPC_A
+0.01uF                          C84            CAPC0603X33N
+47uF                            C85            TAYO-JMK212BBJ476MG-T_L
+4.7uF                           C86            FP-C1005-050-0_15-MFG
+4.7uF                           C87            FP-C1005-050-0_15-MFG
+0.47uF                          C88            FP-C1005-050-0_15-MFG
+0.47uF                          C89            FP-C1005-050-0_15-MFG
+0.47uF                          C90            FP-C1005-050-0_15-MFG
+0.1uF                           C91            CAPC0603X33N
+0.1uF                           C92            CAPC0603X33N
+0.47uF                          C93            FP-C1005-050-0_15-MFG
+0.1uF                           C94            CAPC0603X33N
+0.1uF                           C95            CAPC0603X33N
+0.1uF                           C96            CAPC0603X33N
+0.1uF                           C97            CAPC0603X33N
+0.1uF                           C98            CAPC0603X33N
+100uF                           C100           CAPC3216X190X55ML30T25
+4.7uF                           C101           FP-C1005-050-0_15-MFG
+0.01uF                          C102           CAPC0603X33N
+47uF                            C103           TAYO-JMK212BBJ476MG-T_L
+47uF                            C104           TAYO-JMK212BBJ476MG-T_L
+4.7uF                           C105           FP-C1005-050-0_15-IPC_C
+4.7uF                           C106           FP-C1005-050-0_15-IPC_C
+4.7uF                           C107           FP-C1005-050-0_15-IPC_C
+4.7uF                           C108           FP-C1005-050-0_15-IPC_C
+0.47uF                          C109           FP-C1005-050-0_15-MFG
+0.47uF                          C110           FP-C1005-050-0_15-MFG
+0.47uF                          C111           FP-C1005-050-0_15-MFG
+0.47uF                          C112           FP-C1005-050-0_15-MFG
+0.47uF                          C113           FP-C1005-050-0_15-MFG
+0.47uF                          C114           FP-C1005-050-0_15-MFG
+0.47uF                          C115           FP-C1005-050-0_15-MFG
+0.47uF                          C116           FP-C1005-050-0_15-MFG
+0.1uF                           C117           CAPC0603X33N
+0.1uF                           C118           CAPC0603X33N
+0.01uF                          C119           CAPC0603X33N
+0.01uF                          C120           CAPC0603X33N
+10uF                            C121           FP-GRM188-0_1-e0_2_0_55-IPC_C
+0.1uF                           C122           CAPC0603X33N
+1uF                             C123           FP-0402-L_1_0_0_05-W_0_5-IPC_
+0.001uF                         C125           FP-GRM033-0_03-MFG
+1uF                             C126           FP-0402-L_1_0_0_05-W_0_5-IPC_
+1uF                             C127           FP-0402-L_1_0_0_05-W_0_5-IPC_
+0.001uF                         C128           FP-GRM033-0_03-MFG
+0.001uF                         C129           FP-GRM033-0_03-MFG
+18pF                            C130           FP-GRM033-0_03-IPC_A
+18pF                            C131           FP-GRM033-0_03-IPC_A
+18pF                            C132           FP-GRM033-0_03-IPC_A
+18pF                            C133           FP-GRM033-0_03-IPC_A
+18pF                            C134           FP-GRM033-0_03-IPC_A
+10uF                            C135           FP-GRM188-0_15-MFG
+10uF                            C136           FP-GRM188-0_15-MFG
+10uF                            C138           FP-GRM188-0_15-MFG
+0.047uF                         C139           FP-GCM155-0_05-IPC_C
+1uF                             C140           CAPC1005X55N
+1uF                             C141           FP-0402-L_1_0_0_05-W_0_5-IPC_
+150pF                           C142           FP-GCM155-0_05-IPC_C
+180pF                           C143           CAPC1005X55N
+0.0033uF                        C144           FP-CC0402-MFG
+47uF                            C145           TAYO-JMK212BBJ476MG-T_L
+22uF                            C146           CAPC2012X95N
+5.6nF                           C147           CAPC1005X56X25NL10T15
+47uF                            C148           TAYO-JMK212BBJ476MG-T_L
+100uF                           C149           CAPC3216X190X55ML30T25
+100uF                           C150           CAPC3216X190X55ML30T25
+10uF                            C151           FP-GRM188-0_1-e0_2_0_55-IPC_A
+10uF                            C152           FP-GRM188-0_1-e0_2_0_55-IPC_A
+1uF                             C154           CAPC1005X55N
+10uF                            C155           FP-GRM188-0_1-e0_2_0_55-IPC_C
+18pF                            C156           FP-GRM033-0_03-IPC_A
+18pF                            C157           FP-GRM033-0_03-IPC_A
+0.1uF                           C163           CAPC0603X33N
+0.1uF                           C164           CAPC0603X33N
+2.2uF                           C165           CAPC1608X100N
+0.001uF                         C166           FP-GRM033-0_03-MFG
+10uF                            C167           FP-GRM188-0_1-e0_2_0_55-IPC_C
+1uF                             C168           CAPC1005X55N
+1uF                             C169           FP-0402-L_1_0_0_05-W_0_5-IPC_
+1uF                             C170           FP-0402-L_1_0_0_05-W_0_5-IPC_
+2.2uF                           C171           FP-GRM188-0_2-IPC_C
+2.2uF                           C172           FP-GRM188-0_2-IPC_C
+10uF                            C173           FP-GRM188-0_15-MFG
+4.7uF                           C174           FP-C1005-050-0_15-MFG
+18pF                            C175           FP-GRM033-0_03-IPC_A
+18pF                            C176           FP-GRM033-0_03-IPC_A
+0.47uF                          C178           FP-C1005-050-0_15-MFG
+0.01uF                          C179           CAPC0603X33N
+0.01uF                          C180           CAPC0603X33N
+2.2uF                           C182           FP-GRM188-0_2-MFG
+0.1uF                           C183           FP-CL10-IPC_A
+47uF                            C184           TAYO-JMK212BBJ476MG-T_L
+47uF                            C185           TAYO-JMK212BBJ476MG-T_L
+0.1uF                           C186           CAPC1005X55N
+0.01uF                          C187           CAPC0603X33N
+0.1uF                           C188           CAPC0603X33N
+0.1uF                           C189           CAPC0603X33N
+0.1uF                           C190           CAPC0603X33N
+0.01uF                          C191           CAPC0603X33N
+1uF                             C192           FP-0402-L_1_0_0_05-W_0_5-IPC_
+0.001uF                         C193           FP-GRM033-0_03-MFG
+0.001uF                         C194           FP-GRM033-0_03-MFG
+10uF                            C195           FP-GRM188-0_15-MFG
+47pF                            C196           CAPC1005X55N
+47pF                            C197           CAPC1005X55N
+2.2uF                           C198           FP-GRM188-0_2-MFG
+1uF                             C199           FP-0402-L_1_0_0_05-W_0_5-IPC_
+1uF                             C200           FP-0402-L_1_0_0_05-W_0_5-IPC_
+0.1uF                           C201           CAPC0603X33N
+0.1uF                           C202           CAPC0603X33N
+0.1uF                           C203           CAPC0603X33N
+47pF                            C204           CAPC1005X55N
+0.01uF                          C205           CAPC0603X33N
+0.1uF                           C206           CAPC0603X33N
+0.001uF                         C207           FP-GRM033-0_03-MFG
+0.1uF                           C208           CAPC0603X33N
+10uF                            C209           FP-GRM188-0_15-MFG
+2.2uF                           C210           FP-GRM188-0_2-IPC_C
+0.1uF                           C211           FP-CL10-IPC_A
+0.1uF                           C212           FP-CL10-IPC_A
+2.2uF                           C215           CAPC1608X100N
+U.FL-R-SMT-1(01)                CLK_IN         CONN_-SMT-1(01)
+U.FL-R-SMT-1(01)                CLK_OUT        CONN_-SMT-1(01)
+SP3004-04XTG                    D1             SOTFL50P160X60-6N
+SP3004-04XTG                    D2             SOTFL50P160X60-6N
+ESD8472MUT5G                    D3             ONSC-X3DFN-2-152AF-01_V
+ESD8472MUT5G                    D4             ONSC-X3DFN-2-152AF-01_V
+ESD8472MUT5G                    D7             ONSC-X3DFN-2-152AF-01_V
+ESD8472MUT5G                    D8             ONSC-X3DFN-2-152AF-01_V
+ESD8472MUT5G                    D9             ONSC-X3DFN-2-152AF-01_V
+ESD8472MUT5G                    D10            ONSC-X3DFN-2-152AF-01_V
+TEST POINT                      DAC1           TESTPOINT1
+TEST POINT                      DAC2           TESTPOINT1
+LTST-S220TBKT                   DS1            3.5X2.8X1.9
+LTST-S220TBKT                   DS2            3.5X2.8X1.9
+100OHM FERRITE                  E1             TDK-MPZ2012S101A-2_V
+100OHM FERRITE                  E2             TDK-MPZ2012S101A-2_V
+MPZ2012S601AT000                E3             TDK-MPZ2012_V
+100OHM FERRITE                  E4             TDK-MPZ2012S101A-2_V
+100OHM FERRITE                  E5             TDK-MPZ2012S101A-2_V
+100OHM FERRITE                  E6             TDK-MPZ2012S101A-2_V
+100OHM FERRITE                  E7             TDK-MPZ2012S101A-2_V
+100OHM FERRITE                  E8             TDK-MPZ2012S101A-2_V
+MPZ2012S601AT000                E9             TDK-MPZ2012_V
+0402L050SLKR                    F1             0402L010SLKR
+TEST POINT                      GND1           TESTPOINT1
+TEST POINT                      GND2           TESTPOINT1
+TEST POINT                      GND3           TESTPOINT1
+TEST POINT                      GND4           TESTPOINT1
+TEST POINT                      GPO0           TESTPOINT1
+TEST POINT                      GPO1           TESTPOINT1
+TEST POINT                      GPO2           TESTPOINT1
+TEST POINT                      GPO3           TESTPOINT1
+TEST POINT                      JTAG_BOOT      TESTPOINT1
+330nH                           L1             INDC2317X140N
+1.5uH                           L2             XFL4020152MEB
+1.5uH                           L3             XFL4020152MEB
+1uH                             L4             XFL4020102MEB
+EPL2010-271MLB                  L5             EPL2010271MLB
+DLW21HN900SQ2L                  L6             FP-DLW21HN-MFG
+330nH                           L7             INDC2317X140N
+TEST POINT                      L7N            TESTPOINT1
+330nH                           L8             INDC2317X140N
+330nH                           L9             INDC2317X140N
+TEST POINT                      L9N            TESTPOINT1
+DLW5BSM801TQ2L                  L10            FP-DLW5BS-MFG
+TEST POINT                      L10P           TESTPOINT1
+TEST POINT                      L12N           TESTPOINT1
+TEST POINT                      L24N           TESTPOINT1
+TEST POINT                      MIO0           TESTPOINT1
+TEST POINT                      MIO09          TESTPOINT1
+TEST POINT                      MIO10          TESTPOINT1
+TEST POINT                      MIO11          TESTPOINT1
+TEST POINT                      MIO48          TESTPOINT1
+TEST POINT                      MIO49          TESTPOINT1
+TEST POINT                      MIO53          TESTPOINT1
+FTSH-105-01-L-DV                P1             SMTC-FTSH-105-01-L-DV_V
+47590-0001                      P2             MOLEX_47590-0001
+47590-0001                      P3             MOLEX_47590-0001
+TEST POINT                      PG_1P3V        TESTPOINT1
+TEST POINT                      PGND           TESTPOINT1
+BSS138LT1G                      Q1             ONSC-SOT-23-3-318-08_V
+BSS138LT1G                      Q2             ONSC-SOT-23-3-318-08_V
+BSS138LT1G                      Q3             ONSC-SOT-23-3-318-08_V
+BSS138LT1G                      Q4             ONSC-SOT-23-3-318-08_V
+10                              R1             RESC0603X26X15LL03T05
+27.4K                           R2             2-0402
+46.4K                           R3             1-0201
+17.8K                           R4             2-0402
+1K                              R5             RESC0603X26X15NL03T05
+10K                             R6             RESC1005X35N
+1K                              R7             2-0402
+0                               R10            FP-ERJ1GN-IPC_A
+4.7K                            R11            2-0402
+39                              R12            2-0402
+20K                             R13            2-0402
+240                             R14            2-0402
+120                             R16            1-0201
+120                             R17            1-0201
+120                             R18            1-0201
+120                             R19            1-0201
+120                             R20            1-0201
+120                             R21            1-0201
+120                             R22            1-0201
+120                             R23            1-0201
+120                             R24            1-0201
+120                             R25            1-0201
+120                             R26            1-0201
+120                             R27            1-0201
+120                             R28            1-0201
+120                             R29            1-0201
+120                             R30            1-0201
+120                             R31            1-0201
+120                             R32            1-0201
+120                             R33            1-0201
+120                             R34            1-0201
+120                             R35            1-0201
+120                             R36            1-0201
+120                             R37            1-0201
+120                             R38            1-0201
+120                             R39            1-0201
+240                             R40            2-0402
+240                             R41            2-0402
+1K                              R42            2-0402
+0                               R43            RESC1005X40X25NL10T10
+0                               R44            RESC1005X40X25NL10T10
+0                               R45            RESC1005X40X25ML10T10
+4.7K                            R46            2-0402
+4.7K                            R47            2-0402
+470                             R48            2-0402
+14.3K                           R49            RESC0603X26X15NL03T05
+100K                            R50            FP-ERJ2RK-IPC_C
+1                               R51            RESC0603X26N
+1                               R52            RESC0603X26N
+27.4K                           R53            2-0402
+4.7K                            R54            2-0402
+10                              R56            RESC0603X26X15LL03T05
+20K                             R57            2-0402
+100K                            R59            FP-ERJ2RK-IPC_C
+10K                             R60            2-0402
+10K                             R61            2-0402
+17.8K                           R62            3-0603
+14.3K                           R63            3-0603
+46.4K                           R64            2-0402
+23.2K                           R65            2-0402
+20K                             R66            2-0402
+1K                              R67            2-0402
+2.2K                            R68            RESC1005X35N
+0                               R69            FP-ERJ1GN-MFG
+27.4K                           R70            2-0402
+100                             R71            2-0402
+8.06K                           R72            2-0402
+470                             R73            RESC1005X40X25ML05T10
+10K                             R74            2-0402
+10K                             R75            2-0402
+20K                             R76            2-0402
+9.06K                           R77            2-0402
+470                             R78            RESC1005X40X25ML05T10
+39                              R79            2-0402
+4.7K                            R80            2-0402
+39                              R81            2-0402
+39                              R82            2-0402
+20K                             R83            2-0402
+20K                             R84            2-0402
+4.7K                            R85            2-0402
+240                             R86            2-0402
+470                             R87            2-0402
+24.9K                           R88            2-0402
+4.7K                            R89            2-0402
+4.7K                            R90            2-0402
+4.7K                            R91            2-0402
+10K                             R92            2-0402
+10K                             R93            2-0402
+10K                             R94            2-0402
+39                              R95            2-0402
+49.9                            R96            RESC1608X46N
+2.2K                            R97            RESC1005X35N
+240                             R99            2-0402
+100                             R100           2-0402
+2.2K                            R101           RESC1005X35N
+39                              R102           2-0402
+2.2K                            R103           RESC1005X35N
+0                               R104           FP-ERJ1GN-MFG
+10K                             R107           2-0402
+20K                             R116           2-0402
+20K                             R119           2-0402
+20K                             R120           2-0402
+20K                             R121           2-0402
+20K                             R122           2-0402
+80.6                            R142           2-0402
+240                             R165           2-0402
+10K                             R221           2-0402
+10K                             R222           2-0402
+TEST POINT                      RX             TESTPOINT1
+132357-11                       RX1            CONN_132357-11_AMP
+132357-11                       RX2A           CONN_132357-11_AMP
+PTS840 GKP SMTR LFS             S1             FP-PTS840_GKP_SMTR_LFS-MFG
+TCM1-63AX+                      T1             FP-TCM1-63AX+-MFG
+TCM1-63AX+                      T2             FP-TCM1-63AX+-MFG
+TCM1-63AX+                      T3             FP-TCM1-63AX+-MFG
+TCM1-63AX+                      T5             FP-TCM1-63AX+-MFG
+TEST POINT                      TCK            TESTPOINT1
+TEST POINT                      TDI            TESTPOINT1
+TEST POINT                      TDO            TESTPOINT1
+TEST POINT                      TMS            TESTPOINT1
+TEST POINT                      TX             TESTPOINT1
+132357-11                       TX1A           CONN_132357-11_AMP
+132357-11                       TX2A           CONN_132357-11_AMP
+ADP1754ACPZ-1.3-R7              U1             QFN65P400X400X80-17N-D
+MT41K256M16TW-107 IT:P          U2             MICT-TW-96
+ADP2164ACPZ-R7                  U3             FP-CP-16-26-IPC_C
+XC7Z010-1CLG225C                U4             BGA225C80P15X15_1300X1300X150
+AD9363ABCZ                      U5             BC_144_7_ADI
+ADP2114ACPZ-R7                  U6             CP_32_2_ADI
+ADP1754ACPZ-1.3-R7              U7             QFN65P400X400X80-17N-D
+LTC4415EDHC#PBF                 U8             FP-DHC-16-05-08-1872-MFG
+FT230XQ-R                       U9             FP-QFN-16-MFG
+74LVC1G126GW                    U10            SOT353-1_NXP
+ADM7160ACPZN3.3-R7              U11            FP-CP-6-3-IPC_A
+ADM7160ACPZN1.8-R7              U12            FP-CP-6-3-IPC_C
+MT25QU256ABA8E12-1SIT           U13            BGA25C100P5X5_800X600X120N
+TPS51206DSQR                    U14            DSQ0010A_V
+USB3320C-EZK                    U15            MCHP-QFN-32-5x5_V2
+ADP198ACBZ-11-R7                U16            FP-CB-4-4-MFG
+LTC6957HMS-3#PBF                U17            SOP65P490X110-12N
+TEST POINT                      VDD_GPO        TESTPOINT1
+ASDMB-24.000MHZ-LC-T            Y1             XTAL_ASDMB-24.000MHZ-LC-T
+ASDMB-33.333MHZ-LC-T            Y2             XTAL_ASDMB-24.000MHZ-LC-T
+40MHZXO                         Y3             
+
+<<< Wire List >>>
+
+  NODE  REFERENCE  PIN #   PIN NAME       PIN TYPE    PART VALUE
+
+[00341] XTALN
+        C157       1       1              PASSIVE     18pF
+        C204       2       2              PASSIVE     47pF
+        U5         M12     XTALN          PASSIVE     AD9363ABCZ
+
+[00340] VTTVREF
+        C63        1       1              PASSIVE     0.01uF
+        C81        1       1              PASSIVE     0.22UF
+        C84        1       1              PASSIVE     0.01uF
+        C102       1       1              PASSIVE     0.01uF
+        U2         H1      VREFDQ         INPUT       MT41K256M16TW-107 IT:P
+        U2         M8      VREFCA         INPUT       MT41K256M16TW-107 IT:P
+        U4         F4      PS_DDR_VREF0_50POWER       XC7Z010-1CLG225C
+        U14        6       VTTREF         POWER       TPS51206DSQR
+
+[00339] VTT_0P75
+        C101       1       1              PASSIVE     4.7uF
+        R16        2       2              PASSIVE     120
+        R17        2       2              PASSIVE     120
+        R18        2       2              PASSIVE     120
+        R19        2       2              PASSIVE     120
+        R20        2       2              PASSIVE     120
+        R21        2       2              PASSIVE     120
+        R22        2       2              PASSIVE     120
+        R23        2       2              PASSIVE     120
+        R24        2       2              PASSIVE     120
+        R25        2       2              PASSIVE     120
+        R26        2       2              PASSIVE     120
+        R27        2       2              PASSIVE     120
+        R28        2       2              PASSIVE     120
+        R29        2       2              PASSIVE     120
+        R30        2       2              PASSIVE     120
+        R31        2       2              PASSIVE     120
+        R32        2       2              PASSIVE     120
+        R33        2       2              PASSIVE     120
+        R34        2       2              PASSIVE     120
+        R35        2       2              PASSIVE     120
+        R36        2       2              PASSIVE     120
+        R37        2       2              PASSIVE     120
+        R38        2       2              PASSIVE     120
+        R39        2       2              PASSIVE     120
+        R43        1       1              PASSIVE     0
+
+[00338] VIN_5V_USB_POWER
+        C182       1       1              PASSIVE     2.2uF
+        C209       1       1              PASSIVE     10uF
+        C212       1       1              PASSIVE     0.1uF
+        E9         1       1              PASSIVE     MPZ2012S601AT000
+        R70        1       1              PASSIVE     27.4K
+        R80        1       1              PASSIVE     4.7K
+        U8         1-2     IN1            POWER       LTC4415EDHC#PBF
+        U16        A1      VIN            POWER       ADP198ACBZ-11-R7
+
+[00337] VIN_5V_USB_DATA
+        C183       1       1              PASSIVE     0.1uF
+        C210       1       1              PASSIVE     2.2uF
+        E3         1       1              PASSIVE     MPZ2012S601AT000
+        F1         2       2              PASSIVE     0402L050SLKR
+        R88        1       1              PASSIVE     24.9K
+        U8         7-8     IN2            INPUT       LTC4415EDHC#PBF
+
+[00336] VIN
+        137        1       1              PASSIVE     10uF
+        C8         1       1              PASSIVE     0.1uF
+        C9         1       1              PASSIVE     10uF
+        C11        1       1              PASSIVE     47uF
+        C62        1       1              PASSIVE     0.01uF
+        C123       1       1              PASSIVE     1uF
+        C135       1       1              PASSIVE     10uF
+        C136       1       1              PASSIVE     10uF
+        C138       1       1              PASSIVE     10uF
+        C164       1       1              PASSIVE     0.1uF
+        C169       1       1              PASSIVE     1uF
+        C184       1       1              PASSIVE     47uF
+        C185       1       1              PASSIVE     47uF
+        C188       1       1              PASSIVE     0.1uF
+        C215       1       1              PASSIVE     2.2uF
+        DS1        1       A              PASSIVE     LTST-S220TBKT
+        DS2        1       A              PASSIVE     LTST-S220TBKT
+        E2         1       1              PASSIVE     100OHM FERRITE
+        E7         1       1              PASSIVE     100OHM FERRITE
+        R1         2       2              PASSIVE     10
+        R56        2       2              PASSIVE     10
+        R221       1       1              PASSIVE     10K
+        R222       1       1              PASSIVE     10K
+        U6         14      VIN4           PASSIVE     ADP2114ACPZ-R7
+        U6         15      VIN5           PASSIVE     ADP2114ACPZ-R7
+        U6         16      VIN6           PASSIVE     ADP2114ACPZ-R7
+        U6         25      VIN3           PASSIVE     ADP2114ACPZ-R7
+        U6         26      VIN2           PASSIVE     ADP2114ACPZ-R7
+        U6         27      VIN1           PASSIVE     ADP2114ACPZ-R7
+        U6         28      EN1            PASSIVE     ADP2114ACPZ-R7
+        U8         9-10    OUT2           PASSIVE     LTC4415EDHC#PBF
+        U8         15-16   OUT1           PASSIVE     LTC4415EDHC#PBF
+        U9         10      VCC            POWER       FT230XQ-R
+        U14        10      VDD            POWER       TPS51206DSQR
+        U15        21      VBAT           POWER       USB3320C-EZK
+
+[00335] VDDA1P1_RX_VCO
+        C125       1       1              PASSIVE     0.001uF
+        R51        2       2              PASSIVE     1
+        U5         G2      RX_VCO_LDO_OUT PASSIVE     AD9363ABCZ
+        U5         G3      VDDA1P1_RX_VCO PASSIVE     AD9363ABCZ
+
+[00334] VDD_INTERFACE
+        C32        1       1              PASSIVE     10uF
+        C33        1       1              PASSIVE     0.1uF
+        C38        1       1              PASSIVE     1uF
+        C43        1       1              PASSIVE     0.01uF
+        C44        1       1              PASSIVE     0.01uF
+        C45        1       1              PASSIVE     1uF
+        E4         2       2              PASSIVE     100OHM FERRITE
+        U5         H12     VDD_INTERFACE  PASSIVE     AD9363ABCZ
+
+[00333] VCCPLL
+        C85        2       2              PASSIVE     47uF
+        C178       1       1              PASSIVE     0.47uF
+        E1         2       2              PASSIVE     100OHM FERRITE
+        U4         F5      VCCPLL         POWER       XC7Z010-1CLG225C
+
+[00332] VCCPINT
+        1P0V       1       TP             PASSIVE     TEST POINT
+        C17        1       1              PASSIVE     47uH
+        C19        1       1              PASSIVE     47uH
+        C20        1       1              PASSIVE     47uH
+        C21        1       1              PASSIVE     47uH
+        C64        2       2              PASSIVE     100uF
+        C66        1       1              PASSIVE     4.7uF
+        C68        1       1              PASSIVE     0.47uF
+        C70        1       1              PASSIVE     0.47uF
+        C71        2       2              PASSIVE     100uF
+        C72        1       1              PASSIVE     0.47uF
+        C73        1       1              PASSIVE     4.7uF
+        C74        1       1              PASSIVE     0.47uF
+        C75        1       1              PASSIVE     0.47uF
+        L4         2       2              PASSIVE     1uH
+        R7         2       2              PASSIVE     1K
+        U4         E10     VCCINT         POWER       XC7Z010-1CLG225C
+        U4         F9      VCCINT         POWER       XC7Z010-1CLG225C
+        U4         G6      VCCPINT        POWER       XC7Z010-1CLG225C
+        U4         G10     VCCINT         POWER       XC7Z010-1CLG225C
+        U4         H5      VCCPINT        POWER       XC7Z010-1CLG225C
+        U4         J10     VCCINT         POWER       XC7Z010-1CLG225C
+        U4         K5      VCCPINT        POWER       XC7Z010-1CLG225C
+        U4         L10     VCCINT         POWER       XC7Z010-1CLG225C
+
+[00331] USR_LED
+        Q4         1       G              PASSIVE     BSS138LT1G
+        R75        1       1              PASSIVE     10K
+        U4         D10     PS_MIO15_500   I/O         XC7Z010-1CLG225C
+
+[00330] USR_BTN
+        R57        2       2              PASSIVE     20K
+        S1         1       1              PASSIVE     PTS840 GKP SMTR LFS
+        S1         2       2              PASSIVE     PTS840 GKP SMTR LFS
+        U4         B9      PS_MIO14_500   I/O         XC7Z010-1CLG225C
+
+[00329] USB_VBUS_OTG
+        R88        2       2              PASSIVE     24.9K
+        U15        22      VBUS           I/O         USB3320C-EZK
+
+[00328] USB_UART_TX
+        R107       2       2              PASSIVE     10K
+        U9         15      TXD            OUTPUT      FT230XQ-R
+        U10        2       A              PASSIVE     74LVC1G126GW
+
+[00327] USB_UART_P
+        C197       1       1              PASSIVE     47pF
+        D2         1       I/O_1          PASSIVE     SP3004-04XTG
+        P3         3       3              PASSIVE     47590-0001
+        R81        1       1              PASSIVE     39
+
+[00326] USB_UART_N
+        C196       1       1              PASSIVE     47pF
+        D2         6       I/O_4          PASSIVE     SP3004-04XTG
+        P3         2       2              PASSIVE     47590-0001
+        R79        2       2              PASSIVE     39
+
+[00325] USB_OTG_P
+        L6         1       1              PASSIVE     DLW21HN900SQ2L
+        U15        18      DP             I/O         USB3320C-EZK
+
+[00324] USB_OTG_N
+        L6         4       4              PASSIVE     DLW21HN900SQ2L
+        U15        19      DM             I/O         USB3320C-EZK
+
+[00323] USB_OTG_CPEN
+        U15        17      CPEN           OUTPUT      USB3320C-EZK
+        U16        B1      EN             INPUT       ADP198ACBZ-11-R7
+
+[00322] USB_ID
+        D1         3       I/O_2          PASSIVE     SP3004-04XTG
+        P2         4       4              PASSIVE     47590-0001
+        U15        23      ID             INPUT       USB3320C-EZK
+
+[00321] UART_TX
+        P1         3       3              PASSIVE     FTSH-105-01-L-DV
+        TX         1       TP             PASSIVE     TEST POINT
+        U4         B7      PS_MIO12_500   I/O         XC7Z010-1CLG225C
+        U9         2       RXD            INPUT       FT230XQ-R
+
+[00320] UART_RX
+        P1         1       1              PASSIVE     FTSH-105-01-L-DV
+        R95        2       2              PASSIVE     39
+        RX         1       TP             PASSIVE     TEST POINT
+        U4         C6      PS_MIO13_500   I/O         XC7Z010-1CLG225C
+
+[00319] TX_VCO_1P1V_SUPPLY
+        C128       1       1              PASSIVE     0.001uF
+        R52        1       1              PASSIVE     1
+        U5         A11     VDDA1P1_TX_VCO PASSIVE     AD9363ABCZ
+        U5         B11     TX_VCO_LDO_OUT PASSIVE     AD9363ABCZ
+
+[00318] TX2A_P
+        C156       1       1              PASSIVE     18pF
+        L7         1       1              PASSIVE     330nH
+        U5         A8      TX2A_P         PASSIVE     AD9363ABCZ
+
+[00317] TX2A_N
+        C130       1       1              PASSIVE     18pF
+        L1         1       1              PASSIVE     330nH
+        U5         A7      TX2A_N         PASSIVE     AD9363ABCZ
+
+[00316] TX1A_P
+        C132       1       1              PASSIVE     18pF
+        L9         1       1              PASSIVE     330nH
+        U5         M7      TX1A_P         PASSIVE     AD9363ABCZ
+
+[00315] TX1A_N
+        C131       1       1              PASSIVE     18pF
+        L8         1       1              PASSIVE     330nH
+        U5         M8      TX1A_N         PASSIVE     AD9363ABCZ
+
+[00314] RX2A_P
+        C176       2       2              PASSIVE     18pF
+        R104       1       1              PASSIVE     0
+        U5         A2      RX2A_P         PASSIVE     AD9363ABCZ
+
+[00313] RX2A_N
+        C175       2       2              PASSIVE     18pF
+        R69        1       1              PASSIVE     0
+        U5         A1      RX2A_N         PASSIVE     AD9363ABCZ
+
+[00312] RX1A_P
+        C134       2       2              PASSIVE     18pF
+        U5         M1      RX1A_P         PASSIVE     AD9363ABCZ
+
+[00311] RX1A_N
+        C133       2       2              PASSIVE     18pF
+        U5         M2      RX1A_N         PASSIVE     AD9363ABCZ
+
+[00310] PWR_CLK
+        R89        2       2              PASSIVE     4.7K
+        R90        1       1              PASSIVE     4.7K
+        U3         1       SYNC           INPUT       ADP2164ACPZ-R7
+
+[00309] PS_MIO39_501_USB0_D7
+        U4         D14     PS_MIO39_501   I/O         XC7Z010-1CLG225C
+        U15        13      DATA[7]        I/O         USB3320C-EZK
+
+[00308] PS_MIO38_501_USB0_D6
+        U4         A13     PS_MIO38_501   I/O         XC7Z010-1CLG225C
+        U15        10      DATA[6]        I/O         USB3320C-EZK
+
+[00307] PS_MIO37_501_USB0_D5
+        U4         C14     PS_MIO37_501   I/O         XC7Z010-1CLG225C
+        U15        9       DATA[5]        I/O         USB3320C-EZK
+
+[00306] PS_MIO36_501_USB0_CLK
+        U4         B14     PS_MIO36_501   I/O         XC7Z010-1CLG225C
+        U15        1       CLKOUT         HIZ         USB3320C-EZK
+
+[00305] PS_MIO35_501_USB0_D3
+        U4         A14     PS_MIO35_501   I/O         XC7Z010-1CLG225C
+        U15        6       DATA[3]        I/O         USB3320C-EZK
+
+[00304] PS_MIO34_501_USB0_D2
+        U4         D15     PS_MIO34_501   I/O         XC7Z010-1CLG225C
+        U15        5       DATA[2]        I/O         USB3320C-EZK
+
+[00303] PS_MIO33_501_USB0_D1
+        U4         C11     PS_MIO33_501   I/O         XC7Z010-1CLG225C
+        U15        4       DATA[1]        I/O         USB3320C-EZK
+
+[00302] PS_MIO32_501_USB0_D0
+        U4         E15     PS_MIO32_501   I/O         XC7Z010-1CLG225C
+        U15        3       DATA[0]        I/O         USB3320C-EZK
+
+[00301] PS_MIO31_501_USB0_NXT
+        U4         C12     PS_MIO31_501   I/O         XC7Z010-1CLG225C
+        U15        2       NXT            HIZ         USB3320C-EZK
+
+[00300] PS_MIO30_501_USB0_STP
+        U4         B15     PS_MIO30_501   I/O         XC7Z010-1CLG225C
+        U15        29      STP            INPUT       USB3320C-EZK
+
+[00299] PS_MIO29_501_USB0_DIR
+        U4         D11     PS_MIO29_501   I/O         XC7Z010-1CLG225C
+        U15        31      DIR            HIZ         USB3320C-EZK
+
+[00298] PS_MIO28_501_USB0_D4
+        U4         A15     PS_MIO28_501   I/O         XC7Z010-1CLG225C
+        U15        7       DATA[4]        I/O         USB3320C-EZK
+
+[00297] PS_MIO07_500_USB_RESET_B
+        R76        1       1              PASSIVE     20K
+        U4         A12     PS_MIO52_501   I/O         XC7Z010-1CLG225C
+        U15        27      RESETB         INPUT       USB3320C-EZK
+
+[00296] PS_MIO06_500_QSPI0_SCLK
+        R116       1       1              PASSIVE     20K
+        U4         A10     PS_MIO6_500    I/O         XC7Z010-1CLG225C
+        U13        B2      C              PASSIVE     MT25QU256ABA8E12-1SIT
+
+[00295] PS_MIO05_500_QSPI0_IO3
+        JTAG_BOOT  1       TP             PASSIVE     TEST POINT
+        P1         5       5              PASSIVE     FTSH-105-01-L-DV
+        R122       1       1              PASSIVE     20K
+        U4         A9      PS_MIO5_500    I/O         XC7Z010-1CLG225C
+        U13        D4      DQ3            PASSIVE     MT25QU256ABA8E12-1SIT
+
+[00294] PS_MIO04_500_QSPI0_IO2
+        R121       1       1              PASSIVE     20K
+        U4         C8      PS_MIO4_500    I/O         XC7Z010-1CLG225C
+        U13        C4      W#DQ2          PASSIVE     MT25QU256ABA8E12-1SIT
+
+[00293] PS_MIO03_500_QSPI0_IO1
+        R119       1       1              PASSIVE     20K
+        U4         A7      PS_MIO3_500    I/O         XC7Z010-1CLG225C
+        U13        D2      DQ1            PASSIVE     MT25QU256ABA8E12-1SIT
+
+[00292] PS_MIO02_500_QSPI0_IO0
+        R120       1       1              PASSIVE     20K
+        U4         A8      PS_MIO2_500    I/O         XC7Z010-1CLG225C
+        U13        D3      DQ0            PASSIVE     MT25QU256ABA8E12-1SIT
+
+[00291] PS_MIO01_500_QSPI0_SS_B
+        R14        2       2              PASSIVE     240
+        U4         A5      PS_MIO1_500    I/O         XC7Z010-1CLG225C
+        U13        C2      S#             PASSIVE     MT25QU256ABA8E12-1SIT
+
+[00290] PS_GPIO6
+        MIO48      1       TP             PASSIVE     TEST POINT
+        R102       1       1              PASSIVE     39
+        U4         B12     PS_MIO48_501   I/O         XC7Z010-1CLG225C
+
+[00289] PS_GPIO5
+        MIO49      1       TP             PASSIVE     TEST POINT
+        U4         D13     PS_MIO49_501   I/O         XC7Z010-1CLG225C
+
+[00288] PS_GPIO4
+        MIO53      1       TP             PASSIVE     TEST POINT
+        U4         C13     PS_MIO53_501   I/O         XC7Z010-1CLG225C
+
+[00287] PS_GPIO3
+        MIO09      1       TP             PASSIVE     TEST POINT
+        U4         B5      PS_MIO9_500    I/O         XC7Z010-1CLG225C
+
+[00286] PS_GPIO2
+        MIO11      1       TP             PASSIVE     TEST POINT
+        U4         D6      PS_MIO10_500   I/O         XC7Z010-1CLG225C
+
+[00285] PS_GPIO1
+        MIO10      1       TP             PASSIVE     TEST POINT
+        U4         B10     PS_MIO11_500   I/O         XC7Z010-1CLG225C
+
+[00284] PS_GPIO0
+        MIO0       1       TP             PASSIVE     TEST POINT
+        U4         D8      PS_MIO0_500    I/O         XC7Z010-1CLG225C
+
+[00283] PS-SRST#
+        R74        1       1              PASSIVE     10K
+        U4         B11     PS_SRST_B_501  INPUT       XC7Z010-1CLG225C
+        U13        A4      RESET#/DNU     PASSIVE     MT25QU256ABA8E12-1SIT
+
+[00282] PL_GPIO4
+        L9N        1       TP             PASSIVE     TEST POINT
+        R68        1       1              PASSIVE     2.2K
+        U4         M14     IO_L9N_T1_DQS_3I/O         XC7Z010-1CLG225C
+
+[00281] PL_GPIO3
+        L7N        1       TP             PASSIVE     TEST POINT
+        R97        1       1              PASSIVE     2.2K
+        U4         N14     IO_L7N_T1_34   I/O         XC7Z010-1CLG225C
+
+[00280] PL_GPIO2
+        L24N       1       TP             PASSIVE     TEST POINT
+        U4         R10     IO_L24N_T3_34  I/O         XC7Z010-1CLG225C
+
+[00279] PL_GPIO1
+        L12N       1       TP             PASSIVE     TEST POINT
+        U4         M12     IO_L12N_T1_MRCCI/O         XC7Z010-1CLG225C
+
+[00278] PL_GPIO0
+        L10P       1       TP             PASSIVE     TEST POINT
+        U4         K13     IO_L10P_T1_34  I/O         XC7Z010-1CLG225C
+
+[00277] PGND
+        D2         2       GND            PASSIVE     SP3004-04XTG
+        L10        4       4              PASSIVE     DLW5BSM801TQ2L
+        P3         5       5              PASSIVE     47590-0001
+        P3         SH1     SHIELD         PASSIVE     47590-0001
+        P3         SH2     SHIELD         PASSIVE     47590-0001
+        P3         SH3     SHIELD         PASSIVE     47590-0001
+        P3         SH4     SHIELD         PASSIVE     47590-0001
+        P3         SH5     SHIELD         PASSIVE     47590-0001
+        PGND       1       TP             PASSIVE     TEST POINT
+
+[00276] PG_1P35V
+        R50        1       1              PASSIVE     100K
+        R50        2       2              PASSIVE     100K
+        U1         4       EN             PASSIVE     ADP1754ACPZ-1.3-R7
+        U6         12      PGOOD2         PASSIVE     ADP2114ACPZ-R7
+        U7         4       EN             PASSIVE     ADP1754ACPZ-1.3-R7
+
+[00275] PG_1P8V
+        R59        1       1              PASSIVE     100K
+        R59        2       2              PASSIVE     100K
+        U6         13      EN2            PASSIVE     ADP2114ACPZ-R7
+        U6         29      PGOOD1         PASSIVE     ADP2114ACPZ-R7
+        U6         32      FB1            PASSIVE     ADP2114ACPZ-R7
+
+[00274] PG_1P3V
+        PG_1P3V    1       TP             PASSIVE     TEST POINT
+        R13        2       2              PASSIVE     20K
+        U1         5       PG             PASSIVE     ADP1754ACPZ-1.3-R7
+        U7         5       PG             PASSIVE     ADP1754ACPZ-1.3-R7
+        U11        4       EN             INPUT       ADM7160ACPZN3.3-R7
+        U12        4       EN             INPUT       ADM7160ACPZN1.8-R7
+
+[00273] PG_1P0V
+        R6         1       1              PASSIVE     10K
+        U3         16      PGOOD          OPEN COLLECTORADP2164ACPZ-R7
+
+[00229] NetU5_D2
+        U5         D2      VDDA1P3_RX_RF  PASSIVE     AD9363ABCZ
+        U5         E3      VDDA1P3_TX_LO_BPASSIVE     AD9363ABCZ
+
+[00217] NetR222_2
+        R222       2       2              PASSIVE     10K
+        U14        7       S3             INPUT       TPS51206DSQR
+
+[00216] NetR221_2
+        R221       2       2              PASSIVE     10K
+        U14        9       S5             INPUT       TPS51206DSQR
+
+[00215] NetR165_1
+        R165       1       1              PASSIVE     240
+        U2         L8      ZQ             INPUT       MT41K256M16TW-107 IT:P
+
+[00214] NetR94_1
+        R94        1       1              PASSIVE     10K
+        R95        1       1              PASSIVE     39
+        U10        4       Y              PASSIVE     74LVC1G126GW
+
+[00213] NetR93_1
+        R93        1       1              PASSIVE     10K
+        U9         14      CBUS3          I/O         FT230XQ-R
+        U10        1       OE             PASSIVE     74LVC1G126GW
+
+[00212] NetR86_1
+        R86        1       1              PASSIVE     240
+        U17        10      OUT1           PASSIVE     LTC6957HMS-3#PBF
+
+[00211] NetR84_2
+        R84        2       2              PASSIVE     20K
+        U4         B6      PS_MIO8_500    I/O         XC7Z010-1CLG225C
+
+[00210] NetR83_2
+        R83        2       2              PASSIVE     20K
+        U4         D9      PS_MIO7_500    I/O         XC7Z010-1CLG225C
+
+[00209] NetR82_2
+        R82        2       2              PASSIVE     39
+        Y1         3       OUTPUT         OUTPUT      ASDMB-24.000MHZ-LC-T
+
+[00208] NetR82_1
+        R82        1       1              PASSIVE     39
+        U15        26      REFCLK         INPUT       USB3320C-EZK
+
+[00207] NetR81_2
+        R81        2       2              PASSIVE     39
+        U9         6       USBDP          INPUT       FT230XQ-R
+
+[00206] NetR79_1
+        R79        1       1              PASSIVE     39
+        U9         7       USBDM          INPUT       FT230XQ-R
+
+[00205] NetR78_1
+        R78        1       1              PASSIVE     470
+        U8         4       CLIM1          PASSIVE     LTC4415EDHC#PBF
+
+[00204] NetR77_2
+        R77        2       2              PASSIVE     9.06K
+        U15        24      RBIAS          PASSIVE     USB3320C-EZK
+
+[00203] NetR73_1
+        R73        1       1              PASSIVE     470
+        U8         5       CLIM2          PASSIVE     LTC4415EDHC#PBF
+
+[00202] NetR64_2
+        R64        2       2              PASSIVE     46.4K
+        R65        1       1              PASSIVE     23.2K
+
+[00201] NetR54_1
+        R54        1       1              PASSIVE     4.7K
+        U6         6       OPCFG          PASSIVE     ADP2114ACPZ-R7
+
+[00200] NetR53_1
+        R53        1       1              PASSIVE     27.4K
+        U6         3       FREQ           PASSIVE     ADP2114ACPZ-R7
+
+[00199] NetR49_1
+        R49        1       1              PASSIVE     14.3K
+        U5         L4      RBIAS          PASSIVE     AD9363ABCZ
+
+[00198] NetR47_2
+        R47        2       2              PASSIVE     4.7K
+        U4         D5      INIT_B_0       I/O         XC7Z010-1CLG225C
+
+[00197] NetR46_2
+        R46        2       2              PASSIVE     4.7K
+        U4         K6      PROGRAM_B_0    INPUT       XC7Z010-1CLG225C
+
+[00196] NetR45_2
+        R45        2       2              PASSIVE     0
+        U4         E6      VCCBATT_0      POWER       XC7Z010-1CLG225C
+
+[00195] NetR44_2
+        R44        2       2              PASSIVE     0
+        U14        2       VLDOIN         POWER       TPS51206DSQR
+
+[00194] NetR41_2
+        R41        2       2              PASSIVE     240
+        U4         J3      PS_DDR_VRN_502 I/O         XC7Z010-1CLG225C
+
+[00193] NetR40_2
+        R40        2       2              PASSIVE     240
+        U4         H3      PS_DDR_VRP_502 I/O         XC7Z010-1CLG225C
+
+[00192] NetR12_2
+        R12        2       2              PASSIVE     39
+        U4         C7      PS_CLK_500     INPUT       XC7Z010-1CLG225C
+
+[00191] NetR12_1
+        R12        1       1              PASSIVE     39
+        Y2         3       OUTPUT         OUTPUT      ASDMB-33.333MHZ-LC-T
+
+[00190] NetR11_2
+        R11        2       2              PASSIVE     4.7K
+        R66        1       1              PASSIVE     20K
+        R91        1       1              PASSIVE     4.7K
+        U4         G7      VP_0           INPUT       XC7Z010-1CLG225C
+
+[00189] NetR10_2
+        R10        2       2              PASSIVE     0
+        U17        3       IN+            PASSIVE     LTC6957HMS-3#PBF
+
+[00188] NetR6_2
+        R6         2       2              PASSIVE     10K
+        U3         12      PVIN           POWER       ADP2164ACPZ-R7
+        U3         13      PVIN           POWER       ADP2164ACPZ-R7
+
+[00187] NetR5_2
+        R5         2       2              PASSIVE     1K
+        R67        1       1              PASSIVE     1K
+        Y3         1       E/D            INPUT       40MHZXO
+
+[00186] NetR4_2
+        R4         2       2              PASSIVE     17.8K
+        R7         1       1              PASSIVE     1K
+
+[00185] NetR3_1
+        R3         1       1              PASSIVE     46.4K
+        U3         2       RT             PASSIVE     ADP2164ACPZ-R7
+
+[00184] NetR2_1
+        R2         1       1              PASSIVE     27.4K
+        R4         1       1              PASSIVE     17.8K
+        U3         4       FB             INPUT       ADP2164ACPZ-R7
+
+[00183] NetQ4_3
+        Q4         3       D              PASSIVE     BSS138LT1G
+        R87        2       2              PASSIVE     470
+
+[00182] NetQ3_3
+        Q3         3       D              PASSIVE     BSS138LT1G
+        R85        1       1              PASSIVE     4.7K
+        U17        7       SD2            PASSIVE     LTC6957HMS-3#PBF
+        U17        12      SD1            PASSIVE     LTC6957HMS-3#PBF
+
+[00181] NetQ2_3
+        Q2         3       D              PASSIVE     BSS138LT1G
+        R67        2       2              PASSIVE     1K
+        R101       1       1              PASSIVE     2.2K
+
+[00180] NetQ1_3
+        Q1         3       D              PASSIVE     BSS138LT1G
+        R48        2       2              PASSIVE     470
+
+[00179] NetQ1_1
+        Q1         1       G              PASSIVE     BSS138LT1G
+        U4         M7      DONE_0         I/O         XC7Z010-1CLG225C
+
+[00178] NetL4_1
+        L4         1       1              PASSIVE     1uH
+        U3         9       SW             POWER       ADP2164ACPZ-R7
+        U3         10      SW             POWER       ADP2164ACPZ-R7
+        U3         11      SW             POWER       ADP2164ACPZ-R7
+
+[00177] NetL3_1
+        L3         1       1              PASSIVE     1.5uH
+        R89        1       1              PASSIVE     4.7K
+        U6         23      SW2            PASSIVE     ADP2114ACPZ-R7
+        U6         24      SW1            PASSIVE     ADP2114ACPZ-R7
+
+[00176] NetL2_1
+        L2         1       1              PASSIVE     1.5uH
+        U6         17      SW4            PASSIVE     ADP2114ACPZ-R7
+        U6         18      SW3            PASSIVE     ADP2114ACPZ-R7
+
+[00175] NetE9_2
+        E9         2       2              PASSIVE     MPZ2012S601AT000
+        L10        2       2              PASSIVE     DLW5BSM801TQ2L
+
+[00174] NetDS2_2
+        DS2        2       K              PASSIVE     LTST-S220TBKT
+        R87        1       1              PASSIVE     470
+
+[00173] NetDS1_2
+        DS1        2       K              PASSIVE     LTST-S220TBKT
+        R48        1       1              PASSIVE     470
+
+[00172] NetD10_1
+        D10        1       A1             PASSIVE     ESD8472MUT5G
+        T3         3       PRIMARY DOT    PASSIVE     TCM1-63AX+
+        TX2A       1       1              PASSIVE     132357-11
+
+[00171] NetD9_1
+        D9         1       A1             PASSIVE     ESD8472MUT5G
+        T5         3       PRIMARY DOT    PASSIVE     TCM1-63AX+
+        TX1A       1       1              PASSIVE     132357-11
+
+[00170] NetD4_1
+        D4         1       A1             PASSIVE     ESD8472MUT5G
+        RX1        1       1              PASSIVE     132357-11
+        T1         3       PRIMARY DOT    PASSIVE     TCM1-63AX+
+
+[00169] NetD3_1
+        D3         1       A1             PASSIVE     ESD8472MUT5G
+        RX2A       1       1              PASSIVE     132357-11
+        T2         3       PRIMARY DOT    PASSIVE     TCM1-63AX+
+
+[00168] NetD2_5
+        D2         5       VCC            PASSIVE     SP3004-04XTG
+        L10        1       1              PASSIVE     DLW5BSM801TQ2L
+        P3         1       1              PASSIVE     47590-0001
+
+[00166] NetD2_3
+        D2         3       I/O_2          PASSIVE     SP3004-04XTG
+        P3         4       4              PASSIVE     47590-0001
+
+[00164] NetD1_4
+        D1         4       I/O_3          PASSIVE     SP3004-04XTG
+        L6         3       3              PASSIVE     DLW21HN900SQ2L
+        P2         2       2              PASSIVE     47590-0001
+
+[00163] NetD1_1
+        D1         1       I/O_1          PASSIVE     SP3004-04XTG
+        L6         2       2              PASSIVE     DLW21HN900SQ2L
+        P2         3       3              PASSIVE     47590-0001
+
+[00162] NetC211_1
+        C211       1       1              PASSIVE     0.1uF
+        D1         5       VCC            PASSIVE     SP3004-04XTG
+        E3         2       2              PASSIVE     MPZ2012S601AT000
+        P2         1       1              PASSIVE     47590-0001
+
+[00161] NetC205_1
+        C205       1       1              PASSIVE     0.01uF
+        R100       2       2              PASSIVE     100
+
+[00160] NetC204_1
+        C204       1       1              PASSIVE     47pF
+        Y3         3       OUT            OUTPUT      40MHZXO
+
+[00159] NetC195_1
+        C195       1       1              PASSIVE     10uF
+        E7         2       2              PASSIVE     100OHM FERRITE
+        U11        6       VIN            POWER       ADM7160ACPZN3.3-R7
+
+[00158] NetC189_1
+        C189       1       1              PASSIVE     0.1uF
+        U9         8       3V3OUT         POWER       FT230XQ-R
+
+[00157] NetC187_1
+        C187       1       1              PASSIVE     0.01uF
+        R80        2       2              PASSIVE     4.7K
+        R92        2       2              PASSIVE     10K
+        U9         9       R\E\S\E\T\     INPUT       FT230XQ-R
+
+[00156] NetC180_1
+        C180       1       1              PASSIVE     0.01uF
+        R96        2       2              PASSIVE     49.9
+        U17        4       IN-            PASSIVE     LTC6957HMS-3#PBF
+
+[00155] NetC179_2
+        C179       2       2              PASSIVE     0.01uF
+        R10        1       1              PASSIVE     0
+        R96        1       1              PASSIVE     49.9
+
+[00154] NetC179_1
+        C179       1       1              PASSIVE     0.01uF
+        CLK_IN     2       2              PASSIVE     U.FL-R-SMT-1(01)
+        D7         1       A1             PASSIVE     ESD8472MUT5G
+
+[00153] NetC176_1
+        C176       1       1              PASSIVE     18pF
+        T2         4       SECONDARY      PASSIVE     TCM1-63AX+
+
+[00152] NetC175_1
+        C175       1       1              PASSIVE     18pF
+        T2         6       SECONDARY DOT  PASSIVE     TCM1-63AX+
+
+[00151] NetC173_1
+        C173       1       1              PASSIVE     10uF
+        E2         2       2              PASSIVE     100OHM FERRITE
+        U12        6       VIN            POWER       ADM7160ACPZN1.8-R7
+
+[00150] NetC171_1
+        C171       1       1              PASSIVE     2.2uF
+        C172       1       1              PASSIVE     2.2uF
+        F1         1       1              PASSIVE     0402L050SLKR
+        U16        A2      VOUT           PASSIVE     ADP198ACBZ-11-R7
+
+[00149] NetC165_2
+        C165       2       2              PASSIVE     2.2uF
+        U15        20      VDD33          POWER       USB3320C-EZK
+
+[00148] NetC157_2
+        C157       2       2              PASSIVE     18pF
+        R86        2       2              PASSIVE     240
+        R99        2       2              PASSIVE     240
+
+[00147] NetC156_2
+        C156       2       2              PASSIVE     18pF
+        T3         4       SECONDARY      PASSIVE     TCM1-63AX+
+
+[00146] NetC147_1
+        C147       1       1              PASSIVE     5.6nF
+        R60        2       2              PASSIVE     10K
+
+[00145] NetC146_1
+        C146       1       1              PASSIVE     22uF
+        L3         2       2              PASSIVE     1.5uH
+        L5         1       1              PASSIVE     EPL2010-271MLB
+
+[00144] NetC144_2
+        C144       2       2              PASSIVE     0.0033uF
+        R61        1       1              PASSIVE     10K
+
+[00143] NetC141_1
+        C141       1       1              PASSIVE     1uF
+        R56        1       1              PASSIVE     10
+        U6         4       SCFG           PASSIVE     ADP2114ACPZ-R7
+        U6         8       VDD            PASSIVE     ADP2114ACPZ-R7
+        U6         10      V2SET          PASSIVE     ADP2114ACPZ-R7
+        U6         31      V1SET          PASSIVE     ADP2114ACPZ-R7
+
+[00142] NetC139_1
+        C139       1       1              PASSIVE     0.047uF
+        U6         11      SS2            PASSIVE     ADP2114ACPZ-R7
+
+[00141] NetC134_1
+        C134       1       1              PASSIVE     18pF
+        T1         4       SECONDARY      PASSIVE     TCM1-63AX+
+
+[00140] NetC133_1
+        C133       1       1              PASSIVE     18pF
+        T1         6       SECONDARY DOT  PASSIVE     TCM1-63AX+
+
+[00139] NetC132_2
+        C132       2       2              PASSIVE     18pF
+        T5         4       SECONDARY      PASSIVE     TCM1-63AX+
+
+[00138] NetC131_2
+        C131       2       2              PASSIVE     18pF
+        T5         6       SECONDARY DOT  PASSIVE     TCM1-63AX+
+
+[00137] NetC130_2
+        C130       2       2              PASSIVE     18pF
+        T3         6       SECONDARY DOT  PASSIVE     TCM1-63AX+
+
+[00136] NetC127_1
+        C127       1       1              PASSIVE     1uF
+        R52        2       2              PASSIVE     1
+
+[00135] NetC126_1
+        C126       1       1              PASSIVE     1uF
+        R51        1       1              PASSIVE     1
+
+[00134] NetC80_1
+        C80        1       1              PASSIVE     0.01uF
+        R43        2       2              PASSIVE     0
+        U14        5       VTTSNS         INPUT       TPS51206DSQR
+
+[00133] NetC79_1
+        C79        1       1              PASSIVE     10uF
+        U14        3       VTT            POWER       TPS51206DSQR
+
+[00132] NetC47_1
+        C47        1       1              PASSIVE     0.1uF
+        R13        1       1              PASSIVE     20K
+        U4         C9      PS_POR_B_500   INPUT       XC7Z010-1CLG225C
+
+[00131] NetC13_1
+        C13        1       1              PASSIVE     0.1uF
+        R1         1       1              PASSIVE     10
+        U3         3       TRK            INPUT       ADP2164ACPZ-R7
+        U3         14      VIN            POWER       ADP2164ACPZ-R7
+        U3         15      EN             INPUT       ADP2164ACPZ-R7
+
+[00130] NetC12_1
+        C12        1       1              PASSIVE     0.01uF
+        U7         7       SS             PASSIVE     ADP1754ACPZ-1.3-R7
+
+[00129] NetC7_1
+        C7         1       1              PASSIVE     0.1uF
+        U6         30      SS1            PASSIVE     ADP2114ACPZ-R7
+
+[00128] NetC2_1
+        C2         1       1              PASSIVE     0.01uF
+        U1         7       SS             PASSIVE     ADP1754ACPZ-1.3-R7
+
+[00127] Net98_2
+        98         2       2              PASSIVE     75
+        CLK_OUT    2       2              PASSIVE     U.FL-R-SMT-1(01)
+        D8         1       A1             PASSIVE     ESD8472MUT5G
+        R100       1       1              PASSIVE     100
+
+[00126] Net98_1
+        98         1       1              PASSIVE     75
+        U17        9       OUT2           PASSIVE     LTC6957HMS-3#PBF
+
+[00125] JTAG_TMS
+        P1         2       2              PASSIVE     FTSH-105-01-L-DV
+        TMS        1       TP             PASSIVE     TEST POINT
+        U4         L9      TMS_0          INPUT       XC7Z010-1CLG225C
+
+[00124] JTAG_TDO
+        P1         6       6              PASSIVE     FTSH-105-01-L-DV
+        TDO        1       TP             PASSIVE     TEST POINT
+        U4         L8      TDO_0          OUTPUT      XC7Z010-1CLG225C
+
+[00123] JTAG_TDI
+        P1         8       8              PASSIVE     FTSH-105-01-L-DV
+        TDI        1       TP             PASSIVE     TEST POINT
+        U4         L7      TDI_0          INPUT       XC7Z010-1CLG225C
+
+[00122] JTAG_TCK
+        P1         4       4              PASSIVE     FTSH-105-01-L-DV
+        TCK        1       TP             PASSIVE     TEST POINT
+        U4         G9      TCK_0          I/O         XC7Z010-1CLG225C
+
+[00121] IO_L24_35_SPI_DO
+        U4         F12     IO_L1P_T0_AD0P_I/O         XC7Z010-1CLG225C
+        U5         L6      SPI_DO         PASSIVE     AD9363ABCZ
+
+[00120] IO_L24_35_SPI_DI
+        U4         E13     IO_L1N_T0_AD0N_I/O         XC7Z010-1CLG225C
+        U5         J5      SPI_CLK        PASSIVE     AD9363ABCZ
+
+[00119] IO_L23_35_SPI_ENB
+        U4         E12     IO_L2N_T0_AD8N_I/O         XC7Z010-1CLG225C
+        U5         K6      SPI_EN*        PASSIVE     AD9363ABCZ
+
+[00118] IO_L23_35_SPI_CLK
+        U4         E11     IO_L2P_T0_AD8P_I/O         XC7Z010-1CLG225C
+        U5         J4      SPI_DI         PASSIVE     AD9363ABCZ
+
+[00117] IO_L22_34_CTRL_OUT7
+        U4         N8      IO_L22N_T3_34  I/O         XC7Z010-1CLG225C
+        U5         G4      CTRL_OUT7      PASSIVE     AD9363ABCZ
+
+[00116] IO_L22_34_CTRL_OUT6
+        U4         N7      IO_L22P_T3_34  I/O         XC7Z010-1CLG225C
+        U5         F4      CTRL_OUT6      PASSIVE     AD9363ABCZ
+
+[00115] IO_L21_34_CTRL_OUT5
+        U4         M11     IO_L21N_T3_DQS_I/O         XC7Z010-1CLG225C
+        U5         F5      CTRL_OUT5      PASSIVE     AD9363ABCZ
+
+[00114] IO_L21_34_CTRL_OUT4
+        U4         M10     IO_L21P_T3_DQS_I/O         XC7Z010-1CLG225C
+        U5         F6      CTRL_OUT4      PASSIVE     AD9363ABCZ
+
+[00113] IO_L20_34_TX_D11
+        U4         R7      IO_L20P_T3_34  I/O         XC7Z010-1CLG225C
+        U5         E7      P0_D11/TX_D5_P PASSIVE     AD9363ABCZ
+
+[00112] IO_L20_34_TX_D10
+        U4         R8      IO_L20N_T3_34  I/O         XC7Z010-1CLG225C
+        U5         F8      P0_D10/TX_D5_N PASSIVE     AD9363ABCZ
+
+[00111] IO_L19_34_TX_D9
+        U4         M9      IO_L19P_T3_34  I/O         XC7Z010-1CLG225C
+        U5         D7      P0_D9/TX_D4_P  PASSIVE     AD9363ABCZ
+
+[00110] IO_L19_34_TX_D8
+        U4         N9      IO_L19N_T3_VREFI/O         XC7Z010-1CLG225C
+        U5         E8      P0_D8/TX_D4_N  PASSIVE     AD9363ABCZ
+
+[00109] IO_L18_34_TX_D7
+        U4         P13     IO_L18P_T2_34  I/O         XC7Z010-1CLG225C
+        U5         D8      P0_D7/TX_D3_P  PASSIVE     AD9363ABCZ
+
+[00108] IO_L18_34_TX_D6
+        U4         P14     IO_L18N_T2_34  I/O         XC7Z010-1CLG225C
+        U5         E9      P0_D6/TX_D3_N  PASSIVE     AD9363ABCZ
+
+[00107] IO_L17_34_TX_D5
+        U4         R12     IO_L17P_T2_34  I/O         XC7Z010-1CLG225C
+        U5         D9      P0_D5/TX_D2_P  PASSIVE     AD9363ABCZ
+
+[00106] IO_L17_34_TX_D4
+        U4         R11     IO_L16N_T2_34  I/O         XC7Z010-1CLG225C
+        U5         E10     P0_D4/TX_D2_N  PASSIVE     AD9363ABCZ
+
+[00105] IO_L16_34_TX_D3
+        U4         P11     IO_L16P_T2_34  I/O         XC7Z010-1CLG225C
+        U5         D10     P0_D3/TX_D1_P  PASSIVE     AD9363ABCZ
+
+[00104] IO_L16_34_TX_D2
+        U4         R15     IO_L15N_T2_DQS_I/O         XC7Z010-1CLG225C
+        U5         E11     P0_D2/TX_D1_N  PASSIVE     AD9363ABCZ
+
+[00103] IO_L15_34_TX_D1
+        U4         R13     IO_L17N_T2_34  I/O         XC7Z010-1CLG225C
+        U5         D11     P0_D1/TX_D0_P  PASSIVE     AD9363ABCZ
+
+[00102] IO_L15_34_TX_D0
+        U4         P15     IO_L15P_T2_DQS_I/O         XC7Z010-1CLG225C
+        U5         E12     P0_D0/TX_D0_N  PASSIVE     AD9363ABCZ
+
+[00101] IO_L13_34_CTRL_OUT3
+        U4         N12     IO_L13N_T2_MRCCI/O         XC7Z010-1CLG225C
+        U5         E6      CTRL_OUT3      PASSIVE     AD9363ABCZ
+
+[00100] IO_L13_34_CTRL_OUT2
+        U4         N11     IO_L13P_T2_MRCCI/O         XC7Z010-1CLG225C
+        U5         E5      CTRL_OUT2      PASSIVE     AD9363ABCZ
+
+[00099] IO_L12_MRCC_34_DATA_CLK
+        U4         L12     IO_L12P_T1_MRCCI/O         XC7Z010-1CLG225C
+        U5         G11     DATA_CLK_P     PASSIVE     AD9363ABCZ
+
+[00098] IO_L11_34_TXNRX
+        U4         K11     IO_L11P_T1_SRCCI/O         XC7Z010-1CLG225C
+        U5         H4      TXNRX          PASSIVE     AD9363ABCZ
+
+[00097] IO_L11_34_ENABLE
+        U4         K12     IO_L11N_T1_SRCCI/O         XC7Z010-1CLG225C
+        U5         G6      ENABLE         PASSIVE     AD9363ABCZ
+
+[00096] IO_L10_34_EN_AGC
+        U4         L13     IO_L10N_T1_34  I/O         XC7Z010-1CLG225C
+        U5         G5      EN_AGC         PASSIVE     AD9363ABCZ
+
+[00095] IO_L09_34_TX_FRAME
+        U4         L14     IO_L9P_T1_DQS_3I/O         XC7Z010-1CLG225C
+        U5         G9      TX_FRAME_P     PASSIVE     AD9363ABCZ
+
+[00094] IO_L08_34_CTRL_OUT1
+        U4         M15     IO_L8N_T1_34   I/O         XC7Z010-1CLG225C
+        U5         E4      CTRL_OUT1      PASSIVE     AD9363ABCZ
+
+[00093] IO_L08_34_CTRL_OUT0
+        U4         L15     IO_L8P_T1_34   I/O         XC7Z010-1CLG225C
+        U5         D4      CTRL_OUT0      PASSIVE     AD9363ABCZ
+
+[00092] IO_L07_34_RX_FRAME
+        U4         N13     IO_L7P_T1_34   I/O         XC7Z010-1CLG225C
+        U5         G8      RX_FRAME_P     PASSIVE     AD9363ABCZ
+
+[00091] IO_L06_34_RX_D11
+        U4         J11     IO_L6N_T0_VREF_I/O         XC7Z010-1CLG225C
+        U5         H8      P1_D11/RX_D5_P PASSIVE     AD9363ABCZ
+
+[00090] IO_L06_34_RX_D10
+        U4         H11     IO_L6P_T0_34   I/O         XC7Z010-1CLG225C
+        U5         J7      P1_D10/RX_D5_N PASSIVE     AD9363ABCZ
+
+[00089] IO_L05_34_RX_D9
+        U4         K15     IO_L4N_T0_34   I/O         XC7Z010-1CLG225C
+        U5         J8      P1_D9/RX_D4_P  PASSIVE     AD9363ABCZ
+
+[00088] IO_L05_34_RX_D8
+        U4         J15     IO_L4P_T0_34   I/O         XC7Z010-1CLG225C
+        U5         K7      P1_D8/RX_D4_N  PASSIVE     AD9363ABCZ
+
+[00087] IO_L04_34_RX_D7
+        U4         J14     IO_L5N_T0_34   I/O         XC7Z010-1CLG225C
+        U5         J9      P1_D7/RX_D3_P  PASSIVE     AD9363ABCZ
+
+[00086] IO_L04_34_RX_D6
+        U4         G11     IO_L1P_T0_34   I/O         XC7Z010-1CLG225C
+        U5         K8      P1_D6/RX_D3_N  PASSIVE     AD9363ABCZ
+
+[00085] IO_L03_34_RX_D5
+        U4         H12     IO_L1N_T0_34   I/O         XC7Z010-1CLG225C
+        U5         J10     P1_D5/RX_D2_P  PASSIVE     AD9363ABCZ
+
+[00084] IO_L03_34_RX_D4
+        U4         G12     IO_L2P_T0_34   I/O         XC7Z010-1CLG225C
+        U5         K9      P1_D4/RX_D2_N  PASSIVE     AD9363ABCZ
+
+[00083] IO_L02_34_RX_D3
+        U4         H13     IO_L2N_T0_34   I/O         XC7Z010-1CLG225C
+        U5         J11     P1_D3/RX_D1_P  PASSIVE     AD9363ABCZ
+
+[00082] IO_L02_34_RX_D2
+        U4         G14     IO_L3P_T0_DQS_PI/O         XC7Z010-1CLG225C
+        U5         K10     P1_D2/RX_D1_N  PASSIVE     AD9363ABCZ
+
+[00081] IO_L01_34_RX_D1
+        U4         J13     IO_L5P_T0_34   I/O         XC7Z010-1CLG225C
+        U5         J12     P1_D1/RX_D0_P  PASSIVE     AD9363ABCZ
+
+[00080] IO_L01_34_RX_D0
+        U4         H14     IO_L3N_T0_DQS_3I/O         XC7Z010-1CLG225C
+        U5         K11     P1_D0/RX_D0_N  PASSIVE     AD9363ABCZ
+
+[00079] IO_L01_34_FB_CLK
+        U4         P10     IO_L24P_T3_34  I/O         XC7Z010-1CLG225C
+        U5         F10     FB_CLK_P       PASSIVE     AD9363ABCZ
+
+[00078] IO_02_34_AD9361_RST
+        U4         P9      IO_L23N_T3_34  I/O         XC7Z010-1CLG225C
+        U5         K5      RESET*         PASSIVE     AD9363ABCZ
+
+[00077] IO_02_34_AD9361_CLKOUT
+        U4         P8      IO_L23P_T3_34  I/O         XC7Z010-1CLG225C
+        U5         J6      CLK_OUT        PASSIVE     AD9363ABCZ
+
+[00076] GND
+        137        2       2              PASSIVE     10uF
+        C1         2       2              PASSIVE     0.1uF
+        C2         2       2              PASSIVE     0.01uF
+        C3         2       2              PASSIVE     10uF
+        C4         2       2              PASSIVE     10uF
+        C5         2       2              PASSIVE     0.1uF
+        C6         2       2              PASSIVE     0.1uF
+        C7         2       2              PASSIVE     0.1uF
+        C8         2       2              PASSIVE     0.1uF
+        C9         2       2              PASSIVE     10uF
+        C10        2       2              PASSIVE     0.1uF
+        C11        2       2              PASSIVE     47uF
+        C12        2       2              PASSIVE     0.01uF
+        C13        2       2              PASSIVE     0.1uF
+        C14        2       2              PASSIVE     10uF
+        C15        2       2              PASSIVE     10uF
+        C16        2       2              PASSIVE     0.1uF
+        C17        2       2              PASSIVE     47uH
+        C18        2       2              PASSIVE     0.1uF
+        C19        2       2              PASSIVE     47uH
+        C20        2       2              PASSIVE     47uH
+        C21        2       2              PASSIVE     47uH
+        C22        2       2              PASSIVE     10uF
+        C23        2       2              PASSIVE     0.01uF
+        C24        2       2              PASSIVE     0.01uF
+        C25        2       2              PASSIVE     0.1uF
+        C26        2       2              PASSIVE     0.01uF
+        C27        2       2              PASSIVE     0.01uF
+        C28        2       2              PASSIVE     1uF
+        C29        2       2              PASSIVE     1uF
+        C30        2       2              PASSIVE     1uF
+        C31        2       2              PASSIVE     1uF
+        C32        2       2              PASSIVE     10uF
+        C33        2       2              PASSIVE     0.1uF
+        C34        2       2              PASSIVE     1uF
+        C35        2       2              PASSIVE     1uF
+        C36        2       2              PASSIVE     1uF
+        C37        2       2              PASSIVE     1uF
+        C38        2       2              PASSIVE     1uF
+        C39        2       2              PASSIVE     0.01uF
+        C40        2       2              PASSIVE     0.01uF
+        C41        2       2              PASSIVE     0.01uF
+        C42        2       2              PASSIVE     0.01uF
+        C43        2       2              PASSIVE     0.01uF
+        C44        2       2              PASSIVE     0.01uF
+        C45        2       2              PASSIVE     1uF
+        C46        2       2              PASSIVE     0.1uF
+        C47        2       2              PASSIVE     0.1uF
+        C49        2       2              PASSIVE     100uF
+        C50        2       2              PASSIVE     4.7uF
+        C51        2       2              PASSIVE     0.47uF
+        C52        2       2              PASSIVE     0.1uF
+        C53        2       2              PASSIVE     0.01uF
+        C54        1       1              PASSIVE     100uF
+        C55        2       2              PASSIVE     4.7uF
+        C56        2       2              PASSIVE     0.47uF
+        C57        2       2              PASSIVE     0.47uF
+        C58        2       2              PASSIVE     0.47uF
+        C59        2       2              PASSIVE     0.47uF
+        C60        2       2              PASSIVE     0.1uF
+        C61        2       2              PASSIVE     0.01uF
+        C62        2       2              PASSIVE     0.01uF
+        C63        2       2              PASSIVE     0.01uF
+        C64        1       1              PASSIVE     100uF
+        C65        2       2              PASSIVE     47uF
+        C66        2       2              PASSIVE     4.7uF
+        C67        2       2              PASSIVE     4.7uF
+        C68        2       2              PASSIVE     0.47uF
+        C69        2       2              PASSIVE     0.47uF
+        C70        2       2              PASSIVE     0.47uF
+        C71        1       1              PASSIVE     100uF
+        C72        2       2              PASSIVE     0.47uF
+        C73        2       2              PASSIVE     4.7uF
+        C74        2       2              PASSIVE     0.47uF
+        C75        2       2              PASSIVE     0.47uF
+        C76        2       2              PASSIVE     100uF
+        C78        2       2              PASSIVE     4.7uF
+        C79        2       2              PASSIVE     10uF
+        C80        2       2              PASSIVE     0.01uF
+        C81        2       2              PASSIVE     0.22UF
+        C82        2       2              PASSIVE     10uF
+        C83        2       2              PASSIVE     10uF
+        C84        2       2              PASSIVE     0.01uF
+        C85        1       1              PASSIVE     47uF
+        C86        2       2              PASSIVE     4.7uF
+        C87        2       2              PASSIVE     4.7uF
+        C88        2       2              PASSIVE     0.47uF
+        C89        2       2              PASSIVE     0.47uF
+        C90        2       2              PASSIVE     0.47uF
+        C91        2       2              PASSIVE     0.1uF
+        C92        2       2              PASSIVE     0.1uF
+        C94        2       2              PASSIVE     0.1uF
+        C95        2       2              PASSIVE     0.1uF
+        C96        2       2              PASSIVE     0.1uF
+        C97        2       2              PASSIVE     0.1uF
+        C100       2       2              PASSIVE     100uF
+        C101       2       2              PASSIVE     4.7uF
+        C102       2       2              PASSIVE     0.01uF
+        C103       2       2              PASSIVE     47uF
+        C104       2       2              PASSIVE     47uF
+        C105       2       2              PASSIVE     4.7uF
+        C106       2       2              PASSIVE     4.7uF
+        C107       2       2              PASSIVE     4.7uF
+        C108       2       2              PASSIVE     4.7uF
+        C109       2       2              PASSIVE     0.47uF
+        C110       2       2              PASSIVE     0.47uF
+        C111       2       2              PASSIVE     0.47uF
+        C112       2       2              PASSIVE     0.47uF
+        C113       2       2              PASSIVE     0.47uF
+        C114       2       2              PASSIVE     0.47uF
+        C115       2       2              PASSIVE     0.47uF
+        C116       2       2              PASSIVE     0.47uF
+        C117       2       2              PASSIVE     0.1uF
+        C118       2       2              PASSIVE     0.1uF
+        C119       2       2              PASSIVE     0.01uF
+        C120       2       2              PASSIVE     0.01uF
+        C121       2       2              PASSIVE     10uF
+        C122       2       2              PASSIVE     0.1uF
+        C123       2       2              PASSIVE     1uF
+        C125       2       2              PASSIVE     0.001uF
+        C126       2       2              PASSIVE     1uF
+        C127       2       2              PASSIVE     1uF
+        C128       2       2              PASSIVE     0.001uF
+        C129       2       2              PASSIVE     0.001uF
+        C135       2       2              PASSIVE     10uF
+        C136       2       2              PASSIVE     10uF
+        C138       2       2              PASSIVE     10uF
+        C139       2       2              PASSIVE     0.047uF
+        C140       2       2              PASSIVE     1uF
+        C141       2       2              PASSIVE     1uF
+        C142       2       2              PASSIVE     150pF
+        C143       2       2              PASSIVE     180pF
+        C145       2       2              PASSIVE     47uF
+        C146       2       2              PASSIVE     22uF
+        C147       2       2              PASSIVE     5.6nF
+        C148       2       2              PASSIVE     47uF
+        C149       2       2              PASSIVE     100uF
+        C150       2       2              PASSIVE     100uF
+        C151       2       2              PASSIVE     10uF
+        C152       2       2              PASSIVE     10uF
+        C154       2       2              PASSIVE     1uF
+        C155       2       2              PASSIVE     10uF
+        C163       2       2              PASSIVE     0.1uF
+        C164       2       2              PASSIVE     0.1uF
+        C165       1       1              PASSIVE     2.2uF
+        C166       2       2              PASSIVE     0.001uF
+        C167       2       2              PASSIVE     10uF
+        C168       2       2              PASSIVE     1uF
+        C169       2       2              PASSIVE     1uF
+        C170       2       2              PASSIVE     1uF
+        C171       2       2              PASSIVE     2.2uF
+        C172       2       2              PASSIVE     2.2uF
+        C173       2       2              PASSIVE     10uF
+        C174       2       2              PASSIVE     4.7uF
+        C178       2       2              PASSIVE     0.47uF
+        C180       2       2              PASSIVE     0.01uF
+        C182       2       2              PASSIVE     2.2uF
+        C183       2       2              PASSIVE     0.1uF
+        C184       2       2              PASSIVE     47uF
+        C185       2       2              PASSIVE     47uF
+        C186       2       2              PASSIVE     0.1uF
+        C187       2       2              PASSIVE     0.01uF
+        C188       2       2              PASSIVE     0.1uF
+        C189       2       2              PASSIVE     0.1uF
+        C190       2       2              PASSIVE     0.1uF
+        C191       2       2              PASSIVE     0.01uF
+        C192       2       2              PASSIVE     1uF
+        C193       2       2              PASSIVE     0.001uF
+        C194       2       2              PASSIVE     0.001uF
+        C195       2       2              PASSIVE     10uF
+        C196       2       2              PASSIVE     47pF
+        C197       2       2              PASSIVE     47pF
+        C198       2       2              PASSIVE     2.2uF
+        C199       2       2              PASSIVE     1uF
+        C200       2       2              PASSIVE     1uF
+        C201       2       2              PASSIVE     0.1uF
+        C202       2       2              PASSIVE     0.1uF
+        C203       2       2              PASSIVE     0.1uF
+        C205       2       2              PASSIVE     0.01uF
+        C206       2       2              PASSIVE     0.1uF
+        C207       2       2              PASSIVE     0.001uF
+        C208       2       2              PASSIVE     0.1uF
+        C209       2       2              PASSIVE     10uF
+        C210       2       2              PASSIVE     2.2uF
+        C211       2       2              PASSIVE     0.1uF
+        C212       2       2              PASSIVE     0.1uF
+        C215       2       2              PASSIVE     2.2uF
+        CLK_IN     1       1              PASSIVE     U.FL-R-SMT-1(01)
+        CLK_IN     3       3              PASSIVE     U.FL-R-SMT-1(01)
+        CLK_OUT    1       1              PASSIVE     U.FL-R-SMT-1(01)
+        CLK_OUT    3       3              PASSIVE     U.FL-R-SMT-1(01)
+        D1         2       GND            PASSIVE     SP3004-04XTG
+        D3         2       A2             PASSIVE     ESD8472MUT5G
+        D4         2       A2             PASSIVE     ESD8472MUT5G
+        D7         2       A2             PASSIVE     ESD8472MUT5G
+        D8         2       A2             PASSIVE     ESD8472MUT5G
+        D9         2       A2             PASSIVE     ESD8472MUT5G
+        D10        2       A2             PASSIVE     ESD8472MUT5G
+        E6         2       2              PASSIVE     100OHM FERRITE
+        GND1       1       TP             PASSIVE     TEST POINT
+        GND2       1       TP             PASSIVE     TEST POINT
+        GND3       1       TP             PASSIVE     TEST POINT
+        GND4       1       TP             PASSIVE     TEST POINT
+        L10        3       3              PASSIVE     DLW5BSM801TQ2L
+        P1         7       7              PASSIVE     FTSH-105-01-L-DV
+        P1         9       9              PASSIVE     FTSH-105-01-L-DV
+        P2         5       5              PASSIVE     47590-0001
+        P2         SH1     SHIELD         PASSIVE     47590-0001
+        P2         SH2     SHIELD         PASSIVE     47590-0001
+        P2         SH3     SHIELD         PASSIVE     47590-0001
+        P2         SH4     SHIELD         PASSIVE     47590-0001
+        P2         SH5     SHIELD         PASSIVE     47590-0001
+        Q1         2       S              PASSIVE     BSS138LT1G
+        Q2         2       S              PASSIVE     BSS138LT1G
+        Q3         2       S              PASSIVE     BSS138LT1G
+        Q4         2       S              PASSIVE     BSS138LT1G
+        R2         2       2              PASSIVE     27.4K
+        R3         2       2              PASSIVE     46.4K
+        R40        1       1              PASSIVE     240
+        R42        2       2              PASSIVE     1K
+        R49        2       2              PASSIVE     14.3K
+        R53        2       2              PASSIVE     27.4K
+        R54        2       2              PASSIVE     4.7K
+        R61        2       2              PASSIVE     10K
+        R63        2       2              PASSIVE     14.3K
+        R65        2       2              PASSIVE     23.2K
+        R66        2       2              PASSIVE     20K
+        R69        2       2              PASSIVE     0
+        R72        2       2              PASSIVE     8.06K
+        R73        2       2              PASSIVE     470
+        R75        2       2              PASSIVE     10K
+        R77        1       1              PASSIVE     9.06K
+        R78        2       2              PASSIVE     470
+        R90        2       2              PASSIVE     4.7K
+        R91        2       2              PASSIVE     4.7K
+        R92        1       1              PASSIVE     10K
+        R93        2       2              PASSIVE     10K
+        R99        1       1              PASSIVE     240
+        R103       2       2              PASSIVE     2.2K
+        R104       2       2              PASSIVE     0
+        R116       2       2              PASSIVE     20K
+        R119       2       2              PASSIVE     20K
+        R120       2       2              PASSIVE     20K
+        R121       2       2              PASSIVE     20K
+        R165       2       2              PASSIVE     240
+        S1         3       3              PASSIVE     PTS840 GKP SMTR LFS
+        S1         4       4              PASSIVE     PTS840 GKP SMTR LFS
+        T1         1       NC             PASSIVE     TCM1-63AX+
+        T1         2       GND            PASSIVE     TCM1-63AX+
+        T1         5       NC             PASSIVE     TCM1-63AX+
+        T2         1       NC             PASSIVE     TCM1-63AX+
+        T2         2       GND            PASSIVE     TCM1-63AX+
+        T2         5       NC             PASSIVE     TCM1-63AX+
+        T3         1       NC             PASSIVE     TCM1-63AX+
+        T3         2       GND            PASSIVE     TCM1-63AX+
+        T3         5       NC             PASSIVE     TCM1-63AX+
+        T5         1       NC             PASSIVE     TCM1-63AX+
+        T5         2       GND            PASSIVE     TCM1-63AX+
+        T5         5       NC             PASSIVE     TCM1-63AX+
+        U1         6       GND_1          PASSIVE     ADP1754ACPZ-1.3-R7
+        U1         17      GND_2          PASSIVE     ADP1754ACPZ-1.3-R7
+        U2         A9      VSS            POWER       MT41K256M16TW-107 IT:P
+        U2         B1      VSSQ           POWER       MT41K256M16TW-107 IT:P
+        U2         B3      VSS            POWER       MT41K256M16TW-107 IT:P
+        U2         B9      VSSQ           POWER       MT41K256M16TW-107 IT:P
+        U2         D1      VSSQ           POWER       MT41K256M16TW-107 IT:P
+        U2         D8      VSSQ           POWER       MT41K256M16TW-107 IT:P
+        U2         E1      VSS            POWER       MT41K256M16TW-107 IT:P
+        U2         E2      VSSQ           POWER       MT41K256M16TW-107 IT:P
+        U2         E8      VSSQ           POWER       MT41K256M16TW-107 IT:P
+        U2         F9      VSSQ           POWER       MT41K256M16TW-107 IT:P
+        U2         G1      VSSQ           POWER       MT41K256M16TW-107 IT:P
+        U2         G8      VSS            POWER       MT41K256M16TW-107 IT:P
+        U2         G9      VSSQ           POWER       MT41K256M16TW-107 IT:P
+        U2         J2      VSS            POWER       MT41K256M16TW-107 IT:P
+        U2         J8      VSS            POWER       MT41K256M16TW-107 IT:P
+        U2         M1      VSS            POWER       MT41K256M16TW-107 IT:P
+        U2         M9      VSS            POWER       MT41K256M16TW-107 IT:P
+        U2         P1      VSS            POWER       MT41K256M16TW-107 IT:P
+        U2         P9      VSS            POWER       MT41K256M16TW-107 IT:P
+        U2         T1      VSS            POWER       MT41K256M16TW-107 IT:P
+        U2         T9      VSS            POWER       MT41K256M16TW-107 IT:P
+        U3         5       GND            POWER       ADP2164ACPZ-R7
+        U3         6       PGND           POWER       ADP2164ACPZ-R7
+        U3         7       PGND           POWER       ADP2164ACPZ-R7
+        U3         8       PGND           POWER       ADP2164ACPZ-R7
+        U3         17      EP             POWER       ADP2164ACPZ-R7
+        U4         A1      GND            POWER       XC7Z010-1CLG225C
+        U4         A11     GND            POWER       XC7Z010-1CLG225C
+        U4         B8      GND            POWER       XC7Z010-1CLG225C
+        U4         C5      GND            POWER       XC7Z010-1CLG225C
+        U4         C15     GND            POWER       XC7Z010-1CLG225C
+        U4         D2      GND            POWER       XC7Z010-1CLG225C
+        U4         D12     GND            POWER       XC7Z010-1CLG225C
+        U4         E5      GND            POWER       XC7Z010-1CLG225C
+        U4         E7      GND            POWER       XC7Z010-1CLG225C
+        U4         E8      RSVDGND        POWER       XC7Z010-1CLG225C
+        U4         E9      GND            POWER       XC7Z010-1CLG225C
+        U4         F10     GND            POWER       XC7Z010-1CLG225C
+        U4         G3      GND            POWER       XC7Z010-1CLG225C
+        U4         G5      GND            POWER       XC7Z010-1CLG225C
+        U4         G13     GND            POWER       XC7Z010-1CLG225C
+        U4         H6      GND            POWER       XC7Z010-1CLG225C
+        U4         H8      VN_0           INPUT       XC7Z010-1CLG225C
+        U4         H10     GND            POWER       XC7Z010-1CLG225C
+        U4         J5      GND            POWER       XC7Z010-1CLG225C
+        U4         J9      GND            POWER       XC7Z010-1CLG225C
+        U4         K4      GND            POWER       XC7Z010-1CLG225C
+        U4         K7      GND            POWER       XC7Z010-1CLG225C
+        U4         K10     GND            POWER       XC7Z010-1CLG225C
+        U4         K14     GND            POWER       XC7Z010-1CLG225C
+        U4         L1      GND            POWER       XC7Z010-1CLG225C
+        U4         L5      GND            POWER       XC7Z010-1CLG225C
+        U4         L11     GND            POWER       XC7Z010-1CLG225C
+        U4         M8      GND            POWER       XC7Z010-1CLG225C
+        U4         N5      GND            POWER       XC7Z010-1CLG225C
+        U4         N15     GND            POWER       XC7Z010-1CLG225C
+        U4         P2      GND            POWER       XC7Z010-1CLG225C
+        U4         P12     GND            POWER       XC7Z010-1CLG225C
+        U4         R9      GND            POWER       XC7Z010-1CLG225C
+        U5         A4      VSSA           PASSIVE     AD9363ABCZ
+        U5         A5      TX_MON2        PASSIVE     AD9363ABCZ
+        U5         A6      VSSA           PASSIVE     AD9363ABCZ
+        U5         A12     VSSA           PASSIVE     AD9363ABCZ
+        U5         B1      VSSA           PASSIVE     AD9363ABCZ
+        U5         B2      VSSA           PASSIVE     AD9363ABCZ
+        U5         B12     VSSA           PASSIVE     AD9363ABCZ
+        U5         C1      RX2C_P         PASSIVE     AD9363ABCZ
+        U5         C2      VSSA           PASSIVE     AD9363ABCZ
+        U5         C7      VSSA           PASSIVE     AD9363ABCZ
+        U5         C8      VSSA           PASSIVE     AD9363ABCZ
+        U5         C9      VSSA           PASSIVE     AD9363ABCZ
+        U5         C10     VSSA           PASSIVE     AD9363ABCZ
+        U5         C11     VSSA           PASSIVE     AD9363ABCZ
+        U5         C12     VSSA           PASSIVE     AD9363ABCZ
+        U5         D1      RX2C_N         PASSIVE     AD9363ABCZ
+        U5         D12     VSSD           PASSIVE     AD9363ABCZ
+        U5         E1      RX2B_P         PASSIVE     AD9363ABCZ
+        U5         F1      RX2B_N         PASSIVE     AD9363ABCZ
+        U5         F3      VSSA           PASSIVE     AD9363ABCZ
+        U5         F7      VSSD           PASSIVE     AD9363ABCZ
+        U5         F9      VSSD           PASSIVE     AD9363ABCZ
+        U5         F11     VSSD           PASSIVE     AD9363ABCZ
+        U5         G1      VSSA           PASSIVE     AD9363ABCZ
+        U5         G12     VSSD           PASSIVE     AD9363ABCZ
+        U5         H1      RX1B_P         PASSIVE     AD9363ABCZ
+        U5         H2      VSSA           PASSIVE     AD9363ABCZ
+        U5         H3      VSSA           PASSIVE     AD9363ABCZ
+        U5         H5      VSSA           PASSIVE     AD9363ABCZ
+        U5         H6      VSSA           PASSIVE     AD9363ABCZ
+        U5         H7      VSSD           PASSIVE     AD9363ABCZ
+        U5         H10     VSSD           PASSIVE     AD9363ABCZ
+        U5         J1      RX1B_N         PASSIVE     AD9363ABCZ
+        U5         J2      VSSA           PASSIVE     AD9363ABCZ
+        U5         K2      VSSA           PASSIVE     AD9363ABCZ
+        U5         K12     VSSD           PASSIVE     AD9363ABCZ
+        U5         L1      RX1C_N         PASSIVE     AD9363ABCZ
+        U5         L2      VSSA           PASSIVE     AD9363ABCZ
+        U5         L3      VSSA           PASSIVE     AD9363ABCZ
+        U5         L7      VSSA           PASSIVE     AD9363ABCZ
+        U5         L8      VSSA           PASSIVE     AD9363ABCZ
+        U5         L9      VSSA           PASSIVE     AD9363ABCZ
+        U5         L10     VSSA           PASSIVE     AD9363ABCZ
+        U5         L11     VSSA           PASSIVE     AD9363ABCZ
+        U5         L12     VSSA           PASSIVE     AD9363ABCZ
+        U5         M4      VSSA           PASSIVE     AD9363ABCZ
+        U5         M5      TX_MON1        PASSIVE     AD9363ABCZ
+        U5         M6      VSSA           PASSIVE     AD9363ABCZ
+        U6         1       GND            PASSIVE     ADP2114ACPZ-R7
+        U6         19      PGND4          PASSIVE     ADP2114ACPZ-R7
+        U6         20      PGND3          PASSIVE     ADP2114ACPZ-R7
+        U6         21      PGND2          PASSIVE     ADP2114ACPZ-R7
+        U6         22      PGND1          PASSIVE     ADP2114ACPZ-R7
+        U6         33      EP             PASSIVE     ADP2114ACPZ-R7
+        U7         6       GND_1          PASSIVE     ADP1754ACPZ-1.3-R7
+        U7         17      GND_2          PASSIVE     ADP1754ACPZ-1.3-R7
+        U8         17      GND            POWER       LTC4415EDHC#PBF
+        U9         3       GND            POWER       FT230XQ-R
+        U9         13      GND            POWER       FT230XQ-R
+        U9         17      GND            POWER       FT230XQ-R
+        U10        3       GND            PASSIVE     74LVC1G126GW
+        U11        3       GND            POWER       ADM7160ACPZN3.3-R7
+        U11        7       EPAD           POWER       ADM7160ACPZN3.3-R7
+        U12        3       GND            POWER       ADM7160ACPZN1.8-R7
+        U12        7       EPAD           PASSIVE     ADM7160ACPZN1.8-R7
+        U13        B3      VSS            POWER       MT25QU256ABA8E12-1SIT
+        U14        4       PGND           POWER       TPS51206DSQR
+        U14        8       GND            POWER       TPS51206DSQR
+        U14        11      EP             POWER       TPS51206DSQR
+        U15        33      GND            POWER       USB3320C-EZK
+        U16        B2      GND            POWER       ADP198ACBZ-11-R7
+        U17        1       FILTA          PASSIVE     LTC6957HMS-3#PBF
+        U17        5       GND            PASSIVE     LTC6957HMS-3#PBF
+        U17        8       GNDOUT         PASSIVE     LTC6957HMS-3#PBF
+        Y1         2       GND            POWER       ASDMB-24.000MHZ-LC-T
+        Y2         2       GND            POWER       ASDMB-33.333MHZ-LC-T
+        Y3         2       GND            POWER       40MHZXO
+
+[00075] FB_1P35V
+        R62        2       2              PASSIVE     17.8K
+        R63        1       1              PASSIVE     14.3K
+        U6         9       FB2            PASSIVE     ADP2114ACPZ-R7
+
+[00074] EN_POW_USB
+        R70        2       2              PASSIVE     27.4K
+        R71        1       1              PASSIVE     100
+        U8         3       EN1            INPUT       LTC4415EDHC#PBF
+
+[00073] EN_DAT_USB
+        R71        2       2              PASSIVE     100
+        R72        1       1              PASSIVE     8.06K
+        U8         6       E\N\2\         INPUT       LTC4415EDHC#PBF
+
+[00072] DDR3_WE#
+        R31        1       1              PASSIVE     120
+        U2         L3      WE#            INPUT       MT41K256M16TW-107 IT:P
+        U4         R3      PS_DDR_WE_B_502I/O         XC7Z010-1CLG225C
+
+[00071] DDR3_RST#
+        R42        1       1              PASSIVE     1K
+        U2         T2      RESET#         INPUT       MT41K256M16TW-107 IT:P
+        U4         L4      PS_DDR_DRST_B_5I/O         XC7Z010-1CLG225C
+
+[00070] DDR3_RAS#
+        R37        1       1              PASSIVE     120
+        U2         J3      RAS#           INPUT       MT41K256M16TW-107 IT:P
+        U4         R6      PS_DDR_RAS_B_50I/O         XC7Z010-1CLG225C
+
+[00069] DDR3_ODT
+        R33        1       1              PASSIVE     120
+        U2         K1      ODT            INPUT       MT41K256M16TW-107 IT:P
+        U4         K3      PS_DDR_ODT_502 I/O         XC7Z010-1CLG225C
+
+[00068] DDR3_DQS1_P
+        U2         C7      UDQS           I/O         MT41K256M16TW-107 IT:P
+        U4         G2      PS_DDR_DQS_P1_5I/O         XC7Z010-1CLG225C
+
+[00067] DDR3_DQS1_N
+        U2         B7      UDQS#          I/O         MT41K256M16TW-107 IT:P
+        U4         F2      PS_DDR_DQS_N1_5I/O         XC7Z010-1CLG225C
+
+[00066] DDR3_DQS0_P
+        U2         F3      LDQS           I/O         MT41K256M16TW-107 IT:P
+        U4         C2      PS_DDR_DQS_P0_5I/O         XC7Z010-1CLG225C
+
+[00065] DDR3_DQS0_N
+        U2         G3      LDQS#          I/O         MT41K256M16TW-107 IT:P
+        U4         B2      PS_DDR_DQS_N0_5I/O         XC7Z010-1CLG225C
+
+[00064] DDR3_DQ15
+        U2         A3      DQ15           I/O         MT41K256M16TW-107 IT:P
+        U4         H2      PS_DDR_DQ15_502I/O         XC7Z010-1CLG225C
+
+[00063] DDR3_DQ14
+        U2         B8      DQ14           I/O         MT41K256M16TW-107 IT:P
+        U4         H1      PS_DDR_DQ14_502I/O         XC7Z010-1CLG225C
+
+[00062] DDR3_DQ13
+        U2         A2      DQ13           I/O         MT41K256M16TW-107 IT:P
+        U4         G1      PS_DDR_DQ13_502I/O         XC7Z010-1CLG225C
+
+[00061] DDR3_DQ12
+        U2         A7      DQ12           I/O         MT41K256M16TW-107 IT:P
+        U4         F3      PS_DDR_DQ12_502I/O         XC7Z010-1CLG225C
+
+[00060] DDR3_DQ11
+        U2         C2      DQ11           I/O         MT41K256M16TW-107 IT:P
+        U4         E3      PS_DDR_DQ11_502I/O         XC7Z010-1CLG225C
+
+[00059] DDR3_DQ10
+        U2         C8      DQ10           I/O         MT41K256M16TW-107 IT:P
+        U4         E2      PS_DDR_DQ10_502I/O         XC7Z010-1CLG225C
+
+[00058] DDR3_DQ9
+        U2         C3      DQ9            I/O         MT41K256M16TW-107 IT:P
+        U4         D1      PS_DDR_DQ9_502 I/O         XC7Z010-1CLG225C
+
+[00057] DDR3_DQ8
+        U2         D7      DQ8            I/O         MT41K256M16TW-107 IT:P
+        U4         E1      PS_DDR_DQ8_502 I/O         XC7Z010-1CLG225C
+
+[00056] DDR3_DQ7
+        U2         H7      DQ7            I/O         MT41K256M16TW-107 IT:P
+        U4         A3      PS_DDR_DQ7_502 I/O         XC7Z010-1CLG225C
+
+[00055] DDR3_DQ6
+        U2         G2      DQ6            I/O         MT41K256M16TW-107 IT:P
+        U4         C3      PS_DDR_DQ6_502 I/O         XC7Z010-1CLG225C
+
+[00054] DDR3_DQ5
+        U2         H8      DQ5            I/O         MT41K256M16TW-107 IT:P
+        U4         A4      PS_DDR_DQ5_502 I/O         XC7Z010-1CLG225C
+
+[00053] DDR3_DQ4
+        U2         H3      DQ4            I/O         MT41K256M16TW-107 IT:P
+        U4         B4      PS_DDR_DQ4_502 I/O         XC7Z010-1CLG225C
+
+[00052] DDR3_DQ3
+        U2         F8      DQ3            I/O         MT41K256M16TW-107 IT:P
+        U4         C1      PS_DDR_DQ3_502 I/O         XC7Z010-1CLG225C
+
+[00051] DDR3_DQ2
+        U2         F2      DQ2            I/O         MT41K256M16TW-107 IT:P
+        U4         C4      PS_DDR_DQ2_502 I/O         XC7Z010-1CLG225C
+
+[00050] DDR3_DQ1
+        U2         F7      DQ1            I/O         MT41K256M16TW-107 IT:P
+        U4         A2      PS_DDR_DQ1_502 I/O         XC7Z010-1CLG225C
+
+[00049] DDR3_DQ0
+        U2         E3      DQ0            I/O         MT41K256M16TW-107 IT:P
+        U4         D4      PS_DDR_DQ0_502 I/O         XC7Z010-1CLG225C
+
+[00048] DDR3_DM1
+        U2         D3      UDM            INPUT       MT41K256M16TW-107 IT:P
+        U4         D3      PS_DDR_DM1_502 I/O         XC7Z010-1CLG225C
+
+[00047] DDR3_DM0
+        U2         E7      LDM            INPUT       MT41K256M16TW-107 IT:P
+        U4         B1      PS_DDR_DM0_502 I/O         XC7Z010-1CLG225C
+
+[00046] DDR3_CS#
+        R39        1       1              PASSIVE     120
+        U2         L2      CS#            INPUT       MT41K256M16TW-107 IT:P
+        U4         R2      PS_DDR_CS_B_502I/O         XC7Z010-1CLG225C
+
+[00045] DDR3_CKE
+        R38        1       1              PASSIVE     120
+        U2         K9      CKE            INPUT       MT41K256M16TW-107 IT:P
+        U4         L3      PS_DDR_CKE_502 I/O         XC7Z010-1CLG225C
+
+[00044] DDR3_CK_P
+        R142       1       1              PASSIVE     80.6
+        U2         J7      CK             INPUT       MT41K256M16TW-107 IT:P
+        U4         N3      PS_DDR_CKP_502 I/O         XC7Z010-1CLG225C
+
+[00043] DDR3_CK_N
+        R142       2       2              PASSIVE     80.6
+        U2         K7      CK#            INPUT       MT41K256M16TW-107 IT:P
+        U4         N2      PS_DDR_CKN_502 I/O         XC7Z010-1CLG225C
+
+[00042] DDR3_CAS#
+        R32        1       1              PASSIVE     120
+        U2         K3      CAS#           INPUT       MT41K256M16TW-107 IT:P
+        U4         R5      PS_DDR_CAS_B_50I/O         XC7Z010-1CLG225C
+
+[00041] DDR3_BA2
+        R36        1       1              PASSIVE     120
+        U2         M3      BA2            INPUT       MT41K256M16TW-107 IT:P
+        U4         N6      PS_DDR_BA2_502 I/O         XC7Z010-1CLG225C
+
+[00040] DDR3_BA1
+        R30        1       1              PASSIVE     120
+        U2         N8      BA1            INPUT       MT41K256M16TW-107 IT:P
+        U4         R1      PS_DDR_BA1_502 I/O         XC7Z010-1CLG225C
+
+[00039] DDR3_BA0
+        R35        1       1              PASSIVE     120
+        U2         M2      BA0            INPUT       MT41K256M16TW-107 IT:P
+        U4         M6      PS_DDR_BA0_502 I/O         XC7Z010-1CLG225C
+
+[00038] DDR3_A14
+        R29        1       1              PASSIVE     120
+        U2         T7      A14            INPUT       MT41K256M16TW-107 IT:P
+        U4         K1      PS_DDR_A14_502 I/O         XC7Z010-1CLG225C
+
+[00037] DDR3_A13
+        R34        1       1              PASSIVE     120
+        U2         T3      A13            INPUT       MT41K256M16TW-107 IT:P
+        U4         K2      PS_DDR_A13_502 I/O         XC7Z010-1CLG225C
+
+[00036] DDR3_A12
+        R28        1       1              PASSIVE     120
+        U2         N7      A12/BC#        INPUT       MT41K256M16TW-107 IT:P
+        U4         M2      PS_DDR_A12_502 I/O         XC7Z010-1CLG225C
+
+[00035] DDR3_A11
+        R27        1       1              PASSIVE     120
+        U2         R7      A11            INPUT       MT41K256M16TW-107 IT:P
+        U4         L2      PS_DDR_A11_502 I/O         XC7Z010-1CLG225C
+
+[00034] DDR3_A10
+        R21        1       1              PASSIVE     120
+        U2         L7      A10/AP         INPUT       MT41K256M16TW-107 IT:P
+        U4         J1      PS_DDR_A10_502 I/O         XC7Z010-1CLG225C
+
+[00033] DDR3_A9
+        R26        1       1              PASSIVE     120
+        U2         R3      A9             INPUT       MT41K256M16TW-107 IT:P
+        U4         N4      PS_DDR_A9_502  I/O         XC7Z010-1CLG225C
+
+[00032] DDR3_A8
+        R20        1       1              PASSIVE     120
+        U2         T8      A8             INPUT       MT41K256M16TW-107 IT:P
+        U4         P6      PS_DDR_A8_502  I/O         XC7Z010-1CLG225C
+
+[00031] DDR3_A7
+        R25        1       1              PASSIVE     120
+        U2         R2      A7             INPUT       MT41K256M16TW-107 IT:P
+        U4         M5      PS_DDR_A7_502  I/O         XC7Z010-1CLG225C
+
+[00030] DDR3_A6
+        R19        1       1              PASSIVE     120
+        U2         R8      A6             INPUT       MT41K256M16TW-107 IT:P
+        U4         P5      PS_DDR_A6_502  I/O         XC7Z010-1CLG225C
+
+[00029] DDR3_A5
+        R24        1       1              PASSIVE     120
+        U2         P2      A5             INPUT       MT41K256M16TW-107 IT:P
+        U4         P4      PS_DDR_A5_502  I/O         XC7Z010-1CLG225C
+
+[00028] DDR3_A4
+        R18        1       1              PASSIVE     120
+        U2         P8      A4             INPUT       MT41K256M16TW-107 IT:P
+        U4         P3      PS_DDR_A4_502  I/O         XC7Z010-1CLG225C
+
+[00027] DDR3_A3
+        R23        1       1              PASSIVE     120
+        U2         N2      A3             INPUT       MT41K256M16TW-107 IT:P
+        U4         M4      PS_DDR_A3_502  I/O         XC7Z010-1CLG225C
+
+[00026] DDR3_A2
+        R17        1       1              PASSIVE     120
+        U2         P3      A2             INPUT       MT41K256M16TW-107 IT:P
+        U4         M1      PS_DDR_A2_502  I/O         XC7Z010-1CLG225C
+
+[00025] DDR3_A1
+        R22        1       1              PASSIVE     120
+        U2         P7      A1             INPUT       MT41K256M16TW-107 IT:P
+        U4         N1      PS_DDR_A1_502  I/O         XC7Z010-1CLG225C
+
+[00024] DDR3_A0
+        R16        1       1              PASSIVE     120
+        U2         N3      A0             INPUT       MT41K256M16TW-107 IT:P
+        U4         P1      PS_DDR_A0_502  I/O         XC7Z010-1CLG225C
+
+[00023] CTRL_IN3
+        U4         F15     IO_L5N_T0_AD9N_I/O         XC7Z010-1CLG225C
+        U5         D5      CTRL_IN3       PASSIVE     AD9363ABCZ
+
+[00022] CTRL_IN2
+        U4         G15     IO_L5P_T0_AD9P_I/O         XC7Z010-1CLG225C
+        U5         D6      CTRL_IN2       PASSIVE     AD9363ABCZ
+
+[00021] CTRL_IN1
+        U4         F14     IO_L3N_T0_DQS_AI/O         XC7Z010-1CLG225C
+        U5         C6      CTRL_IN1       PASSIVE     AD9363ABCZ
+
+[00020] CTRL_IN0
+        U4         F13     IO_L3P_T0_DQS_AI/O         XC7Z010-1CLG225C
+        U5         C5      CTRL_IN0       PASSIVE     AD9363ABCZ
+
+[00019] COMP_1P35V
+        C143       1       1              PASSIVE     180pF
+        C144       1       1              PASSIVE     0.0033uF
+        U6         7       COMP2          PASSIVE     ADP2114ACPZ-R7
+
+[00018] COMP_1P8V
+        C142       1       1              PASSIVE     150pF
+        R60        1       1              PASSIVE     10K
+        U6         2       COMP1          PASSIVE     ADP2114ACPZ-R7
+
+[00017] CLK_SOURCE_SEL
+        Q2         1       G              PASSIVE     BSS138LT1G
+        Q3         1       G              PASSIVE     BSS138LT1G
+        R102       2       2              PASSIVE     39
+        R103       1       1              PASSIVE     2.2K
+
+[00016] BANK0B
+        C93        1       1              PASSIVE     0.47uF
+        C98        1       1              PASSIVE     0.1uF
+        E6         1       1              PASSIVE     100OHM FERRITE
+        U4         F6      CFGBVS_0       INPUT       XC7Z010-1CLG225C
+        U4         F8      GNDADC_0       POWER       XC7Z010-1CLG225C
+        U4         G8      VREFN_0        POWER       XC7Z010-1CLG225C
+        U4         H7      VREFP_0        POWER       XC7Z010-1CLG225C
+        U4         J7      DXP_0          I/O         XC7Z010-1CLG225C
+
+[00015] BANK0A
+        C93        2       2              PASSIVE     0.47uF
+        C98        2       2              PASSIVE     0.1uF
+        E5         1       1              PASSIVE     100OHM FERRITE
+        U4         F7      VCCADC_0       POWER       XC7Z010-1CLG225C
+
+[00014] AD9363_GPO_3
+        GPO3       1       TP             PASSIVE     TEST POINT
+        U5         B4      GPO_3          PASSIVE     AD9363ABCZ
+
+[00013] AD9363_GPO_2
+        GPO2       1       TP             PASSIVE     TEST POINT
+        U5         B5      GPO_2          PASSIVE     AD9363ABCZ
+
+[00012] AD9363_GPO_1
+        GPO1       1       TP             PASSIVE     TEST POINT
+        U5         B6      GPO_1          PASSIVE     AD9363ABCZ
+
+[00011] AD9363_GPO_0
+        GPO0       1       TP             PASSIVE     TEST POINT
+        U5         B7      GPO_0          PASSIVE     AD9363ABCZ
+
+[00010] AD9363_AUXDAC2
+        C208       1       1              PASSIVE     0.1uF
+        DAC2       1       TP             PASSIVE     TEST POINT
+        U5         C3      AUXDAC2        PASSIVE     AD9363ABCZ
+
+[00009] AD9363_AUXDAC1
+        C206       1       1              PASSIVE     0.1uF
+        DAC1       1       TP             PASSIVE     TEST POINT
+        R5         1       1              PASSIVE     1K
+        U5         B3      AUXDAC1        PASSIVE     AD9363ABCZ
+
+[00008] AD9363_AUXADC
+        ADC        1       TP             PASSIVE     TEST POINT
+        C207       1       1              PASSIVE     0.001uF
+        U5         L5      AUXADC         PASSIVE     AD9363ABCZ
+
+[00007] 3P3V_CLK
+        C200       1       1              PASSIVE     1uF
+        C201       1       1              PASSIVE     0.1uF
+        C202       1       1              PASSIVE     0.1uF
+        E8         2       2              PASSIVE     100OHM FERRITE
+        R85        2       2              PASSIVE     4.7K
+        U17        2       V+             PASSIVE     LTC6957HMS-3#PBF
+        U17        6       FILTB          PASSIVE     LTC6957HMS-3#PBF
+        U17        11      VDD            PASSIVE     LTC6957HMS-3#PBF
+
+[00006] 3P3V
+        C198       1       1              PASSIVE     2.2uF
+        C199       1       1              PASSIVE     1uF
+        C203       1       1              PASSIVE     0.1uF
+        E8         1       1              PASSIVE     100OHM FERRITE
+        U5         B8      VDD_GPO        PASSIVE     AD9363ABCZ
+        U11        1       VOUT           POWER       ADM7160ACPZN3.3-R7
+        VDD_GPO    1       TP             PASSIVE     TEST POINT
+
+[00005] 1v35
+        1V35       1       TP             PASSIVE     TEST POINT
+        C54        2       2              PASSIVE     100uF
+        C55        1       1              PASSIVE     4.7uF
+        C56        1       1              PASSIVE     0.47uF
+        C57        1       1              PASSIVE     0.47uF
+        C58        1       1              PASSIVE     0.47uF
+        C59        1       1              PASSIVE     0.47uF
+        C60        1       1              PASSIVE     0.1uF
+        C61        1       1              PASSIVE     0.01uF
+        C86        1       1              PASSIVE     4.7uF
+        C87        1       1              PASSIVE     4.7uF
+        C88        1       1              PASSIVE     0.47uF
+        C89        1       1              PASSIVE     0.47uF
+        C91        1       1              PASSIVE     0.1uF
+        C92        1       1              PASSIVE     0.1uF
+        C94        1       1              PASSIVE     0.1uF
+        C95        1       1              PASSIVE     0.1uF
+        C96        1       1              PASSIVE     0.1uF
+        C97        1       1              PASSIVE     0.1uF
+        C100       1       1              PASSIVE     100uF
+        C145       1       1              PASSIVE     47uF
+        C148       1       1              PASSIVE     47uF
+        C151       1       1              PASSIVE     10uF
+        L2         2       2              PASSIVE     1.5uH
+        R41        1       1              PASSIVE     240
+        R62        1       1              PASSIVE     17.8K
+        U2         A1      VDDQ           POWER       MT41K256M16TW-107 IT:P
+        U2         A8      VDDQ           POWER       MT41K256M16TW-107 IT:P
+        U2         B2      VDD            POWER       MT41K256M16TW-107 IT:P
+        U2         C1      VDDQ           POWER       MT41K256M16TW-107 IT:P
+        U2         C9      VDDQ           POWER       MT41K256M16TW-107 IT:P
+        U2         D2      VDDQ           POWER       MT41K256M16TW-107 IT:P
+        U2         D9      VDD            POWER       MT41K256M16TW-107 IT:P
+        U2         E9      VDDQ           POWER       MT41K256M16TW-107 IT:P
+        U2         F1      VDDQ           POWER       MT41K256M16TW-107 IT:P
+        U2         G7      VDD            POWER       MT41K256M16TW-107 IT:P
+        U2         H2      VDDQ           POWER       MT41K256M16TW-107 IT:P
+        U2         H9      VDDQ           POWER       MT41K256M16TW-107 IT:P
+        U2         K2      VDD            POWER       MT41K256M16TW-107 IT:P
+        U2         K8      VDD            POWER       MT41K256M16TW-107 IT:P
+        U2         N1      VDD            POWER       MT41K256M16TW-107 IT:P
+        U2         N9      VDD            POWER       MT41K256M16TW-107 IT:P
+        U2         R1      VDD            POWER       MT41K256M16TW-107 IT:P
+        U2         R9      VDD            POWER       MT41K256M16TW-107 IT:P
+        U4         B3      VCCO_DDR_502   POWER       XC7Z010-1CLG225C
+        U4         E4      VCCO_DDR_502   POWER       XC7Z010-1CLG225C
+        U4         F1      VCCO_DDR_502   POWER       XC7Z010-1CLG225C
+        U4         J2      VCCO_DDR_502   POWER       XC7Z010-1CLG225C
+        U4         M3      VCCO_DDR_502   POWER       XC7Z010-1CLG225C
+        U4         R4      VCCO_DDR_502   POWER       XC7Z010-1CLG225C
+        U14        1       VDDQSNS        INPUT       TPS51206DSQR
+
+[00004] 1v8
+        1V8        1       TP             PASSIVE     TEST POINT
+        1V8_2      1       TP             PASSIVE     TEST POINT
+        C1         1       1              PASSIVE     0.1uF
+        C10        1       1              PASSIVE     0.1uF
+        C22        1       1              PASSIVE     10uF
+        C25        1       1              PASSIVE     0.1uF
+        C46        1       1              PASSIVE     0.1uF
+        C49        1       1              PASSIVE     100uF
+        C50        1       1              PASSIVE     4.7uF
+        C51        1       1              PASSIVE     0.47uF
+        C52        1       1              PASSIVE     0.1uF
+        C53        1       1              PASSIVE     0.01uF
+        C65        1       1              PASSIVE     47uF
+        C67        1       1              PASSIVE     4.7uF
+        C69        1       1              PASSIVE     0.47uF
+        C76        1       1              PASSIVE     100uF
+        C78        1       1              PASSIVE     4.7uF
+        C82        1       1              PASSIVE     10uF
+        C83        1       1              PASSIVE     10uF
+        C90        1       1              PASSIVE     0.47uF
+        C103       1       1              PASSIVE     47uF
+        C104       1       1              PASSIVE     47uF
+        C105       1       1              PASSIVE     4.7uF
+        C106       1       1              PASSIVE     4.7uF
+        C107       1       1              PASSIVE     4.7uF
+        C108       1       1              PASSIVE     4.7uF
+        C109       1       1              PASSIVE     0.47uF
+        C110       1       1              PASSIVE     0.47uF
+        C111       1       1              PASSIVE     0.47uF
+        C112       1       1              PASSIVE     0.47uF
+        C113       1       1              PASSIVE     0.47uF
+        C114       1       1              PASSIVE     0.47uF
+        C115       1       1              PASSIVE     0.47uF
+        C116       1       1              PASSIVE     0.47uF
+        C117       1       1              PASSIVE     0.1uF
+        C118       1       1              PASSIVE     0.1uF
+        C119       1       1              PASSIVE     0.01uF
+        C120       1       1              PASSIVE     0.01uF
+        C140       1       1              PASSIVE     1uF
+        C149       1       1              PASSIVE     100uF
+        C150       1       1              PASSIVE     100uF
+        C152       1       1              PASSIVE     10uF
+        C154       1       1              PASSIVE     1uF
+        C163       1       1              PASSIVE     0.1uF
+        C168       1       1              PASSIVE     1uF
+        C174       1       1              PASSIVE     4.7uF
+        C186       1       1              PASSIVE     0.1uF
+        C190       1       1              PASSIVE     0.1uF
+        E1         1       1              PASSIVE     100OHM FERRITE
+        E4         1       1              PASSIVE     100OHM FERRITE
+        E5         2       2              PASSIVE     100OHM FERRITE
+        L5         2       2              PASSIVE     EPL2010-271MLB
+        P1         10      10             PASSIVE     FTSH-105-01-L-DV
+        R11        1       1              PASSIVE     4.7K
+        R14        1       1              PASSIVE     240
+        R44        1       1              PASSIVE     0
+        R45        1       1              PASSIVE     0
+        R46        1       1              PASSIVE     4.7K
+        R47        1       1              PASSIVE     4.7K
+        R57        1       1              PASSIVE     20K
+        R64        1       1              PASSIVE     46.4K
+        R68        2       2              PASSIVE     2.2K
+        R74        2       2              PASSIVE     10K
+        R76        2       2              PASSIVE     20K
+        R83        1       1              PASSIVE     20K
+        R84        1       1              PASSIVE     20K
+        R94        2       2              PASSIVE     10K
+        R97        2       2              PASSIVE     2.2K
+        R107       1       1              PASSIVE     10K
+        R122       2       2              PASSIVE     20K
+        U1         1       VIN_1          PASSIVE     ADP1754ACPZ-1.3-R7
+        U1         2       VIN_2          PASSIVE     ADP1754ACPZ-1.3-R7
+        U1         3       VIN_3          PASSIVE     ADP1754ACPZ-1.3-R7
+        U1         15      VIN_4          PASSIVE     ADP1754ACPZ-1.3-R7
+        U1         16      VIN_5          PASSIVE     ADP1754ACPZ-1.3-R7
+        U4         A6      VCCO_MIO0_500  POWER       XC7Z010-1CLG225C
+        U4         C10     VCCO_MIO1_501  POWER       XC7Z010-1CLG225C
+        U4         D7      VCCO_MIO0_500  POWER       XC7Z010-1CLG225C
+        U4         E14     VCCO_MIO1_501  POWER       XC7Z010-1CLG225C
+        U4         G4      RSVDVCC1       POWER       XC7Z010-1CLG225C
+        U4         H4      RSVDVCC3       POWER       XC7Z010-1CLG225C
+        U4         H9      VCCAUX         POWER       XC7Z010-1CLG225C
+        U4         J4      RSVDVCC2       POWER       XC7Z010-1CLG225C
+        U4         J6      VCCPAUX        POWER       XC7Z010-1CLG225C
+        U4         J8      VCCAUX         POWER       XC7Z010-1CLG225C
+        U4         J12     VCCO_34        POWER       XC7Z010-1CLG225C
+        U4         K8      VCCO_0         POWER       XC7Z010-1CLG225C
+        U4         K9      VCCAUX         POWER       XC7Z010-1CLG225C
+        U4         L6      VCCPAUX        POWER       XC7Z010-1CLG225C
+        U4         M13     VCCO_34        POWER       XC7Z010-1CLG225C
+        U4         N10     VCCO_34        POWER       XC7Z010-1CLG225C
+        U4         P7      VCCO_34        POWER       XC7Z010-1CLG225C
+        U4         R14     VCCO_34        POWER       XC7Z010-1CLG225C
+        U7         1       VIN_1          PASSIVE     ADP1754ACPZ-1.3-R7
+        U7         2       VIN_2          PASSIVE     ADP1754ACPZ-1.3-R7
+        U7         3       VIN_3          PASSIVE     ADP1754ACPZ-1.3-R7
+        U7         15      VIN_4          PASSIVE     ADP1754ACPZ-1.3-R7
+        U7         16      VIN_5          PASSIVE     ADP1754ACPZ-1.3-R7
+        U9         1       VCCIO          POWER       FT230XQ-R
+        U10        5       VCC            PASSIVE     74LVC1G126GW
+        U13        B4      VCC            POWER       MT25QU256ABA8E12-1SIT
+        U15        8       REFSEL[0]      INPUT       USB3320C-EZK
+        U15        11      REFSEL[1]      INPUT       USB3320C-EZK
+        U15        14      REFSEL[2]      INPUT       USB3320C-EZK
+        U15        28      VDD18          POWER       USB3320C-EZK
+        U15        30      VDD18          POWER       USB3320C-EZK
+        U15        32      VDDIO          POWER       USB3320C-EZK
+        Y1         4       VDD            POWER       ASDMB-24.000MHZ-LC-T
+        Y2         4       VDD            POWER       ASDMB-33.333MHZ-LC-T
+
+[00003] 1P8V_CLK
+        1P8V_CLK   1       TP             PASSIVE     TEST POINT
+        C121       1       1              PASSIVE     10uF
+        C122       1       1              PASSIVE     0.1uF
+        C170       1       1              PASSIVE     1uF
+        R101       2       2              PASSIVE     2.2K
+        U12        1       VOUT           OUTPUT      ADM7160ACPZN1.8-R7
+        Y3         4       VDD            PASSIVE     40MHZXO
+
+[00002] 1P3_SUPPLY_B
+        1P3V_B     1       TP             PASSIVE     TEST POINT
+        C3         1       1              PASSIVE     10uF
+        C4         1       1              PASSIVE     10uF
+        C5         1       1              PASSIVE     0.1uF
+        C6         1       1              PASSIVE     0.1uF
+        C26        1       1              PASSIVE     0.01uF
+        C27        1       1              PASSIVE     0.01uF
+        C30        1       1              PASSIVE     1uF
+        C31        1       1              PASSIVE     1uF
+        C36        1       1              PASSIVE     1uF
+        C37        1       1              PASSIVE     1uF
+        C41        1       1              PASSIVE     0.01uF
+        C42        1       1              PASSIVE     0.01uF
+        C129       1       1              PASSIVE     0.001uF
+        C155       1       1              PASSIVE     10uF
+        C166       1       1              PASSIVE     0.001uF
+        C167       1       1              PASSIVE     10uF
+        C191       1       1              PASSIVE     0.01uF
+        C192       1       1              PASSIVE     1uF
+        C193       1       1              PASSIVE     0.001uF
+        C194       1       1              PASSIVE     0.001uF
+        L1         2       2              PASSIVE     330nH
+        L7         2       2              PASSIVE     330nH
+        L8         2       2              PASSIVE     330nH
+        L9         2       2              PASSIVE     330nH
+        U1         9       SENSE          PASSIVE     ADP1754ACPZ-1.3-R7
+        U1         10      VOUT_1         PASSIVE     ADP1754ACPZ-1.3-R7
+        U1         11      VOUT_2         PASSIVE     ADP1754ACPZ-1.3-R7
+        U1         12      VOUT_3         PASSIVE     ADP1754ACPZ-1.3-R7
+        U1         13      VOUT_4         PASSIVE     ADP1754ACPZ-1.3-R7
+        U1         14      VOUT_5         PASSIVE     ADP1754ACPZ-1.3-R7
+        U5         A9      TX2B_N         PASSIVE     AD9363ABCZ
+        U5         A10     TX2B_P         PASSIVE     AD9363ABCZ
+        U5         F12     VDDD1P3_DIG    PASSIVE     AD9363ABCZ
+        U5         J3      VDDA1P3_RX_SYNTPASSIVE     AD9363ABCZ
+        U5         K4      VDDA1P3_BB     PASSIVE     AD9363ABCZ
+        U5         M9      TX1B_P         PASSIVE     AD9363ABCZ
+        U5         M10     TX1B_N         PASSIVE     AD9363ABCZ
+
+[00001] 1P3_SUPPLY_A
+        1P3V_A     1       TP             PASSIVE     TEST POINT
+        C14        1       1              PASSIVE     10uF
+        C15        1       1              PASSIVE     10uF
+        C16        1       1              PASSIVE     0.1uF
+        C18        1       1              PASSIVE     0.1uF
+        C23        1       1              PASSIVE     0.01uF
+        C24        1       1              PASSIVE     0.01uF
+        C28        1       1              PASSIVE     1uF
+        C29        1       1              PASSIVE     1uF
+        C34        1       1              PASSIVE     1uF
+        C35        1       1              PASSIVE     1uF
+        C39        1       1              PASSIVE     0.01uF
+        C40        1       1              PASSIVE     0.01uF
+        U5         B9      VDDA1P3_TX_LO  PASSIVE     AD9363ABCZ
+        U5         B10     VDDA1P3_TX_VCO_PASSIVE     AD9363ABCZ
+        U5         D3      VDDA1P3_RX_TX  PASSIVE     AD9363ABCZ
+        U5         E2      VDDA1P3_RX_LO  PASSIVE     AD9363ABCZ
+        U5         F2      VDDA1P3_RX_VCO_PASSIVE     AD9363ABCZ
+        U5         K3      VDDA1P3_TX_SYNTPASSIVE     AD9363ABCZ
+        U7         9       SENSE          PASSIVE     ADP1754ACPZ-1.3-R7
+        U7         10      VOUT_1         PASSIVE     ADP1754ACPZ-1.3-R7
+        U7         11      VOUT_2         PASSIVE     ADP1754ACPZ-1.3-R7
+        U7         12      VOUT_3         PASSIVE     ADP1754ACPZ-1.3-R7
+        U7         13      VOUT_4         PASSIVE     ADP1754ACPZ-1.3-R7
+        U7         14      VOUT_5         PASSIVE     ADP1754ACPZ-1.3-R7
+
