@@ -1,0 +1,39 @@
+Replace Part A1 PMA2-63LN+ in D:\EEET 2022\SEM 2\Capstone B\PlutoV2\capstone\RF FRONTEND.SchDoc with PMA2-63LN+ from SamacSys.SchLib
+Replace Part A2 PMA2-63LN+ in D:\EEET 2022\SEM 2\Capstone B\PlutoV2\capstone\RF FRONTEND.SchDoc with PMA2-63LN+ from SamacSys.SchLib
+Replace Part A3 TQP3M9009 in D:\EEET 2022\SEM 2\Capstone B\PlutoV2\capstone\RF FRONTEND.SchDoc with TQP3M9009 from SamacSys.SchLib
+Update Managed Component A4 From CMP-09142-000062-1[ADL5324ARKZ-R7] To CMP-09142-000062-1[ADL5324ARKZ-R7] in RF FRONTEND.SchDoc
+Update Managed Component C129 From CMP-2010-01706-2[0.001uF] To CMP-2010-01706-2[GRM033R71E102KA01D] in RF FRONTEND.SchDoc
+Update Managed Component C131 From CMP-2010-01507-2[18pF] To CMP-2010-01507-2[GRM0335C1H180JA01D] in RF FRONTEND.SchDoc
+Update Managed Component C132 From CMP-2010-01507-2[18pF] To CMP-2010-01507-2[GRM0335C1H180JA01D] in RF FRONTEND.SchDoc
+Update Managed Component C133 From CMP-2010-01507-2[18pF] To CMP-2010-01507-2[GRM0335C1H180JA01D] in RF FRONTEND.SchDoc
+Update Managed Component C134 From CMP-2010-01507-2[18pF] To CMP-2010-01507-2[GRM0335C1H180JA01D] in RF FRONTEND.SchDoc
+Update Managed Component C155 From CMP-2006-02792-2[10uF] To CMP-2006-02792-2[GRM188R60J106ME47D] in RF FRONTEND.SchDoc
+Update Managed Component C194 From CMP-2010-01706-2[0.001uF] To CMP-2010-01706-2[GRM033R71E102KA01D] in RF FRONTEND.SchDoc
+Update Managed Component C220 From CMP-2008-04269-1[150pF] To CMP-2008-04269-1[GRM1555C1H151JA01D] in RF FRONTEND.SchDoc
+Update Managed Component C221 From CMP-2008-03915-1[100pF] To CMP-2008-03915-1[GRM1555C1H101JA01D] in RF FRONTEND.SchDoc
+Update Managed Component C222 From CMP-2008-04581-2[1uF] To CMP-2008-04581-2[GRM155R61E105KA12D] in RF FRONTEND.SchDoc
+Update Managed Component C223 From CMP-2008-04269-1[150pF] To CMP-2008-04269-1[GRM1555C1H151JA01D] in RF FRONTEND.SchDoc
+Update Managed Component C224 From CMP-2008-03915-1[100pF] To CMP-2008-03915-1[GRM1555C1H101JA01D] in RF FRONTEND.SchDoc
+Update Managed Component C225 From CMP-2008-04581-2[1uF] To CMP-2008-04581-2[GRM155R61E105KA12D] in RF FRONTEND.SchDoc
+Update Managed Component C226 From CMP-2008-04269-1[150pF] To CMP-2008-04269-1[GRM1555C1H151JA01D] in RF FRONTEND.SchDoc
+Update Managed Component C227 From CMP-2008-04269-1[150pF] To CMP-2008-04269-1[GRM1555C1H151JA01D] in RF FRONTEND.SchDoc
+Update Managed Component C228 From CMP-2008-03835-2[2.2pF] To CMP-2008-03835-2[GJM1555C1H2R2BB01D] in RF FRONTEND.SchDoc
+Update Managed Component C229 From CMP-2008-03915-1[100pF] To CMP-2008-03915-1[GRM1555C1H101JA01D] in RF FRONTEND.SchDoc
+Update Managed Component C230 From CMP-2008-04581-2[1uF] To CMP-2008-04581-2[GRM155R61E105KA12D] in RF FRONTEND.SchDoc
+Update Managed Component C231 From CMP-2008-03835-2[2.2pF] To CMP-2008-03835-2[GJM1555C1H2R2BB01D] in RF FRONTEND.SchDoc
+Update Managed Component C232 From CMP-2008-03835-2[2.2pF] To CMP-2008-03835-2[GJM1555C1H2R2BB01D] in RF FRONTEND.SchDoc
+Update Managed Component C233 From CMP-2008-03828-2[20pF] To CMP-2008-03828-2[GJM1555C1H200GB01D] in RF FRONTEND.SchDoc
+Update Managed Component C234 From CMP-06035-029125-1[1uF] To CMP-06035-029125-1[GRM155R61E105KA12J] in RF FRONTEND.SchDoc
+Update Managed Component C235 From CMP-2008-03915-1[100pF] To CMP-2008-03915-1[GRM1555C1H101JA01D] in RF FRONTEND.SchDoc
+Update Managed Component D4 From CMP-1063-00281-1[ESD8472MUT5G] To CMP-1063-00281-1[ESD8472MUT5G] in RF FRONTEND.SchDoc
+Update Managed Component D9 From CMP-1063-00281-1[ESD8472MUT5G] To CMP-1063-00281-1[ESD8472MUT5G] in RF FRONTEND.SchDoc
+Replace Part L8 Inductor in D:\EEET 2022\SEM 2\Capstone B\PlutoV2\capstone\RF FRONTEND.SchDoc with Inductor from Miscellaneous Devices.IntLib
+Replace Part L9 Inductor in D:\EEET 2022\SEM 2\Capstone B\PlutoV2\capstone\RF FRONTEND.SchDoc with Inductor from Miscellaneous Devices.IntLib
+Replace Part L11 Inductor in D:\EEET 2022\SEM 2\Capstone B\PlutoV2\capstone\RF FRONTEND.SchDoc with Inductor from Miscellaneous Devices.IntLib
+Replace Part L12 Inductor in D:\EEET 2022\SEM 2\Capstone B\PlutoV2\capstone\RF FRONTEND.SchDoc with Inductor from Miscellaneous Devices.IntLib
+Replace Part L13 Inductor in D:\EEET 2022\SEM 2\Capstone B\PlutoV2\capstone\RF FRONTEND.SchDoc with Inductor from Miscellaneous Devices.IntLib
+Replace Part L14 Inductor in D:\EEET 2022\SEM 2\Capstone B\PlutoV2\capstone\RF FRONTEND.SchDoc with Inductor from Miscellaneous Devices.IntLib
+Update Managed Component RX1A From CMP-02754-000006-1[SMA-J-P-H-ST-EM1] To CMP-02754-000006-1[SMA-J-P-H-ST-EM1] in RF FRONTEND.SchDoc
+Update Managed Component T1 From CMP-199822-000001-1[TCM1-63AX+] To CMP-199822-000001-1[TCM1-63AX+] in RF FRONTEND.SchDoc
+Update Managed Component T5 From CMP-199822-000001-1[TCM1-63AX+] To CMP-199822-000001-1[TCM1-63AX+] in RF FRONTEND.SchDoc
+Update Managed Component TX1A From CMP-02754-000006-1[SMA-J-P-H-ST-EM1] To CMP-02754-000006-1[SMA-J-P-H-ST-EM1] in RF FRONTEND.SchDoc

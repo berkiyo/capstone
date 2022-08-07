@@ -1,0 +1,16 @@
+Change Component Designator: OldDesignator=98 NewDesignator=R98
+Change Net Name : Old Net Name=Net98_1 New Net Name=NetR98_1
+Change Net Name : Old Net Name=Net98_2 New Net Name=NetCLK_OUT_3
+Added Room: Name=AD9363
+Added Room: Name=AD9363 OSCILLATORS
+Added Room: Name=CONNECTORS_SELECTORS
+Added Room: Name=DDR3
+Added Room: Name=POWERMANAGE2
+Added Room: Name=POWERMANAGE
+Added Room: Name=POWERREG
+Added Room: Name=RF Frontend 2
+Added Room: Name=RF FRONTEND
+Added Room: Name=TESTPOINTS
+Added Room: Name=USB
+Added Room: Name=ZYNQ 34_35 and QPSI
+Added Room: Name=ZYNQ JTAG and Decoupling

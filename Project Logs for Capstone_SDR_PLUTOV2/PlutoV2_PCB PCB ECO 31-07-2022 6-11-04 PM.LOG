@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=PG_1P35V Pin=R50-2
+Removed Pin From Net: NetName=PG_1P8V Pin=R59-2
+Change Component Designator: OldDesignator=137 NewDesignator=C137
+Added Pin To Net: NetName=1v8 Pin=R50-2
+Added Pin To Net: NetName=VIN Pin=R59-2
+Added Room: Name=CONNECTORS_SELECTORS
+Added Room: Name=POWERMANAGE
+Added Room: Name=POWERREG
+Added Room: Name=TESTPOINTS
+Added Room: Name=USB
+Added Room: Name=ZYNQ 34_35 and QPSI
+Added Room: Name=ZYNQ JTAG and Decoupling

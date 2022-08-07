@@ -1,0 +1,19 @@
+BGA Escape Route
+Filename     : D:\EEET 2022\SEM 2\Capstone B\PlutoV2\capstone\PlutoV2_PCB.PcbDoc
+Date         : 4/08/2022
+Time         : 9:19:19 PM
+Time Elapsed : 00:00:00
+
+U5
+    Pad U5-C4(2591.024mil,-1457.992mil) on L1_TOP on  No Net 
+    Pad U5-G10(2717.008mil,-1269.016mil) on L1_TOP on  No Net 
+    Pad U5-H9(2748.504mil,-1300.512mil) on L1_TOP on  No Net 
+    Pad U5-H8(2748.504mil,-1332.008mil) on L1_TOP on Net IO_L06_34_RX_D11
+    Pad U5-E8(2654.016mil,-1332.008mil) on L1_TOP on Net IO_L19_34_TX_D8
+    Pad U5-H5(2748.504mil,-1426.496mil) on L1_TOP on Net GND
+    Pad U5-E5(2654.016mil,-1426.496mil) on L1_TOP on Net IO_L13_34_CTRL_OUT2
+    Pad U5-G7(2717.008mil,-1363.504mil) on L1_TOP on  No Net 
+    Pad U5-F7(2685.512mil,-1363.504mil) on L1_TOP on Net GND
+    Pad U5-G6(2717.008mil,-1395mil) on L1_TOP on Net IO_L11_34_ENABLE
+    Pad U5-F6(2685.512mil,-1395mil) on L1_TOP on Net IO_L21_34_CTRL_OUT4
+count : 11

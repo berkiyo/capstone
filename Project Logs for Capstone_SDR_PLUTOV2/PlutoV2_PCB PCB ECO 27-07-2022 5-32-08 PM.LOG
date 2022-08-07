@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=1v8 Pin=U4-F11
+Added Pin To Net: NetName=1v8 Pin=U4-H15
+Added Room: Name=CONNECTORS_SELECTORS
+Added Room: Name=TESTPOINTS
+Added Room: Name=USB
+Added Room: Name=ZYNQ 34_35 and QPSI
