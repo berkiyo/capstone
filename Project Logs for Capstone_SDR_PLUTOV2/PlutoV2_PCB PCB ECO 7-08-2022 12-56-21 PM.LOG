@@ -1,0 +1,14 @@
+Change Room Name: Old Name=BGA3 New Name=TESTPOINTS
+Change Room Scope: Old Scope=InComponentClass('Room Definition1') New Scope=InComponentClass('TESTPOINTS')
+Added Room: Name=AD9363
+Added Room: Name=AD9363 OSCILLATORS
+Added Room: Name=CONNECTORS_SELECTORS
+Added Room: Name=DDR3
+Added Room: Name=POWERMANAGE2
+Added Room: Name=POWERMANAGE
+Added Room: Name=POWERREG
+Added Room: Name=RF Frontend 2
+Added Room: Name=RF FRONTEND
+Added Room: Name=USB
+Added Room: Name=ZYNQ 34_35 and QPSI
+Added Room: Name=ZYNQ JTAG and Decoupling

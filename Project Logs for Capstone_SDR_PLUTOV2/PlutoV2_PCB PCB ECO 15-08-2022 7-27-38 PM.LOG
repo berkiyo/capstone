@@ -1,0 +1,125 @@
+Added Component: Designator=U2(MICT-TW-96)
+Add component (AddParameter): Name = "Access Time"; Value = "1.07ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Address Bus Width"; Value = "15b"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Silver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Data Bus Width"; Value = "16b"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://www.micron.com/~/media/documents/products/data-sheet/dram/ddr3/4gb_automotive_ddr3l.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. D, 02/2017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Density"; Value = "4Gb"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Micron"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.micron.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Frequency"; Value = "933MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "95degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Voltage"; Value = "1.35V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "96-Ball Fine Pitch Ball Grid Array, Body 14 x 8 mm, Pitch 0.8 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "TW-96"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=1v35 Pin=U2-A1
+Added Pin To Net: NetName=DDR3_DQ13 Pin=U2-A2
+Added Pin To Net: NetName=DDR3_DQ15 Pin=U2-A3
+Added Pin To Net: NetName=DDR3_DQ12 Pin=U2-A7
+Added Pin To Net: NetName=1v35 Pin=U2-A8
+Added Pin To Net: NetName=GND Pin=U2-A9
+Added Pin To Net: NetName=GND Pin=U2-B1
+Added Pin To Net: NetName=1v35 Pin=U2-B2
+Added Pin To Net: NetName=GND Pin=U2-B3
+Added Pin To Net: NetName=DDR3_DQS1_N Pin=U2-B7
+Added Pin To Net: NetName=DDR3_DQ14 Pin=U2-B8
+Added Pin To Net: NetName=GND Pin=U2-B9
+Added Pin To Net: NetName=1v35 Pin=U2-C1
+Added Pin To Net: NetName=DDR3_DQ11 Pin=U2-C2
+Added Pin To Net: NetName=DDR3_DQ9 Pin=U2-C3
+Added Pin To Net: NetName=DDR3_DQS1_P Pin=U2-C7
+Added Pin To Net: NetName=DDR3_DQ10 Pin=U2-C8
+Added Pin To Net: NetName=1v35 Pin=U2-C9
+Added Pin To Net: NetName=GND Pin=U2-D1
+Added Pin To Net: NetName=1v35 Pin=U2-D2
+Added Pin To Net: NetName=DDR3_DM1 Pin=U2-D3
+Added Pin To Net: NetName=DDR3_DQ8 Pin=U2-D7
+Added Pin To Net: NetName=GND Pin=U2-D8
+Added Pin To Net: NetName=1v35 Pin=U2-D9
+Added Pin To Net: NetName=GND Pin=U2-E1
+Added Pin To Net: NetName=GND Pin=U2-E2
+Added Pin To Net: NetName=DDR3_DQ0 Pin=U2-E3
+Added Pin To Net: NetName=DDR3_DM0 Pin=U2-E7
+Added Pin To Net: NetName=GND Pin=U2-E8
+Added Pin To Net: NetName=1v35 Pin=U2-E9
+Added Pin To Net: NetName=1v35 Pin=U2-F1
+Added Pin To Net: NetName=DDR3_DQ2 Pin=U2-F2
+Added Pin To Net: NetName=DDR3_DQS0_P Pin=U2-F3
+Added Pin To Net: NetName=DDR3_DQ1 Pin=U2-F7
+Added Pin To Net: NetName=DDR3_DQ3 Pin=U2-F8
+Added Pin To Net: NetName=GND Pin=U2-F9
+Added Pin To Net: NetName=GND Pin=U2-G1
+Added Pin To Net: NetName=DDR3_DQ6 Pin=U2-G2
+Added Pin To Net: NetName=DDR3_DQS0_N Pin=U2-G3
+Added Pin To Net: NetName=1v35 Pin=U2-G7
+Added Pin To Net: NetName=GND Pin=U2-G8
+Added Pin To Net: NetName=GND Pin=U2-G9
+Added Pin To Net: NetName=VTTVREF Pin=U2-H1
+Added Pin To Net: NetName=1v35 Pin=U2-H2
+Added Pin To Net: NetName=DDR3_DQ4 Pin=U2-H3
+Added Pin To Net: NetName=DDR3_DQ7 Pin=U2-H7
+Added Pin To Net: NetName=DDR3_DQ5 Pin=U2-H8
+Added Pin To Net: NetName=1v35 Pin=U2-H9
+Added Pin To Net: NetName=GND Pin=U2-J2
+Added Pin To Net: NetName=DDR3_RAS# Pin=U2-J3
+Added Pin To Net: NetName=DDR3_CK_P Pin=U2-J7
+Added Pin To Net: NetName=GND Pin=U2-J8
+Added Pin To Net: NetName=DDR3_ODT Pin=U2-K1
+Added Pin To Net: NetName=1v35 Pin=U2-K2
+Added Pin To Net: NetName=DDR3_CAS# Pin=U2-K3
+Added Pin To Net: NetName=DDR3_CK_N Pin=U2-K7
+Added Pin To Net: NetName=1v35 Pin=U2-K8
+Added Pin To Net: NetName=DDR3_CKE Pin=U2-K9
+Added Pin To Net: NetName=DDR3_CS# Pin=U2-L2
+Added Pin To Net: NetName=DDR3_WE# Pin=U2-L3
+Added Pin To Net: NetName=DDR3_A10 Pin=U2-L7
+Added Pin To Net: NetName=NetR165_1 Pin=U2-L8
+Added Pin To Net: NetName=GND Pin=U2-M1
+Added Pin To Net: NetName=DDR3_BA0 Pin=U2-M2
+Added Pin To Net: NetName=DDR3_BA2 Pin=U2-M3
+Added Pin To Net: NetName=VTTVREF Pin=U2-M8
+Added Pin To Net: NetName=GND Pin=U2-M9
+Added Pin To Net: NetName=1v35 Pin=U2-N1
+Added Pin To Net: NetName=DDR3_A3 Pin=U2-N2
+Added Pin To Net: NetName=DDR3_A0 Pin=U2-N3
+Added Pin To Net: NetName=DDR3_A12 Pin=U2-N7
+Added Pin To Net: NetName=DDR3_BA1 Pin=U2-N8
+Added Pin To Net: NetName=1v35 Pin=U2-N9
+Added Pin To Net: NetName=GND Pin=U2-P1
+Added Pin To Net: NetName=DDR3_A5 Pin=U2-P2
+Added Pin To Net: NetName=DDR3_A2 Pin=U2-P3
+Added Pin To Net: NetName=DDR3_A1 Pin=U2-P7
+Added Pin To Net: NetName=DDR3_A4 Pin=U2-P8
+Added Pin To Net: NetName=GND Pin=U2-P9
+Added Pin To Net: NetName=1v35 Pin=U2-R1
+Added Pin To Net: NetName=DDR3_A7 Pin=U2-R2
+Added Pin To Net: NetName=DDR3_A9 Pin=U2-R3
+Added Pin To Net: NetName=DDR3_A11 Pin=U2-R7
+Added Pin To Net: NetName=DDR3_A6 Pin=U2-R8
+Added Pin To Net: NetName=1v35 Pin=U2-R9
+Added Pin To Net: NetName=GND Pin=U2-T1
+Added Pin To Net: NetName=DDR3_RST# Pin=U2-T2
+Added Pin To Net: NetName=DDR3_A13 Pin=U2-T3
+Added Pin To Net: NetName=DDR3_A14 Pin=U2-T7
+Added Pin To Net: NetName=DDR3_A8 Pin=U2-T8
+Added Pin To Net: NetName=GND Pin=U2-T9
+Added Member To Class: ClassName=DDR3 Member=Component U2 MT41K256M16TW-107 IT:P
+Change Room Name: Old Name=BGA3 New Name=TESTPOINTS
+Change Room Scope: Old Scope=InComponentClass('Room Definition3') New Scope=InComponentClass('TESTPOINTS')
+Added Room: Name=AD9363
+Added Room: Name=AD9363 OSCILLATORS
+Added Room: Name=CONNECTORS_SELECTORS
+Added Room: Name=DDR3
+Added Room: Name=POWERMANAGE2
+Added Room: Name=POWERMANAGE
+Added Room: Name=POWERREG
+Added Room: Name=RF Frontend 2
+Added Room: Name=RF FRONTEND
+Added Room: Name=USB
+Added Room: Name=ZYNQ 34_35 and QPSI
+Added Room: Name=ZYNQ JTAG and Decoupling
