@@ -1,0 +1,40 @@
+Added Component: Designator=R142(2-0402)
+Add component (AddParameter): Name = "Code_IPC"; Value = "1005 [0402]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.panasonic.com/industrial/components/resistive_products.htm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.panasonic.com/industrial/components/pdf/AOA0000CE2.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "19-Mar-2004"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Silkscreen size reduced."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDocument"; Value = "Mar-2003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "2-0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "17-Dec-2003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=DDR3_CK_P Pin=R142-1
+Added Pin To Net: NetName=DDR3_CK_N Pin=R142-2
+Added Member To Class: ClassName=DDR3 Member=Component R142 80.6
+Added Member To Class: ClassName=DDR3 Member=Component U2 MT41K256M16TW-107 IT:P
+Added Member To Class: ClassName=AD9363 Member=Component U5 AD9363ABCZ
+Added Member To Class: ClassName=RF Member=Wire NetC130_2
+Added Member To Class: ClassName=RF Member=Wire NetC156_2
+Added Member To Class: ClassName=RF Member=Wire NetC175_1
+Added Member To Class: ClassName=RF Member=Wire NetC176_1
+Added Member To Class: ClassName=RF Member=Wire NetD3_1
+Added Member To Class: ClassName=RF Member=Wire NetD10_1
+Added Member To Class: ClassName=RF Member=Wire RX2A_N
+Added Member To Class: ClassName=RF Member=Wire RX2A_P
+Added Member To Class: ClassName=RF Member=Wire TX2A_N
+Added Member To Class: ClassName=RF Member=Wire TX2A_P
+Added Room: Name=AD9363
+Added Room: Name=AD9363 OSCILLATORS
+Added Room: Name=CONNECTORS_SELECTORS
+Added Room: Name=DDR3
+Added Room: Name=POWERMANAGE2
+Added Room: Name=POWERMANAGE
+Added Room: Name=POWERREG
+Added Room: Name=RF Frontend 2
+Added Room: Name=RF FRONTEND
+Added Room: Name=TESTPOINTS
+Added Room: Name=USB
+Added Room: Name=ZYNQ 34_35 and QPSI
+Added Room: Name=ZYNQ JTAG and Decoupling

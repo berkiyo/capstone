@@ -1,0 +1,17 @@
+Added Member To Class: ClassName=CONNECTORS_SELECTORS Member=Component L6 DLW21HN900SQ2L
+Added Member To Class: ClassName=USB Member=Component S1 PTS840 GKP SMTR LFS
+Added Member To Class: ClassName=DDR3 Member=Component U2 MT41K256M16TW-107 IT:P
+Added Member To Class: ClassName=POWERMANAGE2 Member=Component U11 ADM7160ACPZN3.3-R7
+Added Room: Name=AD9363
+Added Room: Name=AD9363 OSCILLATORS
+Added Room: Name=CONNECTORS_SELECTORS
+Added Room: Name=DDR3
+Added Room: Name=POWERMANAGE2
+Added Room: Name=POWERMANAGE
+Added Room: Name=POWERREG
+Added Room: Name=RF Frontend 2
+Added Room: Name=RF FRONTEND
+Added Room: Name=TESTPOINTS
+Added Room: Name=USB
+Added Room: Name=ZYNQ 34_35 and QPSI
+Added Room: Name=ZYNQ JTAG and Decoupling
