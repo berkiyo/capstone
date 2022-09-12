@@ -1,0 +1,19 @@
+Added Pin To Net: NetName=VIN Pin=C221-1
+Added Pin To Net: NetName=VIN Pin=C222-1
+Added Pin To Net: NetName=VIN Pin=C224-1
+Added Pin To Net: NetName=VIN Pin=C225-1
+Added Pin To Net: NetName=VIN Pin=L11-2
+Added Pin To Net: NetName=VIN Pin=L12-2
+Added Room: Name=AD9363
+Added Room: Name=AD9363 OSCILLATORS
+Added Room: Name=CONNECTORS_SELECTORS
+Added Room: Name=DDR3
+Added Room: Name=POWERMANAGE2
+Added Room: Name=POWERMANAGE
+Added Room: Name=POWERREG
+Added Room: Name=RF Frontend 2
+Added Room: Name=RF FRONTEND
+Added Room: Name=TESTPOINTS
+Added Room: Name=USB
+Added Room: Name=ZYNQ 34_35 and QPSI
+Added Room: Name=ZYNQ JTAG and Decoupling

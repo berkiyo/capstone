@@ -1,0 +1,39 @@
+Removed Pin From Net: NetName=NetC220_1 Pin=RX1A-1
+Removed Pin From Net: NetName=GND Pin=RX1A-5
+Removed Pin From Net: NetName=NetC233_2 Pin=TX1A-1
+Removed Pin From Net: NetName=GND Pin=TX1A-5
+Change Component Footprint: Designator=RX1A Old Footprint=FP-SMA-J-P-H-ST-EM1-MFG New Footprint=73251-1350
+Change Component Footprint: Designator=TX1A Old Footprint=FP-SMA-J-P-H-ST-EM1-MFG New Footprint=73251-1350
+Change Component Comment : Designator=RX1A Old Comment=SMA-J-P-H-ST-EM1 New Comment=73251-1350
+Change Component Comment : Designator=TX1A Old Comment=SMA-J-P-H-ST-EM1 New Comment=73251-1350
+Change Managed Component Library Link : Designator=RX1A Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=DFE65A0C-2B34-44E1-B0E0-7911B18F6473 New ItemGUID= Old RevisionGUID=AAF488E0-8D0E-437B-BE1D-597F17D5B88E New RevisionGUID=
+Change Managed Component Library Link : Designator=TX1A Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=DFE65A0C-2B34-44E1-B0E0-7911B18F6473 New ItemGUID= Old RevisionGUID=AAF488E0-8D0E-437B-BE1D-597F17D5B88E New RevisionGUID=
+Change component parameters: Designator = "RX1A" ("RX1A"); Footprint = "FP-SMA-J-P-H-ST-EM1-MFG"; UniqueID = "\BNXSFGQW" ("\BNXSFGQW")
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/a7fe410725d15196979040a6ba638a6a.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Molex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "73251-1350"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "TX1A" ("TX1A"); Footprint = "FP-SMA-J-P-H-ST-EM1-MFG"; UniqueID = "\VHCHQFOO" ("\VHCHQFOO")
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/a7fe410725d15196979040a6ba638a6a.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Molex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "73251-1350"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=RX1A-1
+Added Pin To Net: NetName=NetC220_1 Pin=RX1A-5
+Added Pin To Net: NetName=GND Pin=TX1A-1
+Added Pin To Net: NetName=NetC233_2 Pin=TX1A-5
+Added Room: Name=AD9363
+Added Room: Name=AD9363 OSCILLATORS
+Added Room: Name=CONNECTORS_SELECTORS
+Added Room: Name=DDR3
+Added Room: Name=POWERMANAGE2
+Added Room: Name=POWERMANAGE
+Added Room: Name=POWERREG
+Added Room: Name=RF Frontend 2
+Added Room: Name=RF FRONTEND
+Added Room: Name=TESTPOINTS
+Added Room: Name=USB
+Added Room: Name=ZYNQ 34_35 and QPSI
+Added Room: Name=ZYNQ JTAG and Decoupling
