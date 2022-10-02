@@ -1,36 +1,10 @@
 Protel Design System Design Rule Check
 PCB File : D:\EEET 2022\SEM 2\Capstone B\PlutoV2\capstone\PlutoV2_PCB.PcbDoc
-Date     : 26/09/2022
-Time     : 10:56:14 AM
+Date     : 1/10/2022
+Time     : 3:59:40 PM
 
 Processing Rule : Clearance Constraint (Gap=4mil) (All),(All)
-   Violation between Clearance Constraint: (3.506mil < 4mil) Between Pad C3-2(2650mil,-3110mil) on L10_BOTTOM And Track (2617.21mil,-3083.514mil)(2650mil,-3050.724mil) on L10_BOTTOM 
-   Violation between Clearance Constraint: (3.485mil < 4mil) Between Pad C78-1(1755.915mil,-1419.37mil) on L10_BOTTOM And Via (1777mil,-1405mil) from L1_TOP to L10_BOTTOM 
-   Violation between Clearance Constraint: (3.336mil < 4mil) Between Pad C91-2(1868.5mil,-2722.774mil) on L10_BOTTOM And Via (1848.126mil,-2712.374mil) from L1_TOP to L10_BOTTOM 
-   Violation between Clearance Constraint: (3.511mil < 4mil) Between Pad U2-K2(1747.496mil,-2595.484mil) on L1_TOP And Via (1732mil,-2579.5mil) from L1_TOP to L10_BOTTOM 
-   Violation between Clearance Constraint: (3.864mil < 4mil) Between Pad U2-K3(1716mil,-2595.484mil) on L1_TOP And Via (1732mil,-2579.5mil) from L1_TOP to L10_BOTTOM 
-   Violation between Clearance Constraint: (3.174mil < 4mil) Between Pad U2-L2(1747.496mil,-2563.988mil) on L1_TOP And Via (1732mil,-2579.5mil) from L1_TOP to L10_BOTTOM 
-   Violation between Clearance Constraint: (3.533mil < 4mil) Between Pad U2-L3(1716mil,-2563.988mil) on L1_TOP And Via (1732mil,-2579.5mil) from L1_TOP to L10_BOTTOM 
-   Violation between Clearance Constraint: (3.889mil < 4mil) Between Pad U2-L7(1590.016mil,-2563.988mil) on L1_TOP And Via (1574.5mil,-2547.5mil) from L1_TOP to L10_BOTTOM 
-   Violation between Clearance Constraint: (2.834mil < 4mil) Between Pad U2-M7(1590.016mil,-2532.492mil) on L1_TOP And Via (1574.5mil,-2547.5mil) from L1_TOP to L10_BOTTOM 
-   Violation between Clearance Constraint: (3.648mil < 4mil) Between Pad U5-H2(2748.504mil,-1520.984mil) on L1_TOP And Via (2734mil,-1507mil) from L1_TOP to L10_BOTTOM 
-   Violation between Clearance Constraint: (2.5mil < 4mil) Between Track (1542.932mil,-1455mil)(1635mil,-1455mil) on L10_BOTTOM And Via (1623mil,-1469mil) from L1_TOP to L10_BOTTOM 
-   Violation between Clearance Constraint: (3mil < 4mil) Between Track (1555.5mil,-1202mil)(1608mil,-1202mil) on L10_BOTTOM And Via (1591mil,-1216.5mil) from L1_TOP to L10_BOTTOM 
-   Violation between Clearance Constraint: (2.5mil < 4mil) Between Track (1671.5mil,-1474.23mil)(1671.5mil,-1453mil) on L8_PWR And Via (1685.5mil,-1469mil) from L1_TOP to L10_BOTTOM 
-   Violation between Clearance Constraint: (0.098mil < 4mil) Between Track (1671.5mil,-1474.23mil)(1687.291mil,-1490.021mil) on L8_PWR And Via (1685.5mil,-1469mil) from L1_TOP to L10_BOTTOM 
-   Violation between Clearance Constraint: (3.027mil < 4mil) Between Track (1783.944mil,-2704.5mil)(1815.5mil,-2704.5mil) on L10_BOTTOM And Via (1801.764mil,-2689.972mil) from L1_TOP to L10_BOTTOM 
-   Violation between Clearance Constraint: (2.764mil < 4mil) Between Track (1816mil,-2883.686mil)(1816mil,-2789.973mil) on L10_BOTTOM And Via (1801.736mil,-2815.957mil) from L1_TOP to L10_BOTTOM 
-   Violation between Clearance Constraint: (2.716mil < 4mil) Between Track (1816mil,-2883.686mil)(1816mil,-2789.973mil) on L10_BOTTOM And Via (1801.784mil,-2847.453mil) from L1_TOP to L10_BOTTOM 
-   Violation between Clearance Constraint: (2.527mil < 4mil) Between Track (1856.475mil,-1245.105mil)(1867.817mil,-1233.763mil) on L8_PWR And Via (1843mil,-1249mil) from L1_TOP to L10_BOTTOM 
-   Violation between Clearance Constraint: (1.975mil < 4mil) Between Track (1856.475mil,-1266.525mil)(1856.475mil,-1245.105mil) on L8_PWR And Via (1843mil,-1249mil) from L1_TOP to L10_BOTTOM 
-   Violation between Clearance Constraint: (3mil < 4mil) Between Track (1890mil,-1265.5mil)(1910.92mil,-1265.5mil) on L10_BOTTOM And Via (1906mil,-1280mil) from L1_TOP to L10_BOTTOM 
-   Violation between Clearance Constraint: (3mil < 4mil) Between Track (1898.58mil,-1294.5mil)(1928.718mil,-1294.5mil) on L10_BOTTOM And Via (1906mil,-1280mil) from L1_TOP to L10_BOTTOM 
-   Violation between Clearance Constraint: (3.812mil < 4mil) Between Track (1910.92mil,-1265.5mil)(1917.249mil,-1259.172mil) on L10_BOTTOM And Via (1906mil,-1280mil) from L1_TOP to L10_BOTTOM 
-   Violation between Clearance Constraint: (3mil < 4mil) Between Track (2116.433mil,-2779.5mil)(2255.055mil,-2779.5mil) on L1_TOP And Via (2228mil,-2795mil) from L1_TOP to L10_BOTTOM 
-   Violation between Clearance Constraint: (1.5mil < 4mil) Between Track (2814.5mil,-1569mil)(2814.5mil,-1461.5mil) on L10_BOTTOM And Via (2827.5mil,-1507mil) from L1_TOP to L10_BOTTOM 
-   Violation between Clearance Constraint: (1.5mil < 4mil) Between Track (2814.5mil,-1569mil)(2814.5mil,-1461.5mil) on L10_BOTTOM And Via (2827.5mil,-1537mil) from L1_TOP to L10_BOTTOM 
-   Violation between Clearance Constraint: (2mil < 4mil) Between Track (2814.5mil,-1569mil)(2814.5mil,-1461.5mil) on L10_BOTTOM And Via (2828mil,-1473mil) from L1_TOP to L10_BOTTOM 
-Rule Violations :26
+Rule Violations :0
 
 Processing Rule : Clearance Constraint (Gap=5mil) (WithinRoom('BGA') AND WithinRoom('BGA2')AND WithinRoom('BGA3')),(All)
 Rule Violations :0
@@ -40,8 +14,7 @@ Rule Violations :0
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
    Violation between Un-Routed Net Constraint: Polygon  (NONET_L03_P159) on L8_PWR Dead Copper - Net Not Assigned.
-   Violation between Un-Routed Net Constraint: Net GND Between Via (1801.772mil,-2752.965mil) from L1_TOP to L10_BOTTOM And Via (1802.276mil,-2784.461mil) from L1_TOP to L2_GND 
-Rule Violations :2
+Rule Violations :1
 
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
@@ -65,190 +38,31 @@ Processing Rule : Hole Size Constraint (Min=6mil) (Max=200mil) (All)
 Rule Violations :0
 
 Processing Rule : Hole To Hole Clearance (Gap=15mil) (All),(All)
-   Violation between Hole To Hole Clearance Constraint: (14mil < 15mil) Between Via (1024.577mil,-984.742mil) from L1_TOP to L10_BOTTOM And Via (1036.35mil,-1004.5mil) from L1_TOP to L10_BOTTOM 
-   Violation between Hole To Hole Clearance Constraint: (Collision < 15mil) Between Via (1031.512mil,-3340.512mil) from L1_TOP to L10_BOTTOM And Via (1031.512mil,-3340.512mil) from L8_PWR to L10_BOTTOM Pad/Via Touching Holes
-   Violation between Hole To Hole Clearance Constraint: (14mil < 15mil) Between Via (1036.35mil,-1004.5mil) from L1_TOP to L10_BOTTOM And Via (1036.5mil,-1027.5mil) from L1_TOP to L10_BOTTOM 
-   Violation between Hole To Hole Clearance Constraint: (Collision < 15mil) Between Via (1041mil,-949mil) from L1_TOP to L10_BOTTOM And Via (1041mil,-949mil) from L1_TOP to L8_PWR Pad/Via Touching Holes
-   Violation between Hole To Hole Clearance Constraint: (Collision < 15mil) Between Via (1146mil,-3425mil) from L1_TOP to L10_BOTTOM And Via (1146mil,-3425mil) from L8_PWR to L10_BOTTOM Pad/Via Touching Holes
-   Violation between Hole To Hole Clearance Constraint: (14.022mil < 15mil) Between Via (1191mil,-1313.5mil) from L1_TOP to L10_BOTTOM And Via (1214mil,-1314.5mil) from L1_TOP to L10_BOTTOM 
-   Violation between Hole To Hole Clearance Constraint: (Collision < 15mil) Between Via (1377mil,-2353.5mil) from L1_TOP to L10_BOTTOM And Via (1377mil,-2353.5mil) from L8_PWR to L10_BOTTOM Pad/Via Touching Holes
-   Violation between Hole To Hole Clearance Constraint: (14.005mil < 15mil) Between Via (1461.5mil,-2237.5mil) from L1_TOP to L10_BOTTOM And Via (1478.5mil,-2222mil) from L1_TOP to L10_BOTTOM 
-   Violation between Hole To Hole Clearance Constraint: (Collision < 15mil) Between Via (1482.5mil,-2365.5mil) from L1_TOP to L10_BOTTOM And Via (1482.5mil,-2365.5mil) from L8_PWR to L10_BOTTOM Pad/Via Touching Holes
-   Violation between Hole To Hole Clearance Constraint: (Collision < 15mil) Between Via (1485.5mil,-725mil) from L1_TOP to L10_BOTTOM And Via (1485.5mil,-725mil) from L1_TOP to L8_PWR Pad/Via Touching Holes
-   Violation between Hole To Hole Clearance Constraint: (Collision < 15mil) Between Via (1502.5mil,-2174mil) from L1_TOP to L10_BOTTOM And Via (1502.5mil,-2174mil) from L8_PWR to L10_BOTTOM Pad/Via Touching Holes
-   Violation between Hole To Hole Clearance Constraint: (14.648mil < 15mil) Between Via (1525mil,-2143mil) from L1_TOP to L10_BOTTOM And Via (1530.5mil,-2166mil) from L1_TOP to L10_BOTTOM 
-   Violation between Hole To Hole Clearance Constraint: (Collision < 15mil) Between Via (1584.5mil,-2086.5mil) from L1_TOP to L10_BOTTOM And Via (1584.5mil,-2086.5mil) from L8_PWR to L10_BOTTOM Pad/Via Touching Holes
-   Violation between Hole To Hole Clearance Constraint: (Collision < 15mil) Between Via (1584.5mil,-2110.5mil) from L1_TOP to L10_BOTTOM And Via (1584.5mil,-2110.5mil) from L8_PWR to L10_BOTTOM Pad/Via Touching Holes
-   Violation between Hole To Hole Clearance Constraint: (14.548mil < 15mil) Between Via (1606mil,-1039mil) from L1_TOP to L10_BOTTOM And Via (1629.5mil,-1037.5mil) from L1_TOP to L10_BOTTOM 
-   Violation between Hole To Hole Clearance Constraint: (Collision < 15mil) Between Via (1643.69mil,-2936mil) from L1_TOP to L10_BOTTOM And Via (1643.69mil,-2936mil) from L1_TOP to L8_PWR Pad/Via Touching Holes
-   Violation between Hole To Hole Clearance Constraint: (14.5mil < 15mil) Between Via (1682mil,-1039mil) from L1_TOP to L10_BOTTOM And Via (1705.5mil,-1039mil) from L1_TOP to L10_BOTTOM 
-   Violation between Hole To Hole Clearance Constraint: (Collision < 15mil) Between Via (1705.318mil,-2919.5mil) from L1_TOP to L10_BOTTOM And Via (1705.318mil,-2919.5mil) from L1_TOP to L8_PWR Pad/Via Touching Holes
-   Violation between Hole To Hole Clearance Constraint: (Collision < 15mil) Between Via (1716.5mil,-1218mil) from L1_TOP to L10_BOTTOM And Via (1716.5mil,-1218mil) from L8_PWR to L10_BOTTOM Pad/Via Touching Holes
-   Violation between Hole To Hole Clearance Constraint: (14.022mil < 15mil) Between Via (1745.5mil,-1035mil) from L1_TOP to L10_BOTTOM And Via (1768.5mil,-1034mil) from L1_TOP to L10_BOTTOM 
-   Violation between Hole To Hole Clearance Constraint: (Collision < 15mil) Between Via (1750mil,-1850.5mil) from L1_TOP to L10_BOTTOM And Via (1750mil,-1850.5mil) from L1_TOP to L8_PWR Pad/Via Touching Holes
-   Violation between Hole To Hole Clearance Constraint: (14.585mil < 15mil) Between Via (1768.5mil,-1034mil) from L1_TOP to L10_BOTTOM And Via (1792mil,-1036mil) from L1_TOP to L10_BOTTOM 
-   Violation between Hole To Hole Clearance Constraint: (Collision < 15mil) Between Via (1781.5mil,-1851mil) from L1_TOP to L10_BOTTOM And Via (1781.5mil,-1851mil) from L8_PWR to L10_BOTTOM Pad/Via Touching Holes
-   Violation between Hole To Hole Clearance Constraint: (Collision < 15mil) Between Via (1788.5mil,-1882mil) from L1_TOP to L10_BOTTOM And Via (1788.5mil,-1882mil) from L1_TOP to L8_PWR Pad/Via Touching Holes
-   Violation between Hole To Hole Clearance Constraint: (14mil < 15mil) Between Via (1848.126mil,-2712.374mil) from L1_TOP to L10_BOTTOM And Via (1849.034mil,-2735.356mil) from L1_TOP to L10_BOTTOM 
-   Violation between Hole To Hole Clearance Constraint: (13.89mil < 15mil) Between Via (1970.248mil,-1669.894mil) from L1_TOP to L10_BOTTOM And Via (1993mil,-1667.383mil) from L1_TOP to L10_BOTTOM 
-   Violation between Hole To Hole Clearance Constraint: (Collision < 15mil) Between Via (1979.726mil,-1925.274mil) from L1_TOP to L10_BOTTOM And Via (1979.726mil,-1925.274mil) from L1_TOP to L8_PWR Pad/Via Touching Holes
-   Violation between Hole To Hole Clearance Constraint: (Collision < 15mil) Between Via (1980.5mil,-1966mil) from L1_TOP to L10_BOTTOM And Via (1980.5mil,-1966mil) from L1_TOP to L8_PWR Pad/Via Touching Holes
-   Violation between Hole To Hole Clearance Constraint: (Collision < 15mil) Between Via (1980.5mil,-2213.5mil) from L1_TOP to L10_BOTTOM And Via (1980.5mil,-2213.5mil) from L1_TOP to L8_PWR Pad/Via Touching Holes
-   Violation between Hole To Hole Clearance Constraint: (Collision < 15mil) Between Via (1980mil,-1823mil) from L1_TOP to L10_BOTTOM And Via (1980mil,-1823mil) from L1_TOP to L8_PWR Pad/Via Touching Holes
-   Violation between Hole To Hole Clearance Constraint: (Collision < 15mil) Between Via (1980mil,-2174mil) from L1_TOP to L10_BOTTOM And Via (1980mil,-2174mil) from L1_TOP to L8_PWR Pad/Via Touching Holes
-   Violation between Hole To Hole Clearance Constraint: (Collision < 15mil) Between Via (1981.5mil,-2100mil) from L1_TOP to L10_BOTTOM And Via (1981.5mil,-2100mil) from L1_TOP to L8_PWR Pad/Via Touching Holes
-   Violation between Hole To Hole Clearance Constraint: (Collision < 15mil) Between Via (1981.984mil,-1891.516mil) from L1_TOP to L10_BOTTOM And Via (1981.984mil,-1891.516mil) from L1_TOP to L8_PWR Pad/Via Touching Holes
-   Violation between Hole To Hole Clearance Constraint: (Collision < 15mil) Between Via (1982.5mil,-2281.5mil) from L1_TOP to L10_BOTTOM And Via (1982.5mil,-2281.5mil) from L1_TOP to L8_PWR Pad/Via Touching Holes
-   Violation between Hole To Hole Clearance Constraint: (Collision < 15mil) Between Via (1982.742mil,-1857.758mil) from L1_TOP to L10_BOTTOM And Via (1982.742mil,-1857.758mil) from L1_TOP to L8_PWR Pad/Via Touching Holes
-   Violation between Hole To Hole Clearance Constraint: (14mil < 15mil) Between Via (1991.436mil,-1644.436mil) from L1_TOP to L10_BOTTOM And Via (1993mil,-1667.383mil) from L1_TOP to L10_BOTTOM 
-   Violation between Hole To Hole Clearance Constraint: (Collision < 15mil) Between Via (2018.5mil,-1233.5mil) from L1_TOP to L10_BOTTOM And Via (2018.5mil,-1233.5mil) from L1_TOP to L8_PWR Pad/Via Touching Holes
-   Violation between Hole To Hole Clearance Constraint: (Collision < 15mil) Between Via (2044mil,-1217.5mil) from L1_TOP to L10_BOTTOM And Via (2044mil,-1217.5mil) from L1_TOP to L8_PWR Pad/Via Touching Holes
-   Violation between Hole To Hole Clearance Constraint: (14.005mil < 15mil) Between Via (2141mil,-3408.5mil) from L1_TOP to L10_BOTTOM And Via (2164mil,-3409mil) from L1_TOP to L10_BOTTOM 
-   Violation between Hole To Hole Clearance Constraint: (14mil < 15mil) Between Via (2161.063mil,-3001.437mil) from L1_TOP to L10_BOTTOM And Via (2162.101mil,-3024.414mil) from L1_TOP to L10_BOTTOM 
-   Violation between Hole To Hole Clearance Constraint: (14.96mil < 15mil) Between Via (2162.101mil,-3024.414mil) from L1_TOP to L10_BOTTOM And Via (2171.114mil,-3046.614mil) from L1_TOP to L10_BOTTOM 
-   Violation between Hole To Hole Clearance Constraint: (Collision < 15mil) Between Via (2166.296mil,-3357.204mil) from L1_TOP to L10_BOTTOM And Via (2166.296mil,-3357.204mil) from L1_TOP to L8_PWR Pad/Via Touching Holes
-   Violation between Hole To Hole Clearance Constraint: (Collision < 15mil) Between Via (2171.204mil,-3097.796mil) from L1_TOP to L10_BOTTOM And Via (2171.204mil,-3097.796mil) from L1_TOP to L8_PWR Pad/Via Touching Holes
-   Violation between Hole To Hole Clearance Constraint: (Collision < 15mil) Between Via (2171.386mil,-3123.386mil) from L1_TOP to L10_BOTTOM And Via (2171.386mil,-3123.386mil) from L1_TOP to L8_PWR Pad/Via Touching Holes
-   Violation between Hole To Hole Clearance Constraint: (Collision < 15mil) Between Via (2212.166mil,-3149.666mil) from L1_TOP to L10_BOTTOM And Via (2212.166mil,-3149.666mil) from L1_TOP to L8_PWR Pad/Via Touching Holes
-   Violation between Hole To Hole Clearance Constraint: (Collision < 15mil) Between Via (2215.178mil,-1410.5mil) from L1_TOP to L10_BOTTOM And Via (2215.178mil,-1410.5mil) from L1_TOP to L8_PWR Pad/Via Touching Holes
-   Violation between Hole To Hole Clearance Constraint: (Collision < 15mil) Between Via (2236.614mil,-3482.114mil) from L1_TOP to L10_BOTTOM And Via (2236.614mil,-3482.114mil) from L1_TOP to L8_PWR Pad/Via Touching Holes
-   Violation between Hole To Hole Clearance Constraint: (Collision < 15mil) Between Via (2246.5mil,-1405.5mil) from L1_TOP to L10_BOTTOM And Via (2246.5mil,-1405.5mil) from L1_TOP to L8_PWR Pad/Via Touching Holes
-   Violation between Hole To Hole Clearance Constraint: (Collision < 15mil) Between Via (2278mil,-1398mil) from L1_TOP to L10_BOTTOM And Via (2278mil,-1398mil) from L1_TOP to L8_PWR Pad/Via Touching Holes
-   Violation between Hole To Hole Clearance Constraint: (14.158mil < 15mil) Between Via (2296.5mil,-2735.5mil) from L1_TOP to L10_BOTTOM And Via (2318.727mil,-2729mil) from L1_TOP to L10_BOTTOM 
-   Violation between Hole To Hole Clearance Constraint: (Collision < 15mil) Between Via (2297.796mil,-3197.204mil) from L1_TOP to L10_BOTTOM And Via (2297.796mil,-3197.204mil) from L1_TOP to L8_PWR Pad/Via Touching Holes
-   Violation between Hole To Hole Clearance Constraint: (Collision < 15mil) Between Via (2323.386mil,-3196.886mil) from L1_TOP to L10_BOTTOM And Via (2323.386mil,-3196.886mil) from L1_TOP to L8_PWR Pad/Via Touching Holes
-   Violation between Hole To Hole Clearance Constraint: (14.265mil < 15mil) Between Via (2357.5mil,-1414.5mil) from L1_TOP to L10_BOTTOM And Via (2380.5mil,-1411mil) from L1_TOP to L10_BOTTOM 
-   Violation between Hole To Hole Clearance Constraint: (Collision < 15mil) Between Via (2384.204mil,-3357.204mil) from L1_TOP to L10_BOTTOM And Via (2384.204mil,-3357.204mil) from L1_TOP to L8_PWR Pad/Via Touching Holes
-   Violation between Hole To Hole Clearance Constraint: (14.005mil < 15mil) Between Via (2404.5mil,-1411.5mil) from L1_TOP to L10_BOTTOM And Via (2427.5mil,-1411mil) from L1_TOP to L10_BOTTOM 
-   Violation between Hole To Hole Clearance Constraint: (14mil < 15mil) Between Via (2417mil,-1474.5mil) from L1_TOP to L10_BOTTOM And Via (2428.968mil,-1494.141mil) from L1_TOP to L10_BOTTOM 
-   Violation between Hole To Hole Clearance Constraint: (Collision < 15mil) Between Via (2461.45mil,-1505.5mil) from L1_TOP to L10_BOTTOM And Via (2461.45mil,-1505.5mil) from L1_TOP to L8_PWR Pad/Via Touching Holes
-   Violation between Hole To Hole Clearance Constraint: (Collision < 15mil) Between Via (2480mil,-3422mil) from L1_TOP to L10_BOTTOM And Via (2480mil,-3422mil) from L1_TOP to L8_PWR Pad/Via Touching Holes
-   Violation between Hole To Hole Clearance Constraint: (Collision < 15mil) Between Via (2550mil,-3146mil) from L1_TOP to L10_BOTTOM And Via (2550mil,-3146mil) from L1_TOP to L8_PWR Pad/Via Touching Holes
-   Violation between Hole To Hole Clearance Constraint: (Collision < 15mil) Between Via (2550mil,-3422mil) from L1_TOP to L10_BOTTOM And Via (2550mil,-3422mil) from L1_TOP to L8_PWR Pad/Via Touching Holes
-   Violation between Hole To Hole Clearance Constraint: (Collision < 15mil) Between Via (2576.012mil,-227.012mil) from L1_TOP to L10_BOTTOM And Via (2576.012mil,-227.012mil) from L1_TOP to L8_PWR Pad/Via Touching Holes
-   Violation between Hole To Hole Clearance Constraint: (Collision < 15mil) Between Via (2609.169mil,-425.669mil) from L1_TOP to L10_BOTTOM And Via (2609.169mil,-425.669mil) from L1_TOP to L8_PWR Pad/Via Touching Holes
-   Violation between Hole To Hole Clearance Constraint: (Collision < 15mil) Between Via (2650mil,-3151.5mil) from L1_TOP to L10_BOTTOM And Via (2650mil,-3151.5mil) from L1_TOP to L8_PWR Pad/Via Touching Holes
-   Violation between Hole To Hole Clearance Constraint: (Collision < 15mil) Between Via (2650mil,-3410.5mil) from L1_TOP to L10_BOTTOM And Via (2650mil,-3410.5mil) from L1_TOP to L8_PWR Pad/Via Touching Holes
-   Violation between Hole To Hole Clearance Constraint: (Collision < 15mil) Between Via (2730.686mil,-1591.228mil) from L1_TOP to L10_BOTTOM And Via (2730.686mil,-1591.228mil) from L1_TOP to L8_PWR Pad/Via Touching Holes
-   Violation between Hole To Hole Clearance Constraint: (Collision < 15mil) Between Via (2765mil,-3409.5mil) from L1_TOP to L10_BOTTOM And Via (2765mil,-3409.5mil) from L1_TOP to L8_PWR Pad/Via Touching Holes
-   Violation between Hole To Hole Clearance Constraint: (Collision < 15mil) Between Via (2809.5mil,-734.5mil) from L1_TOP to L10_BOTTOM And Via (2809.5mil,-734.5mil) from L1_TOP to L8_PWR Pad/Via Touching Holes
-   Violation between Hole To Hole Clearance Constraint: (14mil < 15mil) Between Via (2846.5mil,-2640mil) from L1_TOP to L10_BOTTOM And Via (2846.631mil,-2617mil) from L1_TOP to L10_BOTTOM 
-   Violation between Hole To Hole Clearance Constraint: (14.521mil < 15mil) Between Via (2924.5mil,-1609.5mil) from L1_TOP to L10_BOTTOM And Via (2925.5mil,-1633mil) from L1_TOP to L10_BOTTOM 
-   Violation between Hole To Hole Clearance Constraint: (14mil < 15mil) Between Via (2966.563mil,-1615.563mil) from L1_TOP to L10_BOTTOM And Via (2967.083mil,-1592.569mil) from L1_TOP to L10_BOTTOM 
-   Violation between Hole To Hole Clearance Constraint: (14.563mil < 15mil) Between Via (3015.437mil,-1417.437mil) from L1_TOP to L10_BOTTOM And Via (3015.5mil,-1441mil) from L1_TOP to L10_BOTTOM 
-   Violation between Hole To Hole Clearance Constraint: (Collision < 15mil) Between Via (3353mil,-213.5mil) from L1_TOP to L10_BOTTOM And Via (3353mil,-213.5mil) from L1_TOP to L8_PWR Pad/Via Touching Holes
-   Violation between Hole To Hole Clearance Constraint: (Collision < 15mil) Between Via (502mil,-2954.684mil) from L1_TOP to L10_BOTTOM And Via (502mil,-2954.684mil) from L1_TOP to L8_PWR Pad/Via Touching Holes
-   Violation between Hole To Hole Clearance Constraint: (14.071mil < 15mil) Between Via (525mil,-2969.5mil) from L1_TOP to L10_BOTTOM And Via (545mil,-2958mil) from L1_TOP to L10_BOTTOM 
-   Violation between Hole To Hole Clearance Constraint: (14.444mil < 15mil) Between Via (545mil,-2958mil) from L1_TOP to L10_BOTTOM And Via (564.528mil,-2970.972mil) from L1_TOP to L10_BOTTOM 
-   Violation between Hole To Hole Clearance Constraint: (Collision < 15mil) Between Via (623mil,-286.5mil) from L1_TOP to L10_BOTTOM And Via (623mil,-286.5mil) from L1_TOP to L8_PWR Pad/Via Touching Holes
-   Violation between Hole To Hole Clearance Constraint: (14mil < 15mil) Between Via (631.742mil,-1183.243mil) from L1_TOP to L10_BOTTOM And Via (632.109mil,-1160.245mil) from L1_TOP to L10_BOTTOM 
-   Violation between Hole To Hole Clearance Constraint: (14.5mil < 15mil) Between Via (766mil,-185mil) from L1_TOP to L10_BOTTOM And Via (789.5mil,-185mil) from L1_TOP to L10_BOTTOM 
-   Violation between Hole To Hole Clearance Constraint: (Collision < 15mil) Between Via (82.488mil,-1835.512mil) from L1_TOP to L10_BOTTOM And Via (82.488mil,-1835.512mil) from L1_TOP to L8_PWR Pad/Via Touching Holes
-   Violation between Hole To Hole Clearance Constraint: (14.013mil < 15mil) Between Via (865.486mil,-823.014mil) from L1_TOP to L10_BOTTOM And Via (888.476mil,-824.047mil) from L1_TOP to L10_BOTTOM 
-   Violation between Hole To Hole Clearance Constraint: (14mil < 15mil) Between Via (882.841mil,-1085.636mil) from L1_TOP to L10_BOTTOM And Via (904.842mil,-1092.342mil) from L1_TOP to L10_BOTTOM 
-   Violation between Hole To Hole Clearance Constraint: (Collision < 15mil) Between Via (915.5mil,-2331.5mil) from L1_TOP to L10_BOTTOM And Via (915.5mil,-2331.5mil) from L1_TOP to L8_PWR Pad/Via Touching Holes
-   Violation between Hole To Hole Clearance Constraint: (Collision < 15mil) Between Via (990mil,-3243.5mil) from L1_TOP to L10_BOTTOM And Via (990mil,-3243.5mil) from L8_PWR to L10_BOTTOM Pad/Via Touching Holes
-Rule Violations :83
+Rule Violations :0
 
 Processing Rule : Minimum Solder Mask Sliver (Gap=3mil) (All),(All)
-   Violation between Minimum Solder Mask Sliver Constraint: (0.663mil < 3mil) Between Pad C220-1(3341mil,-2747.292mil) on L1_TOP And Pad C220-2(3341mil,-2708.708mil) on L1_TOP [Top Solder] Mask Sliver [0.663mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.663mil < 3mil) Between Pad C221-1(3111mil,-2624.708mil) on L1_TOP And Pad C221-2(3111mil,-2663.292mil) on L1_TOP [Top Solder] Mask Sliver [0.663mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.663mil < 3mil) Between Pad C223-1(3375.5mil,-2462.792mil) on L1_TOP And Pad C223-2(3375.5mil,-2424.208mil) on L1_TOP [Top Solder] Mask Sliver [0.663mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.663mil < 3mil) Between Pad C224-1(3177.5mil,-2328.708mil) on L1_TOP And Pad C224-2(3177.5mil,-2367.292mil) on L1_TOP [Top Solder] Mask Sliver [0.663mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.663mil < 3mil) Between Pad C226-1(3152mil,-2043.792mil) on L1_TOP And Pad C226-2(3152mil,-2005.208mil) on L1_TOP [Top Solder] Mask Sliver [0.663mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.663mil < 3mil) Between Pad C227-1(3329mil,-933.292mil) on L1_TOP And Pad C227-2(3329mil,-894.708mil) on L1_TOP [Top Solder] Mask Sliver [0.663mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.663mil < 3mil) Between Pad C229-1(3620mil,-1110.708mil) on L1_TOP And Pad C229-2(3620mil,-1149.292mil) on L1_TOP [Top Solder] Mask Sliver [0.663mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.661mil < 3mil) Between Pad C235-1(3631mil,-1526.209mil) on L1_TOP And Pad C235-2(3631mil,-1564.791mil) on L1_TOP [Top Solder] Mask Sliver [0.661mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (1.844mil < 3mil) Between Pad P2-1(150.788mil,-1051.182mil) on L1_TOP And Pad P2-2(150.788mil,-1025.59mil) on L1_TOP [Top Solder] Mask Sliver [1.844mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (1.842mil < 3mil) Between Pad P2-2(150.788mil,-1025.59mil) on L1_TOP And Pad P2-3(150.788mil,-1000mil) on L1_TOP [Top Solder] Mask Sliver [1.842mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (1.842mil < 3mil) Between Pad P2-3(150.788mil,-1000mil) on L1_TOP And Pad P2-4(150.788mil,-974.41mil) on L1_TOP [Top Solder] Mask Sliver [1.842mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (1.844mil < 3mil) Between Pad P2-4(150.788mil,-974.41mil) on L1_TOP And Pad P2-5(150.788mil,-948.818mil) on L1_TOP [Top Solder] Mask Sliver [1.844mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (1.844mil < 3mil) Between Pad P3-1(150.788mil,-2605.011mil) on L1_TOP And Pad P3-2(150.788mil,-2579.419mil) on L1_TOP [Top Solder] Mask Sliver [1.844mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (1.842mil < 3mil) Between Pad P3-2(150.788mil,-2579.419mil) on L1_TOP And Pad P3-3(150.788mil,-2553.829mil) on L1_TOP [Top Solder] Mask Sliver [1.842mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (1.842mil < 3mil) Between Pad P3-3(150.788mil,-2553.829mil) on L1_TOP And Pad P3-4(150.788mil,-2528.239mil) on L1_TOP [Top Solder] Mask Sliver [1.842mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (1.844mil < 3mil) Between Pad P3-4(150.788mil,-2528.239mil) on L1_TOP And Pad P3-5(150.788mil,-2502.647mil) on L1_TOP [Top Solder] Mask Sliver [1.844mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (1.843mil < 3mil) Between Pad R73-1(185mil,-1862.598mil) on L1_TOP And Pad R73-2(185mil,-1900mil) on L1_TOP [Top Solder] Mask Sliver [1.843mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (1.841mil < 3mil) Between Pad R78-1(110mil,-1866.3mil) on L1_TOP And Pad R78-2(110mil,-1903.7mil) on L1_TOP [Top Solder] Mask Sliver [1.841mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (1.842mil < 3mil) Between Pad U10-1(794.41mil,-1495mil) on L1_TOP And Pad U10-2(820mil,-1495mil) on L1_TOP [Top Solder] Mask Sliver [1.842mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (1.842mil < 3mil) Between Pad U10-2(820mil,-1495mil) on L1_TOP And Pad U10-3(845.59mil,-1495mil) on L1_TOP [Top Solder] Mask Sliver [1.842mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (1.907mil < 3mil) Between Pad U14-1(2255.24mil,-2748.189mil) on L1_TOP And Pad U14-11(2296.578mil,-2779.685mil) on L1_TOP [Top Solder] Mask Sliver [1.907mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (1.907mil < 3mil) Between Pad U14-10(2337.916mil,-2748.189mil) on L1_TOP And Pad U14-11(2296.578mil,-2779.685mil) on L1_TOP [Top Solder] Mask Sliver [1.907mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (1.842mil < 3mil) Between Pad U14-11(2296.578mil,-2779.685mil) on L1_TOP And Pad U14-2(2255.24mil,-2763.937mil) on L1_TOP [Top Solder] Mask Sliver [1.842mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (1.842mil < 3mil) Between Pad U14-11(2296.578mil,-2779.685mil) on L1_TOP And Pad U14-3(2255.24mil,-2779.685mil) on L1_TOP [Top Solder] Mask Sliver [1.842mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (1.842mil < 3mil) Between Pad U14-11(2296.578mil,-2779.685mil) on L1_TOP And Pad U14-4(2255.24mil,-2795.433mil) on L1_TOP [Top Solder] Mask Sliver [1.842mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (1.907mil < 3mil) Between Pad U14-11(2296.578mil,-2779.685mil) on L1_TOP And Pad U14-5(2255.24mil,-2811.181mil) on L1_TOP [Top Solder] Mask Sliver [1.907mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (1.907mil < 3mil) Between Pad U14-11(2296.578mil,-2779.685mil) on L1_TOP And Pad U14-6(2337.916mil,-2811.181mil) on L1_TOP [Top Solder] Mask Sliver [1.907mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (1.842mil < 3mil) Between Pad U14-11(2296.578mil,-2779.685mil) on L1_TOP And Pad U14-7(2337.916mil,-2795.433mil) on L1_TOP [Top Solder] Mask Sliver [1.842mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (1.842mil < 3mil) Between Pad U14-11(2296.578mil,-2779.685mil) on L1_TOP And Pad U14-8(2337.916mil,-2779.685mil) on L1_TOP [Top Solder] Mask Sliver [1.842mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (1.842mil < 3mil) Between Pad U14-11(2296.578mil,-2779.685mil) on L1_TOP And Pad U14-9(2337.916mil,-2763.937mil) on L1_TOP [Top Solder] Mask Sliver [1.842mil]
-Rule Violations :30
+Rule Violations :0
 
-Processing Rule : Silk To Solder Mask (Clearance=4mil) (IsPad),(All)
-   Violation between Silk To Solder Mask Clearance Constraint: (2.364mil < 4mil) Between Arc (2239.491mil,-2738.346mil) on Top Overlay And Pad U14-1(2255.24mil,-2748.189mil) on L1_TOP [Top Overlay] to [Top Solder] clearance [2.364mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (3.938mil < 4mil) Between Arc (350mil,-1359.37mil) on Top Overlay And Pad F1-1(350mil,-1339.684mil) on L1_TOP [Top Overlay] to [Top Solder] clearance [3.938mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 4mil) Between Pad C100-1(1986.429mil,-3273mil) on L1_TOP And Text "1V35" (1941.018mil,-3292.995mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 4mil) Between Pad C190-1(914.937mil,-1459.5mil) on L1_TOP And Text "U10" (918.495mil,-1476.487mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (2.843mil < 4mil) Between Pad C215-1(1013mil,-1739.118mil) on L1_TOP And Text "C46" (1055.21mil,-1712.59mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [2.843mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 4mil) Between Pad C73-2(1999.748mil,-1022.5mil) on L1_TOP And Text "C192" (2123.515mil,-985.917mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 4mil) Between Pad E5-1(1276.562mil,-1678.066mil) on L10_BOTTOM And Text "C93" (1268.483mil,-1577.254mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (3.936mil < 4mil) Between Pad F1-1(350mil,-1339.684mil) on L1_TOP And Track (344.094mil,-1320mil)(355.906mil,-1320mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [3.936mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (3.938mil < 4mil) Between Pad F1-2(350mil,-1300.314mil) on L1_TOP And Track (344.094mil,-1320mil)(355.906mil,-1320mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [3.938mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (2.707mil < 4mil) Between Pad R119-1(1135.59mil,-584mil) on L1_TOP And Text "U13" (1160.013mil,-600.995mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [2.707mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 4mil) Between Pad R96-1(2550mil,-647.332mil) on L1_TOP And Text "R10" (2523.505mil,-624.513mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 4mil) Between Pad R96-2(2550mil,-702.452mil) on L1_TOP And Text "R10" (2523.505mil,-624.513mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 4mil) Between Pad U10-4(845.59mil,-1420.196mil) on L1_TOP And Text "C190" (891.419mil,-1405.631mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 4mil) Between Pad U10-5(794.41mil,-1420.196mil) on L1_TOP And Text "C190" (891.419mil,-1405.631mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (3.06mil < 4mil) Between Pad U6-1(440.5mil,-3025.67mil) on L1_TOP And Text "*" (387mil,-3040.827mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [3.059mil]
-Rule Violations :15
+Processing Rule : Silk To Solder Mask (Clearance=3mil) (IsPad),(All)
+Rule Violations :0
 
 Processing Rule : Silk to Silk (Clearance=10mil) (All),(All)
-   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Arc (1164.26mil,-1716.091mil) on Top Overlay And Text "MIO09" (1122.523mil,-1753.495mil) on Top Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Arc (1503.74mil,-525.866mil) on Top Overlay And Text "MIO10" (1506.189mil,-516.995mil) on Top Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (0.698mil < 10mil) Between Arc (1813.622mil,-520mil) on Top Overlay And Text "D10" (1725.013mil,-531.495mil) on Top Overlay Silk Text to Silk Clearance [0.698mil]
-   Violation between Silk To Silk Clearance Constraint: (9.308mil < 10mil) Between Text "*" (387mil,-3040.827mil) on Top Overlay And Track (431.5mil,-2991.068mil)(448.002mil,-2991.068mil) on Top Overlay Silk Text to Silk Clearance [9.308mil]
-   Violation between Silk To Silk Clearance Constraint: (6.677mil < 10mil) Between Text "*" (387mil,-3040.827mil) on Top Overlay And Track (431.5mil,-3007.57mil)(431.5mil,-2991.068mil) on Top Overlay Silk Text to Silk Clearance [6.677mil]
-   Violation between Silk To Silk Clearance Constraint: (6.025mil < 10mil) Between Text "1" (2479.41mil,-1577.48mil) on Bottom Overlay And Text "C118" (2483.316mil,-1620.995mil) on Bottom Overlay Silk Text to Silk Clearance [6.025mil]
-   Violation between Silk To Silk Clearance Constraint: (7.502mil < 10mil) Between Text "1V35" (1941.018mil,-3292.995mil) on Top Overlay And Track (2034.657mil,-3308.434mil)(2054.341mil,-3308.434mil) on Top Overlay Silk Text to Silk Clearance [7.502mil]
-   Violation between Silk To Silk Clearance Constraint: (7.308mil < 10mil) Between Text "C128" (2745.018mil,-1149.995mil) on Top Overlay And Track (2821.948mil,-1102.76mil)(2846.752mil,-1102.76mil) on Top Overlay Silk Text to Silk Clearance [7.308mil]
-   Violation between Silk To Silk Clearance Constraint: (6.321mil < 10mil) Between Text "C129" (3233.018mil,-1441.495mil) on Top Overlay And Track (3218.76mil,-1415.052mil)(3218.76mil,-1390.248mil) on Top Overlay Silk Text to Silk Clearance [6.321mil]
-   Violation between Silk To Silk Clearance Constraint: (9.396mil < 10mil) Between Text "C166" (2369.018mil,-964.995mil) on Top Overlay And Track (2438.144mil,-915.672mil)(2548.858mil,-915.672mil) on Top Overlay Silk Text to Silk Clearance [9.396mil]
-   Violation between Silk To Silk Clearance Constraint: (9.868mil < 10mil) Between Text "C178" (1262.518mil,-1697.995mil) on Top Overlay And Track (1246.15mil,-1679.87mil)(1246.15mil,-1601.13mil) on Top Overlay Silk Text to Silk Clearance [9.868mil]
-   Violation between Silk To Silk Clearance Constraint: (4.672mil < 10mil) Between Text "C178" (1262.518mil,-1697.995mil) on Top Overlay And Track (1295.929mil,-1653.397mil)(1335.299mil,-1653.397mil) on Top Overlay Silk Text to Silk Clearance [4.672mil]
-   Violation between Silk To Silk Clearance Constraint: (3.73mil < 10mil) Between Text "C180" (2625.995mil,-831.239mil) on Top Overlay And Text "R96" (2630.995mil,-707.545mil) on Top Overlay Silk Text to Silk Clearance [3.73mil]
-   Violation between Silk To Silk Clearance Constraint: (5.823mil < 10mil) Between Text "C186" (1003.982mil,-1577.145mil) on Top Overlay And Track (924.33mil,-1621.458mil)(965.67mil,-1621.458mil) on Top Overlay Silk Text to Silk Clearance [5.823mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "C188" (980.995mil,-1780.982mil) on Top Overlay And Track (924.33mil,-1669.882mil)(965.67mil,-1669.882mil) on Top Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "C190" (891.419mil,-1405.631mil) on Top Overlay And Text "U10" (918.495mil,-1476.487mil) on Top Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (9.088mil < 10mil) Between Text "C190" (891.419mil,-1405.631mil) on Top Overlay And Track (779.646mil,-1454.646mil)(860.354mil,-1454.646mil) on Top Overlay Silk Text to Silk Clearance [9.088mil]
-   Violation between Silk To Silk Clearance Constraint: (9.848mil < 10mil) Between Text "C190" (891.419mil,-1405.631mil) on Top Overlay And Track (779.646mil,-1460.552mil)(779.646mil,-1454.646mil) on Top Overlay Silk Text to Silk Clearance [9.848mil]
-   Violation between Silk To Silk Clearance Constraint: (8.422mil < 10mil) Between Text "C192" (2123.515mil,-985.917mil) on Top Overlay And Text "C73" (1943.847mil,-969.495mil) on Top Overlay Silk Text to Silk Clearance [8.422mil]
-   Violation between Silk To Silk Clearance Constraint: (3.309mil < 10mil) Between Text "C192" (2123.515mil,-985.917mil) on Top Overlay And Track (1964.316mil,-993.956mil)(2003.686mil,-993.956mil) on Top Overlay Silk Text to Silk Clearance [3.309mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "C215" (1087.495mil,-1825.482mil) on Top Overlay And Text "C46" (1055.21mil,-1712.59mil) on Top Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (9.994mil < 10mil) Between Text "C233" (3351.995mil,-1705.148mil) on Top Overlay And Track (3369.926mil,-1719.548mil)(3369.926mil,-1669.452mil) on Top Overlay Silk Text to Silk Clearance [9.994mil]
-   Violation between Silk To Silk Clearance Constraint: (4.04mil < 10mil) Between Text "L1" (2180.674mil,-1072.495mil) on Top Overlay And Track (2149.651mil,-1028.528mil)(2215.495mil,-1028.528mil) on Top Overlay Silk Text to Silk Clearance [4.04mil]
-   Violation between Silk To Silk Clearance Constraint: (5.962mil < 10mil) Between Text "L14" (3474.698mil,-1625.995mil) on Top Overlay And Track (3465.83mil,-1639.894mil)(3507.17mil,-1639.894mil) on Top Overlay Silk Text to Silk Clearance [5.962mil]
-   Violation between Silk To Silk Clearance Constraint: (8.702mil < 10mil) Between Text "R96" (2630.995mil,-707.545mil) on Top Overlay And Track (2647.634mil,-792.5mil)(2647.634mil,-618.3mil) on Top Overlay Silk Text to Silk Clearance [8.702mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "TCK" (1601.505mil,-283.653mil) on Bottom Overlay And Text "TDI" (1633.005mil,-227.821mil) on Bottom Overlay Silk Text to Silk Clearance [0mil]
-Rule Violations :26
+Rule Violations :0
 
 Processing Rule : Net Antennae (Tolerance=0mil) (All)
-   Violation between Net Antennae: Via (1802.276mil,-2784.461mil) from L1_TOP to L2_GND 
-   Violation between Net Antennae: Via (194.682mil,-2498.818mil) from L1_TOP to L10_BOTTOM 
-   Violation between Net Antennae: Via (2171.204mil,-3097.796mil) from L1_TOP to L8_PWR 
-   Violation between Net Antennae: Via (2171.386mil,-3123.386mil) from L1_TOP to L8_PWR 
-   Violation between Net Antennae: Via (2212.166mil,-3149.666mil) from L1_TOP to L8_PWR 
-   Violation between Net Antennae: Via (2439.5mil,-1899mil) from L1_TOP to L10_BOTTOM 
-   Violation between Net Antennae: Via (254.252mil,-2690.748mil) from L1_TOP to L10_BOTTOM 
-   Violation between Net Antennae: Via (2763.5mil,-1442mil) from L1_TOP to L10_BOTTOM 
-   Violation between Net Antennae: Via (2859.5mil,-1285.5mil) from L1_TOP to L2_GND 
-   Violation between Net Antennae: Via (2924.5mil,-1609.5mil) from L1_TOP to L10_BOTTOM 
-   Violation between Net Antennae: Via (3686.5mil,-868mil) from L1_TOP to L10_BOTTOM 
-   Violation between Net Antennae: Via (3687mil,-899.5mil) from L1_TOP to L10_BOTTOM 
-Rule Violations :12
+Rule Violations :0
+
+Processing Rule : Return Path Constraints (Gap =0mil) (OnLayer('L1_TOP')AND OnLayer('L10_BOTTOM'))
+Rule Violations :0
 
 Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
 Rule Violations :0
 
+Waived Violations Of Rule : Silk To Solder Mask (Clearance=3mil) (IsPad),(All)
+   Waived Violation between Silk To Solder Mask Clearance Constraint: (2.364mil < 3mil) Between Arc (2239.491mil,-2738.346mil) on Top Overlay And Pad U14-1(2255.24mil,-2748.189mil) on L1_TOP [Top Overlay] to [Top Solder] clearance [2.364mil]Waived by Rinaldo Pender at 1/10/2022 3:51:44 PMUneditable footprint
+Waived Violations :1
 
-Violations Detected : 194
-Waived Violations : 0
-Time Elapsed        : 00:00:04
+
+Violations Detected : 1
+Waived Violations : 1
+Time Elapsed        : 00:00:05

@@ -1,0 +1,73 @@
+Protel Design System Design Rule Check
+PCB File : D:\EEET 2022\SEM 2\Capstone B\PlutoV2\capstone\PlutoV2_PCB2.PcbDoc
+Date     : 3/10/2022
+Time     : 10:44:18 AM
+
+Processing Rule : Clearance Constraint (Gap=4mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=5mil) (WithinRoom('BGA') AND WithinRoom('BGA2')AND WithinRoom('BGA3')),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=10.197mil) (Max=43.085mil) (Preferred=43.085mil) (InNetClass('RF'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=20mil) (Max=30mil) (Preferred=20mil) (InNet('GND'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=4mil) (Max=100mil) (Preferred=20mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=3mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=6mil) (Max=200mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=15mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=3mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=3mil) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+   Violation between Net Antennae: Via (1911mil,-945.5mil) from L1_TOP to L10_BOTTOM 
+   Violation between Net Antennae: Via (208.182mil,-2501.503mil) from L1_TOP to L10_BOTTOM 
+   Violation between Net Antennae: Via (2461.93mil,-843.93mil) from L1_TOP to L10_BOTTOM 
+   Violation between Net Antennae: Via (2692.059mil,-1827.559mil) from L1_TOP to L10_BOTTOM 
+   Violation between Net Antennae: Via (2883.5mil,-1883.5mil) from L1_TOP to L10_BOTTOM 
+   Violation between Net Antennae: Via (766mil,-185mil) from L1_TOP to L10_BOTTOM 
+Rule Violations :6
+
+Processing Rule : Return Path Constraints (Gap =0mil) (OnLayer('L1_TOP')AND OnLayer('L10_BOTTOM'))
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+Waived Violations Of Rule : Silk To Solder Mask (Clearance=3mil) (IsPad),(All)
+   Waived Violation between Silk To Solder Mask Clearance Constraint: (2.364mil < 3mil) Between Arc (2239.491mil,-2738.346mil) on Top Overlay And Pad U14-1(2255.24mil,-2748.189mil) on L1_TOP [Top Overlay] to [Top Solder] clearance [2.364mil]Waived by Rinaldo Pender at 1/10/2022 3:51:44 PMUneditable footprint
+Waived Violations :1
+
+
+Violations Detected : 6
+Waived Violations : 1
+Time Elapsed        : 00:00:05
